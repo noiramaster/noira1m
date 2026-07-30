@@ -1,0 +1,30 @@
+{
+  "_comment": "NOIRA1M - Autonomous Agent Configuration",
+  "version": "1.0.0",
+  "agent": {
+    "loop_interval_seconds": 30,
+    "max_daily_trades": 50,
+    "max_risk_per_trade_pct": 5,
+    "stop_loss_total_pct": 30,
+    "min_balance_to_trade": 10
+  },
+  "modules": {
+    "trading": { "enabled": true, "interval_minutes": 15 },
+    "airdrops": { "enabled": true, "interval_minutes": 60 },
+    "faucets": { "enabled": true, "interval_minutes": 30 },
+    "freelance": { "enabled": false, "interval_minutes": 120 }
+  },
+  "dashboard": {
+    "host": "127.0.0.1",
+    "port": 3001,
+    "auto_open": true
+  },
+  "api_keys": {
+    "gemini": "",
+    "supabase_url": "",
+    "supabase_key": "",
+    "bybit_api_key": "",
+    "bybit_api_secret": "",
+    "exchange": "bybit"
+  }
+}

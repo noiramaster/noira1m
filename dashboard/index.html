@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NOIRA1M — Autonomous Agent</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Segoe UI','SF Mono',monospace;background:#0a0a0f;color:#e0e0e0;overflow-x:hidden}
+.dashboard{max-width:1400px;margin:0 auto;padding:20px}
+.header{display:flex;justify-content:space-between;align-items:center;padding:15px 0;border-bottom:1px solid #1a1a2e;margin-bottom:20px}
+.header h1{font-size:20px;font-weight:700;background:linear-gradient(90deg,#00f5ff,#7b2ff7);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.header .status{display:flex;align-items:center;gap:8px;font-size:13px}
+.status-dot{width:8px;height:8px;border-radius:50%;display:inline-block}
+.status-dot.online{background:#00ff88;box-shadow:0 0 10px #00ff8866;animation:pulse 2s infinite}
+.status-dot.offline{background:#ff4444}
+@keyframes pulse{0%{opacity:1}50%{opacity:0.5}100%{opacity:1}}
+.header .time{color:#666;font-size:12px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:15px;margin-bottom:20px}
+.card{background:#111122;border:1px solid #1a1a2e;border-radius:12px;padding:20px;transition:border-color 0.3s}
+.card:hover{border-color:#2a2a4e}
+.card .label{font-size:11px;color:#666;text-transform:uppercase;letter-spacing:1px;margin-bottom:8px}
+.card .value{font-size:28px;font-weight:700;font-variant-numeric:tabular-nums}
+.card .sub{font-size:12px;color:#888;margin-top:4px}
+.value.green{color:#00ff88}
+.value.red{color:#ff4466}
+.value.blue{color:#00ccff}
+.value.purple{color:#b388ff}
+.value.yellow{color:#ffd54f}
+.section-title{font-size:14px;color:#888;margin:25px 0 10px;text-transform:uppercase;letter-spacing:1px}
+.table-wrap{background:#111122;border:1px solid #1a1a2e;border-radius:12px;overflow:hidden}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;padding:12px 16px;background:#0d0d1a;color:#666;font-size:11px;text-transform:uppercase;letter-spacing:1px;border-bottom:1px solid #1a1a2e}
+td{padding:10px 16px;border-bottom:1px solid #0d0d1a;font-variant-numeric:tabular-nums}
+tr:hover{background:#15152a}
+.tag{display:inline-block;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600}
+.tag.buy{background:#00ff8822;color:#00ff88}
+.tag.sell{background:#ff446622;color:#ff4466}
+.tag.neutral{background:#66666622;color:#888}
+.log-area{background:#050510;border:1px solid #1a1a2e;border-radius:12px;padding:15px;font-family:'SF Mono',monospace;font-size:12px;max-height:200px;overflow-y:auto;margin-top:15px}
+.log-entry{padding:3px 0;color:#666;border-bottom:1px solid #0a0a15}
+.log-entry .ts{color:#444;margin-right:10px}
+.log-entry .msg{color:#aaa}
+.airdrops-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:10px;margin-top:10px}
+.airdrop-card{background:#111122;border:1px solid #1a1a2e;border-radius:8px;padding:12px;font-size:12px}
+.airdrop-card .title{color:#b388ff;font-weight:600;margin-bottom:4px}
+.airdrop-card .desc{color:#888;font-size:11px}
+.airdrop-card .source{color:#666;font-size:10px;margin-top:4px}
+</style>
+</head>
+<body>
+<div class="dashboard">
+  <div class="header">
+    <div>
+      <h1>⬡ NOIRA1M</h1>
+      <div style="font-size:11px;color:#444;margin-top:2px">Autonomous Agent v1.0</div>
+    </div>
+    <div class="status">
+      <span class="status-dot online" id="statusDot"></span>
+      <span id="statusText">ONLINE</span>
+      <span class="time" id="clock"></span>
+    </div>
+  </div>
+
+  <div class="grid" id="statsGrid">
+    <div class="card"><div class="label">Balance</div><div class="value green" id="balance">$0.00</div><div class="sub">Total accumulated</div></div>
+    <div class="card"><div class="label">Win Rate</div><div class="value blue" id="winRate">0%</div><div class="sub"><span id="wins">0</span>W / <span id="losses">0</span>L</div></div>
+    <div class="card"><div class="label">Trades</div><div class="value purple" id="totalTrades">0</div><div class="sub"><span id="signalsHour">0</span> in last hour</div></div>
+    <div class="card"><div class="label">Airdrops</div><div class="value yellow" id="airdropsFound">0</div><div class="sub"><span id="faucetsClaimed">0</span> faucets claimed</div></div>
+  </div>
+
+  <div class="section-title">Live Trading Signals</div>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Coin</th><th>Signal</th><th>Confidence</th><th>RSI</th><th>MACD</th><th>SMA</th><th>Price</th><th>Time</th></tr></thead>
+      <tbody id="signalsBody"><tr><td colspan="8" style="text-align:center;color:#444;padding:30px">Waiting for signals...</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="section-title">Airdrops & Opportunities</div>
+  <div class="airdrops-grid" id="airdropsContainer">
+    <div style="color:#444;padding:10px;font-size:13px">Scanning for opportunities...</div>
+  </div>
+
+  <div class="section-title">Agent Log</div>
+  <div class="log-area" id="logArea">
+    <div class="log-entry"><span class="ts">[--:--:--]</span><span class="msg">NOIRA1M agent initialized</span></div>
+  </div>
+</div>
+
+<script>
+const ws = new WebSocket(`ws://${location.host}/ws`);
+ws.onmessage = (e) => {
+  const data = JSON.parse(e.data);
+  updateStats(data);
+};
+
+function updateStats(d) {
+  document.getElementById('balance').textContent = '$' + d.balance.toFixed(2);
+  document.getElementById('winRate').textContent = d.win_rate;
+  document.getElementById('wins').textContent = d.wins;
+  document.getElementById('losses').textContent = d.losses;
+  document.getElementById('totalTrades').textContent = d.total_trades;
+  document.getElementById('signalsHour').textContent = d.signals_last_hour;
+  document.getElementById('airdropsFound').textContent = d.airdrops_found;
+  document.getElementById('faucetsClaimed').textContent = d.faucets_claimed;
+  document.getElementById('clock').textContent = new Date().toLocaleTimeString('es-ES', {hour12:false});
+}
+
+async function fetchSignals() {
+  try {
+    const r = await fetch('/api/signals');
+    const signals = await r.json();
+    const tbody = document.getElementById('signalsBody');
+    if (signals.length === 0) {
+      tbody.innerHTML = '<tr><td colspan="8" style="text-align:center;color:#444;padding:20px">No signals yet</td></tr>';
+      return;
+    }
+    tbody.innerHTML = signals.slice(0,20).map(s => {
+      const st = s.signal_type || 'neutral';
+      return `<tr>
+        <td><strong>${s.symbol || s.name || '?'}</strong></td>
+        <td><span class="tag ${st}">${st.toUpperCase()}</span></td>
+        <td>${s.confidence || '—'}%</td>
+        <td>${s.rsi || '—'}</td>
+        <td>${s.macd_bullish ? '✅' : '❌'}</td>
+        <td>${s.sma_bullish ? '✅' : '❌'}</td>
+        <td>$${(s.price || 0).toLocaleString()}</td>
+        <td style="color:#666;font-size:11px">${s.time ? new Date(s.time).toLocaleTimeString('es-ES',{hour12:false}) : '—'}</td>
+      </tr>`;
+    }).join('');
+  } catch(e) {}
+}
+
+async function fetchAirdrops() {
+  try {
+    const r = await fetch('/api/airdrops');
+    const ads = await r.json();
+    const container = document.getElementById('airdropsContainer');
+    if (ads.length === 0) {
+      container.innerHTML = '<div style="color:#444;padding:10px;font-size:13px">No airdrops found yet</div>';
+      return;
+    }
+    container.innerHTML = ads.slice(0,12).map(a => `
+      <div class="airdrop-card">
+        <div class="title">${a.title || 'Unknown'}</div>
+        <div class="desc">${(a.description || a.source || '').slice(0,120)}</div>
+        <div class="source">${a.source} · ${a.found_at ? new Date(a.found_at).toLocaleString() : ''}</div>
+      </div>
+    `).join('');
+  } catch(e) {}
+}
+
+async function fetchErrors() {
+  try {
+    const r = await fetch('/api/errors');
+    const errors = await r.json();
+    const logArea = document.getElementById('logArea');
+    if (errors.length > 0) {
+      const html = errors.slice(-20).reverse().map(e =>
+        `<div class="log-entry"><span class="ts">[${new Date(e.time).toLocaleTimeString('es-ES',{hour12:false})}]</span><span class="msg" style="color:#ff6">${e.msg}</span></div>`
+      ).join('');
+      logArea.innerHTML = html + logArea.innerHTML;
+    }
+  } catch(e) {}
+}
+
+setInterval(fetchSignals, 3000);
+setInterval(fetchAirdrops, 10000);
+setInterval(fetchErrors, 5000);
+fetchSignals(); fetchAirdrops(); fetchErrors();
+</script>
+</body>
+</html>
