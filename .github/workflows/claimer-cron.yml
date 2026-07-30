@@ -1,0 +1,36 @@
+name: NOIRA1M Claimer
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  claim-faucets:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install chromium
+
+      - name: Run Playwright claimer
+        run: python -c "from modules.claim_agent import run; results=run(); [print(f'{r[\"faucet\"]}: {r[\"status\"]}') for r in results]"
+
+      - name: Commit claimer state
+        run: |
+          git config user.name "noira1m-bot"
+          git config user.email "bot@noira1m.ai"
+          git add data/playwright_claims.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: claimer heartbeat [skip ci]"
+          git push origin master || echo "No changes"
