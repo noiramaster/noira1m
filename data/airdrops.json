@@ -1,6 +1,16 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
+    "url": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral",
+    "url": "https://cointelegraph.com/news/bybit-tokenized-stocks-collateral-margin-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "US Treasury yields rise as TIPS challenge the inflation narrative",
     "url": "https://cointelegraph.com/markets/us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -15,9 +25,9 @@
     "url": "https://cointelegraph.com/news/crypto-forensics-firm-launches-ai-tracing-service-track-your-stolen-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "BIS Project Agor\u00e1 settles $1 million in tokenized cross-border payment trials",
-    "url": "https://cointelegraph.com/news/bis-project-agor-tokenized-cross-border-payment-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "UNI Just Hit a 6-Month High as Uniswap Rolls Out New Token Discovery Tab",
+    "url": "https://cryptopotato.com/uni-just-hit-a-6-month-high-as-uniswap-rolls-out-new-token-discovery-tab/"
   },
   {
     "source": "CryptoPotato",
@@ -30,8 +40,13 @@
     "url": "https://cryptoslate.com/biotech-company-asks-shareholders-to-dilute-stock-by-951-to-hoard-illiquid-crypto-token-instead-of-funding-its-own-drug/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "As Ethereum turns 11 years old it hosts $148B in stablecoins, but daily mainnet revenue just fell to $330k",
-    "url": "https://cryptoslate.com/as-ethereum-turns-11-years-old-it-hosts-148b-in-stablecoins-but-daily-mainnet-revenue-just-fell-to-330k/"
+    "source": "NewsBTC",
+    "title": "NEAR Adds Staking-Based Payments For AI Compute Credits",
+    "url": "https://www.newsbtc.com/news/near-adds-staking-based-payments-for-ai-compute-credits/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Kansai Electric Rewards App Opens JPYC Stablecoin Conversion On Polygon",
+    "url": "https://www.newsbtc.com/news/kansai-electric-rewards-app-opens-jpyc-stablecoin-conversion-on-polygon/"
   }
 ]
