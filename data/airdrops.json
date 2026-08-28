@@ -1,6 +1,16 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "ENA token rises 10% as Ethena puts revenue-funded token buybacks to vote",
+    "url": "https://cointelegraph.com/markets/ena-rises-10-ethena-token-buyback-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "The Sandbox pledges 1:1 repayment after $700K bridge exploit",
+    "url": "https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X",
     "url": "https://cointelegraph.com/news/mirae-asset-lays-out-crypto-stablecoin-and-tokenization-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -20,18 +30,13 @@
     "url": "https://cryptopotato.com/this-is-why-arthur-hayes-thinks-ai-agents-need-their-own-money/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Ripple (XRP) Makes Major Wall Street Push With New Institutional Trading Business",
-    "url": "https://cryptopotato.com/ripple-xrp-makes-major-wall-street-push-with-new-institutional-trading-business/"
+    "source": "CryptoSlate",
+    "title": "Crypto startups have 54 days left to shape the SEC\u2019s proposed $75 million fundraising cap",
+    "url": "https://cryptoslate.com/secs-75-million-crypto-proposal-has-31-comments-and-54-days-left-to-reshape-it/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Top Ethereum Price Predictions as ETH Rises Above $2,500",
-    "url": "https://cryptopotato.com/top-ethereum-price-predictions-as-eth-rises-above-2500/"
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "The Agentic Economy Takes Center Stage at Sui Basecamp 2026 in Singapore",
-    "url": "https://cryptopotato.com/the-agentic-economy-takes-center-stage-at-sui-basecamp-2026-in-singapore/"
+    "source": "CryptoSlate",
+    "title": "Ethereum and Solana are hosting trillions in dollar volume, yet their native tokens risk losing direct consumer demand",
+    "url": "https://cryptoslate.com/stablecoin-apps-can-hide-ethereum-and-solana-but-they-cannot-erase-the-gas-bill/"
   }
 ]
