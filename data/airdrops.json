@@ -1,6 +1,11 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "Binance expands TradFi push with options on 1,000 US stocks, ETFs",
+    "url": "https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
     "url": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -13,16 +18,6 @@
     "source": "CoinTelegraph",
     "title": "Ethena launches USDe payments app, offers 6% rewards",
     "url": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Asia sees digital asset custody infrastructure deals from Ripple, Coincheck",
-    "url": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Kast launches stablecoin-powered business platform after $80M raise",
-    "url": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
@@ -53,6 +48,11 @@
     "source": "CryptoSlate",
     "title": "2 Trillion Tokens in 7 Days: B.AI Sparks Developer Frenzy With Accessible Compute",
     "url": "https://cryptoslate.com/2-trillion-tokens-in-7-days-b-ai-sparks-developer-frenzy-with-accessible-compute/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Fed Research Compares Wholesale CBDC Settlement With Tokenized Deposits",
+    "url": "https://www.newsbtc.com/news/fed-research-wholesale-cbdc-tokenized-deposits/"
   },
   {
     "source": "NewsBTC",
