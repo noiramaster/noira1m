@@ -1,6 +1,21 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
+    "url": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
+    "url": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Ethena launches USDe payments app, offers 6% rewards",
+    "url": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Asia sees digital asset custody infrastructure deals from Ripple, Coincheck",
     "url": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -10,38 +25,38 @@
     "url": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT",
-    "url": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
-    "url": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Trump Jr.-linked 1789 Capital leads Polymarket\u2019s $1B raise: Report",
-    "url": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "Arbitrum (ARB) Pumps 27% Daily: The Start of a Bigger Move?",
+    "url": "https://cryptopotato.com/arbitrum-arb-pumps-27-daily-the-start-of-a-bigger-move/"
   },
   {
     "source": "CryptoPotato",
-    "title": "Frogbet Launches Crypto Casino With 70 In- House Original Games, Instant Withdrawals and a $10,000 Weekly Race",
-    "url": "https://cryptopotato.com/frogbet-launches-crypto-casino-with-70-in-house-original-games-instant-withdrawals-and-a-10000-weekly-race/"
+    "title": "Ethena Expands Ecosystem With Launch of Self-Custodial Money App",
+    "url": "https://cryptopotato.com/ethena-expands-ecosystem-with-launch-of-self-custodial-money-app/"
   },
   {
     "source": "CryptoPotato",
-    "title": "Largest XRP ETF Crosses $500 Million in Assets Just 9 Months After Launch",
-    "url": "https://cryptopotato.com/largest-xrp-etf-crosses-500-million-in-assets-just-9-months-after-launch/"
+    "title": "New Important Ripple (XRP) Partnership Targets Banks and Institutional Clients",
+    "url": "https://cryptopotato.com/new-important-ripple-xrp-partnership-targets-banks-and-institutional-clients/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Aster and World Liberty Financial Launch USD1 RWA Boost: Phase 1, Offering 125M $WLFI + 6.25M USD1 in Rewards",
+    "url": "https://cryptopotato.com/aster-and-world-liberty-financial-launch-usd1-rwa-boost-phase-1-offering-125m-wlfi-6-25m-usd1-in-rewards/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Alkemya Metacore Secures $50M via Tokenised Equity to Scale Nickel Energy and Security Tech",
+    "url": "https://cryptopotato.com/alkemya-metacore-secures-50m-via-tokenised-equity-to-scale-nickel-energy-and-security-tech/"
   },
   {
     "source": "CryptoSlate",
-    "title": "How Saylor\u2019s $2 billion capital loop is quietly rewriting the rules of Bitcoin ownership",
-    "url": "https://cryptoslate.com/how-saylors-2-billion-capital-loop-is-quietly-rewriting-the-rules-of-bitcoin-ownership/"
+    "title": "2 Trillion Tokens in 7 Days: B.AI Sparks Developer Frenzy With Accessible Compute",
+    "url": "https://cryptoslate.com/2-trillion-tokens-in-7-days-b-ai-sparks-developer-frenzy-with-accessible-compute/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Phemex puts 82 tokens on notice over liquidity and project compliance concerns",
-    "url": "https://cryptoslate.com/phemex-puts-82-tokens-on-notice-over-liquidity-and-project-compliance-concerns/"
+    "source": "NewsBTC",
+    "title": "Tokenized Real-World Assets Reach Monthly High As Collateral Demand Grows",
+    "url": "https://www.newsbtc.com/news/tokenized-real-world-assets-monthly-high-collateral-demand/"
   }
 ]
