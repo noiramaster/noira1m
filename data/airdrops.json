@@ -1,6 +1,21 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "Asia sees digital asset custody infrastructure deals from Ripple, Coincheck",
+    "url": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Kast launches stablecoin-powered business platform after $80M raise",
+    "url": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT",
+    "url": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
     "url": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -28,10 +43,5 @@
     "source": "CryptoSlate",
     "title": "Phemex puts 82 tokens on notice over liquidity and project compliance concerns",
     "url": "https://cryptoslate.com/phemex-puts-82-tokens-on-notice-over-liquidity-and-project-compliance-concerns/"
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitcoin gains 24% as CryptoSlate price prediction model maps a volatile September",
-    "url": "https://cryptoslate.com/bitcoin-gains-24-as-cryptoslate-price-prediction-model-maps-a-volatile-september/"
   }
 ]
