@@ -1,6 +1,21 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
+    "url": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Mantle adds Paxos\u2019 USDG stablecoin, joins Global Dollar Network",
+    "url": "https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Bitcoin reclaims $80K as DXY falls amid continuing suspected yen intervention",
+    "url": "https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Bybit Pay integrates with Mesh to expand crypto payments",
     "url": "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -8,11 +23,6 @@
     "source": "CoinTelegraph",
     "title": "VARA, Securitize sign MoU for tokenization innovation in Dubai",
     "url": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Standard Chartered launches spot Bitcoin and Ether trading in UAE",
-    "url": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
@@ -30,11 +40,6 @@
     "url": "https://cryptoslate.com/hyperliquid-treasury-company-increases-token-buying-strategy-to-2-5-billion-as-shares-run-out/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Robinhood put stocks on a permissionless blockchain- memecoin traders are stress-testing what happens next",
-    "url": "https://cryptoslate.com/robinhood-put-stocks-on-a-permissionless-blockchain-memecoin-traders-are-stress-testing-what-happens-next/"
-  },
-  {
     "source": "NewsBTC",
     "title": "CFTC Advisory Sets Expectations For Tokenized Collateral At Clearinghouses",
     "url": "https://www.newsbtc.com/news/cftc-advisory-sets-expectations-for-tokenized-collateral-at-clearinghouses/"
@@ -43,10 +48,5 @@
     "source": "NewsBTC",
     "title": "BitGo Brings Gold, Real Estate And Fine Art Tokenization To Core Chain",
     "url": "https://www.newsbtc.com/news/bitgo-brings-gold-real-estate-and-fine-art-tokenization-to-core-chain-2/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Fed Research Compares Wholesale CBDC Settlement With Tokenized Deposits",
-    "url": "https://www.newsbtc.com/news/fed-research-wholesale-cbdc-tokenized-deposits/"
   }
 ]
