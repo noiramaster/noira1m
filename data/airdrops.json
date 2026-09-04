@@ -1,6 +1,21 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "South Korean regulators introduce tokenized securities roadmap",
+    "url": "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "AMC chief criticizes Robinhood\u2019s tokenized stock plan",
+    "url": "https://cointelegraph.com/news/amc-ceo-criticizes-robinhoods-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "US, UK launch joint alliance targeting crypto scam centers",
     "url": "https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -15,14 +30,9 @@
     "url": "https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Bitcoin reclaims $80K as DXY falls amid continuing suspected yen intervention",
-    "url": "https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Bybit Pay integrates with Mesh to expand crypto payments",
-    "url": "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "Trezor Breach Is Much Bigger Than Initially Thought: Another 67,000 Customers Exposed",
+    "url": "https://cryptopotato.com/trezor-breach-is-much-bigger-than-initially-thought-another-67000-customers-exposed/"
   },
   {
     "source": "CryptoPotato",
@@ -30,23 +40,18 @@
     "url": "https://cryptopotato.com/multicoin-sells-another-10-of-hype-stack-as-holdings-fall-from-4-million-tokens/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "XRP Price Analysis: Can XRP Resume Its Rally After Defending Key Support?",
-    "url": "https://cryptopotato.com/xrp-price-analysis-can-xrp-resume-its-rally-after-defending-key-support/"
+    "source": "NewsBTC",
+    "title": "",
+    "url": "https://www.newsbtc.com/news/912929/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Hyperliquid treasury company increases token buying strategy to $2.5 billion as shares run out",
-    "url": "https://cryptoslate.com/hyperliquid-treasury-company-increases-token-buying-strategy-to-2-5-billion-as-shares-run-out/"
+    "source": "NewsBTC",
+    "title": "Axis Robotics Open-Sources One of the Largest Franka Arm Simulation Datasets for Physical AI",
+    "url": "https://www.newsbtc.com/news/axis-robotics-open-sources-one-of-the-largest-franka-arm-simulation-datasets-for-physical-ai/"
   },
   {
     "source": "NewsBTC",
     "title": "CFTC Advisory Sets Expectations For Tokenized Collateral At Clearinghouses",
     "url": "https://www.newsbtc.com/news/cftc-advisory-sets-expectations-for-tokenized-collateral-at-clearinghouses/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "BitGo Brings Gold, Real Estate And Fine Art Tokenization To Core Chain",
-    "url": "https://www.newsbtc.com/news/bitgo-brings-gold-real-estate-and-fine-art-tokenization-to-core-chain-2/"
   }
 ]
