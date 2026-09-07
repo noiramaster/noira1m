@@ -1,13 +1,13 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "Fomo overtakes Pump.fun in daily revenue on Solana",
-    "url": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Citi, DBS complete first weekend tokenized cross-border deposit on Swift",
+    "url": "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CoinTelegraph",
-    "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
-    "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Fomo overtakes Pump.fun in daily revenue on Solana",
+    "url": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
@@ -16,8 +16,13 @@
   },
   {
     "source": "CryptoSlate",
-    "title": "How Bitmine could surpass its 5% Ethereum goal without buying more ETH",
-    "url": "https://cryptoslate.com/how-bitmine-could-surpass-its-5-ethereum-goal-without-buying-more-eth/"
+    "title": "XRP lending model leaves depositors with 90% of a bad loan\u2019s loss despite reserves twice its size",
+    "url": "https://cryptoslate.com/xrp-lending-model-leaves-depositors-with-90-of-a-bad-loans-loss-despite-reserves-twice-its-size/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Tokens created out of thin air may explain how $320 million in Bitcoin left the Liquid sidechain",
+    "url": "https://cryptoslate.com/tokens-created-out-of-thin-air-may-explain-how-320-million-in-bitcoin-left-a-sidechain/"
   },
   {
     "source": "NewsBTC",
@@ -28,10 +33,5 @@
     "source": "NewsBTC",
     "title": "Axis Robotics Open-Sources One of the Largest Franka Arm Simulation Datasets for Physical AI",
     "url": "https://www.newsbtc.com/news/axis-robotics-open-sources-one-of-the-largest-franka-arm-simulation-datasets-for-physical-ai/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "CFTC Advisory Sets Expectations For Tokenized Collateral At Clearinghouses",
-    "url": "https://www.newsbtc.com/news/cftc-advisory-sets-expectations-for-tokenized-collateral-at-clearinghouses/"
   }
 ]
