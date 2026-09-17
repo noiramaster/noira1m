@@ -1,8 +1,28 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
-    "url": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "SEC grants temporary exemption for tokenized US stock trading",
+    "url": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment",
+    "url": "https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Revolut says no direct contact from hackers after $3M public ransom demand",
+    "url": "https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "SEC Opens Door to Onchain Stock Trading With New \u2018Innovation Exemption\u2019",
+    "url": "https://cryptopotato.com/sec-opens-door-to-onchain-stock-trading-with-new-innovation-exemption/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ethereum\u2019s Path to $3,000: All Eyes on This Level Now",
+    "url": "https://cryptopotato.com/ethereums-path-to-3000-all-eyes-on-this-level-now/"
   },
   {
     "source": "CryptoSlate",
@@ -11,8 +31,13 @@
   },
   {
     "source": "CryptoSlate",
-    "title": "Avalanche\u2019s Helicon upgrade cuts validator lockups from 14 days to 48 hours",
+    "title": "Avalanche just slashed validator lockups to 48 hours, but there\u2019s a catch",
     "url": "https://cryptoslate.com/avalanches-helicon-upgrade-cuts-validator-lockups-from-14-days-to-48-hours/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "From Information to Action: MEXC Upgrades AI Across the Trading Journey",
+    "url": "https://www.newsbtc.com/news/from-information-to-action-mexc-upgrades-ai-across-the-trading-journey/"
   },
   {
     "source": "NewsBTC",
@@ -48,10 +73,5 @@
     "source": "NewsBTC",
     "title": "MEXC Reports 21% MoM Growth in New-Token Traders and 31% Increase in Tokenized Stock Trading Volume in August",
     "url": "https://www.newsbtc.com/news/mexc-reports-21-mom-growth-in-new-token-traders-and-31-increase-in-tokenized-stock-trading-volume-in-august/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "KuCoin Spotlight Returns With a Gno.land (GNOT) Pre-Listing Subscription, Featuring Pro-Rata Allocation, KCS Holder Benefits and Conditional Buyback Mechanism",
-    "url": "https://www.newsbtc.com/news/kucoin-spotlight-returns-with-a-gno-land-gnot-pre-listing-subscription-featuring-pro-rata-allocation-kcs-holder-benefits-and-conditional-buyback-mechanism/"
   }
 ]
