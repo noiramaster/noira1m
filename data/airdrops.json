@@ -1,6 +1,16 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
+    "url": "https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Bitcoin reclaims 50-week moving average as analysts eye end of bear market",
+    "url": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler\u2019s Digest",
     "url": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -25,13 +35,13 @@
     "url": "https://cryptoslate.com/who-pays-when-bitcoin-disappears-without-anyone-stealing-the-keys/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "X brings crypto trading closer to your social feed",
-    "url": "https://cryptoslate.com/x-brings-crypto-trading-closer-to-your-social-feed/"
+    "source": "NewsBTC",
+    "title": "Ondo\u2019s Oasis Pro Joins DTCC Fund/SERV In Tokenized Fund Milestone",
+    "url": "https://www.newsbtc.com/news/ondos-oasis-pro-joins-dtcc-fundserv-in-tokenized-fund-milestone/"
   },
   {
     "source": "NewsBTC",
-    "title": "SEC Grants Five-Year Exemption For Tokenized Stock Trading Venues",
-    "url": "https://www.newsbtc.com/news/sec-grants-five-year-exemption-for-tokenized-stock-trading-venues/"
+    "title": "WisdomTree And MoonPay Expand US Access To Tokenized Funds",
+    "url": "https://www.newsbtc.com/news/wisdomtree-and-moonpay-expand-us-access-to-tokenized-funds/"
   }
 ]
