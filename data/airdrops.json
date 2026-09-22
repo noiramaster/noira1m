@@ -1,6 +1,11 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "Trueo prediction market moves from Base to Ethereum",
+    "url": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Ondo lets institutions convert stocks directly into tokenized shares",
     "url": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -10,19 +15,9 @@
     "url": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
-    "url": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Kyle Samani predicts SOL flippening, claims \u2018no one\u2019 uses ETH",
-    "url": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
-    "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "Hayden Adams Claims SBF Bought Uniswap.com to \u2018Flex\u2019 on the Company",
+    "url": "https://cryptopotato.com/hayden-adams-claims-sbf-bought-uniswap-com-to-flex-on-the-company/"
   },
   {
     "source": "CryptoPotato",
@@ -31,13 +26,33 @@
   },
   {
     "source": "CryptoSlate",
+    "title": "Circle launches Bitcoin-backed USDC borrowing, leaving liquidation risk with Morpho protocol",
+    "url": "https://cryptoslate.com/circle-now-lets-institutions-borrow-usdc-against-bitcoin-but-morpho-still-sets-the-rules/"
+  },
+  {
+    "source": "CryptoSlate",
     "title": "ECB launches \u2018digital euro for banks\u2019 and prepares to buy tokenized bonds",
     "url": "https://cryptoslate.com/ecb-launches-digital-euro-for-banks-and-prepares-to-buy-tokenized-bonds/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Why Balancer\u2019s $1.4M hack recovery won\u2019t pay LPs anytime soon",
-    "url": "https://cryptoslate.com/why-balancers-1-4m-hack-recovery-wont-pay-lps-anytime-soon/"
+    "source": "NewsBTC",
+    "title": "New York Life Takes High-Yield Bond Strategy Onchain With Centrifuge",
+    "url": "https://www.newsbtc.com/news/new-york-life-takes-high-yield-bond-strategy-onchain-with-centrifuge/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Coinbase Opens IPO Allocations To US Retail Traders Starting With Oura",
+    "url": "https://www.newsbtc.com/news/coinbase-opens-ipo-allocations-to-us-retail-traders-starting-with-oura/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "ECB Plans Direct Investment In Tokenized Securities Using Pontes",
+    "url": "https://www.newsbtc.com/news/ecb-plans-direct-investment-in-tokenized-securities-using-pontes/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "ECB Launches Pontes For Central-Bank Settlement Of Tokenized Assets",
+    "url": "https://www.newsbtc.com/news/ecb-launches-pontes-for-central-bank-settlement-of-tokenized-assets/"
   },
   {
     "source": "NewsBTC",
@@ -48,25 +63,5 @@
     "source": "NewsBTC",
     "title": "Bitcoin Reclaims $85,000 For First Time In Eight Months",
     "url": "https://www.newsbtc.com/news/bitcoin-reclaims-85000-for-first-time-in-eight-months/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "USDT on TRON Becomes Most Used Onchain Payment Option on CoinsBee as Stablecoin Spending Grows",
-    "url": "https://www.newsbtc.com/news/usdt-on-tron-becomes-most-used-onchain-payment-option-on-coinsbee-as-stablecoin-spending-grows/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Zoomex to Host Traders After Party During TOKEN2049 Singapore, Connecting Traders and the Web3 Community",
-    "url": "https://www.newsbtc.com/news/zoomex-to-host-traders-after-party-during-token2049-singapore-connecting-traders-and-the-web3-community/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Ondo\u2019s Oasis Pro Joins DTCC Fund/SERV In Tokenized Fund Milestone",
-    "url": "https://www.newsbtc.com/news/ondos-oasis-pro-joins-dtcc-fundserv-in-tokenized-fund-milestone/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "WisdomTree And MoonPay Expand US Access To Tokenized Funds",
-    "url": "https://www.newsbtc.com/news/wisdomtree-and-moonpay-expand-us-access-to-tokenized-funds/"
   }
 ]
