@@ -1,6 +1,11 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "Zcash gets first European ETP following US ETF launch",
+    "url": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "ECB to put its own money into tokenized securities via new Pontes DLT",
     "url": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -8,6 +13,11 @@
     "source": "CoinTelegraph",
     "title": "Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally",
     "url": "https://cointelegraph.com/markets/crypto-market-cap-3-trillion-bitcoin-altcoins-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Important Pi Network News and PI Price Update: September 22",
+    "url": "https://cryptopotato.com/important-pi-network-news-and-pi-price-update-september-22/"
   },
   {
     "source": "CryptoPotato",
@@ -20,19 +30,14 @@
     "url": "https://cryptopotato.com/top-ripple-price-predictions-as-xrp-reclaims-1-50/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Hayden Adams Claims SBF Bought Uniswap.com to \u2018Flex\u2019 on the Company",
-    "url": "https://cryptopotato.com/hayden-adams-claims-sbf-bought-uniswap-com-to-flex-on-the-company/"
+    "source": "CryptoSlate",
+    "title": "Coinbase targets stock futures but CFTC standstill blocks launch",
+    "url": "https://cryptoslate.com/coinbase-targets-stock-futures-but-cftc-standstill-blocks-launch/"
   },
   {
     "source": "CryptoSlate",
-    "title": "Circle launches Bitcoin-backed USDC borrowing, leaving liquidation risk with Morpho protocol",
-    "url": "https://cryptoslate.com/circle-now-lets-institutions-borrow-usdc-against-bitcoin-but-morpho-still-sets-the-rules/"
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "ECB launches \u2018digital euro for banks\u2019 and prepares to buy tokenized bonds",
-    "url": "https://cryptoslate.com/ecb-launches-digital-euro-for-banks-and-prepares-to-buy-tokenized-bonds/"
+    "title": "Moscow Exchange launches 5 crypto perpetual futures as demand tops 600 billion rubles",
+    "url": "https://cryptoslate.com/moscow-exchange-launches-5-crypto-perpetual-futures-as-demand-tops-600-billion-rubles/"
   },
   {
     "source": "NewsBTC",
