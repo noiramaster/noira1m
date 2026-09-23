@@ -1,23 +1,23 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
+    "url": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "AI potential to drive crypto demand remains \u2018underappreciated\u2019: BlackRock",
     "url": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Arch Lending eyes tokenized stocks as next collateral market",
-    "url": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "Ethereum (ETH) Soars 15% Weekly and Now Enters an \u2018Interesting Zone:\u2019 Analyst",
+    "url": "https://cryptopotato.com/ethereum-eth-soars-15-weekly-and-now-enters-an-interesting-zone-analyst/"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Canada\u2019s six largest banks explore tokenized Canadian dollar deposits",
-    "url": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Zcash gets first European ETP following US ETF launch",
-    "url": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "BC.GAME\u2019s BC Engine Rewards Surpass $8.6 Million as Ecosystem Growth Accelerates",
+    "url": "https://cryptopotato.com/bc-games-bc-engine-rewards-surpass-8-6-million-as-ecosystem-growth-accelerates/"
   },
   {
     "source": "CryptoPotato",
@@ -25,9 +25,29 @@
     "url": "https://cryptopotato.com/bitcoin-cash-and-uniswap-explode-by-double-digits-as-cme-announces-futures-launch/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Dogecoin (DOGE) Rises to a 3-Month High: The Breakout to $1 Has Begun?",
-    "url": "https://cryptopotato.com/dogecoin-doge-rises-to-a-3-month-high-the-breakout-to-1-has-begun/"
+    "source": "CryptoSlate",
+    "title": "Coinbase traced $1.1 million crypto trail behind AI phishing service EvilTokens",
+    "url": "https://cryptoslate.com/coinbase-traced-1-1-million-crypto-trail-behind-ai-phishing-service-eviltokens/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Ondo And Alpaca Add In-Kind Minting For Tokenized Stocks",
+    "url": "https://www.newsbtc.com/altcoins/ondo-and-alpaca-add-in-kind-minting-for-tokenized-stocks/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "OKX Shield Offers Up To \u20ac500K Account-Takeover Protection In Europe",
+    "url": "https://www.newsbtc.com/technology/okx-shield-offers-up-to-e500k-account-takeover-protection-in-europe/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Anchorage Digital Taps LayerZero To Take USAT Stablecoin Cross-Chain",
+    "url": "https://www.newsbtc.com/altcoins/anchorage-digital-taps-layerzero-to-take-usat-stablecoin-cross-chain/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "SEC Clears ARK Venture Fund For Tokenized And Exchange-Traded Share Classes",
+    "url": "https://www.newsbtc.com/altcoins/sec-clears-ark-venture-fund-for-tokenized-and-exchange-traded-share-classes/"
   },
   {
     "source": "NewsBTC",
@@ -43,20 +63,5 @@
     "source": "NewsBTC",
     "title": "REX Launches 2X Leveraged ETF Tracking Bitcoin Treasury Firm Strive",
     "url": "https://www.newsbtc.com/news/rex-launches-2x-leveraged-etf-tracking-bitcoin-treasury-firm-strive/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Bitwise Updates XRP ETF Prospectus In New SEC Filing",
-    "url": "https://www.newsbtc.com/news/bitwise-updates-xrp-etf-prospectus-in-new-sec-filing/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "New York Life Takes High-Yield Bond Strategy Onchain With Centrifuge",
-    "url": "https://www.newsbtc.com/news/new-york-life-takes-high-yield-bond-strategy-onchain-with-centrifuge/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Coinbase Opens IPO Allocations To US Retail Traders Starting With Oura",
-    "url": "https://www.newsbtc.com/news/coinbase-opens-ipo-allocations-to-us-retail-traders-starting-with-oura/"
   }
 ]
