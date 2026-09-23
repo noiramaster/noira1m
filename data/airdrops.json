@@ -1,13 +1,28 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
-    "url": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
+    "url": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CoinTelegraph",
-    "title": "AI potential to drive crypto demand remains \u2018underappreciated\u2019: BlackRock",
-    "url": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
+    "url": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
+    "url": "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Winners and losers of the SEC\u2019s new tokenized stocks rules",
+    "url": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
+    "url": "https://cointelegraph.com/news/moonpay-north-capital-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
@@ -15,19 +30,44 @@
     "url": "https://cryptopotato.com/ethereum-eth-soars-15-weekly-and-now-enters-an-interesting-zone-analyst/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "BC.GAME\u2019s BC Engine Rewards Surpass $8.6 Million as Ecosystem Growth Accelerates",
-    "url": "https://cryptopotato.com/bc-games-bc-engine-rewards-surpass-8-6-million-as-ecosystem-growth-accelerates/"
+    "source": "CryptoSlate",
+    "title": "Solana moves Alpenglow into testnet as SOL nears January highs",
+    "url": "https://cryptoslate.com/solana-moves-alpenglow-into-testnet-as-sol-nears-january-highs/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Cash and Uniswap Explode by Double Digits as CME Announces Futures Launch",
-    "url": "https://cryptopotato.com/bitcoin-cash-and-uniswap-explode-by-double-digits-as-cme-announces-futures-launch/"
+    "source": "CryptoSlate",
+    "title": "Why Mastercard\u2019s $25 billion crypto expansion isn\u2019t what it seems",
+    "url": "https://cryptoslate.com/sofis-mastercard-stablecoin-settlement-is-live-but-its-25-billion-figure-is-still-a-projection/"
   },
   {
     "source": "CryptoSlate",
     "title": "Coinbase traced $1.1 million crypto trail behind AI phishing service EvilTokens",
     "url": "https://cryptoslate.com/coinbase-traced-1-1-million-crypto-trail-behind-ai-phishing-service-eviltokens/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Bybit Adds Support For Avalanche v1.15.0 Network Upgrade",
+    "url": "https://www.newsbtc.com/altcoins/bybit-adds-support-for-avalanche-v1-15-0-network-upgrade/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Bybit Opens Oura Pre-IPO Perpetual Trading With Up To 25x Leverage",
+    "url": "https://www.newsbtc.com/technology/bybit-opens-oura-pre-ipo-perpetual-trading-with-up-to-25x-leverage/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Binance Lets bStocks Tokenized Equities Count As Futures Margin",
+    "url": "https://www.newsbtc.com/technology/binance-lets-bstocks-tokenized-equities-count-as-futures-margin/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Bybit Adds PATH, CYPH And HUT Equity Perpetuals With Up To 25x Leverage",
+    "url": "https://www.newsbtc.com/technology/bybit-adds-path-cyph-and-hut-equity-perpetuals-with-up-to-25x-leverage/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Binance Brings 24/7 FX Perpetuals To Crypto Traders With USD/BRL",
+    "url": "https://www.newsbtc.com/technology/binance-brings-24-7-fx-perpetuals-to-crypto-traders-with-usd-brl/"
   },
   {
     "source": "NewsBTC",
@@ -48,20 +88,5 @@
     "source": "NewsBTC",
     "title": "SEC Clears ARK Venture Fund For Tokenized And Exchange-Traded Share Classes",
     "url": "https://www.newsbtc.com/altcoins/sec-clears-ark-venture-fund-for-tokenized-and-exchange-traded-share-classes/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Kalshi Files To Bring Perpetual Futures To US Stocks And ETFs",
-    "url": "https://www.newsbtc.com/news/kalshi-files-to-bring-perpetual-futures-to-us-stocks-and-etfs/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "MEXC Expands Opportunity Compass with Stock Trading Handbook to Help Crypto Users Build Investment Knowledge",
-    "url": "https://www.newsbtc.com/news/mexc-expands-opportunity-compass-with-stock-trading-handbook-to-help-crypto-users-build-investment-knowledge/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "REX Launches 2X Leveraged ETF Tracking Bitcoin Treasury Firm Strive",
-    "url": "https://www.newsbtc.com/news/rex-launches-2x-leveraged-etf-tracking-bitcoin-treasury-firm-strive/"
   }
 ]
