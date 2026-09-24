@@ -1,8 +1,28 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
-    "url": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
+    "url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "BTCC Exchange and Markets.com Announce Promotional Collaboration Ahead of TOKEN2049 Singapore",
+    "url": "https://cryptopotato.com/btcc-exchange-and-markets-com-announce-promotional-collaboration-ahead-of-token2049-singapore/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Guardis Adds Tokenized Stocks and Commodities For Trading",
+    "url": "https://cryptopotato.com/guardis-adds-tokenized-stocks-and-commodities-for-trading/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Cosmos restarted to seize $2.2 million in stolen ATOM, but 169,000 tokens still escaped",
+    "url": "https://cryptoslate.com/cosmos-restarted-to-seize-2-2-million-in-stolen-atom-but-169000-tokens-still-escaped/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Why surging US real yields are quietly forcing Bitcoin under $84,000",
+    "url": "https://cryptoslate.com/why-surging-us-real-yields-are-quietly-forcing-bitcoin-under-84000/"
   },
   {
     "source": "CryptoSlate",
@@ -20,9 +40,29 @@
     "url": "https://cryptoslate.com/circle-launches-24-7-stablecoin-fx-engine-as-it-chases-a-slice-of-the-10-trillion-currency-market/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "$1 billion in trading volume masks hidden liquidity risks for Coinbase stock token holders",
-    "url": "https://cryptoslate.com/coinbase-stock-tokens-passed-1-billion-in-reported-trades-but-their-exit-depth-remains-unproven/"
+    "source": "NewsBTC",
+    "title": "TRON Surpasses $30T in Total Transaction Volume as it Secures its Place as Leading Chain for Stablecoins",
+    "url": "https://www.newsbtc.com/news/tron-surpasses-30t-in-total-transaction-volume-as-it-secures-its-place-as-leading-chain-for-stablecoins/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Privy Expands Support for TRON with Enhanced Wallet and Payment Infrastructure for Developers",
+    "url": "https://www.newsbtc.com/news/privy-expands-support-for-tron-with-enhanced-wallet-and-payment-infrastructure-for-developers/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Bitget Wallet Says Global Downloads Have Passed 40 Million",
+    "url": "https://www.newsbtc.com/technology/bitget-wallet-says-global-downloads-have-passed-40-million/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "OKX Tightens European Institutional Trading Guidance Under MiCA",
+    "url": "https://www.newsbtc.com/technology/okx-tightens-european-institutional-trading-guidance-under-mica/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Sui Testnet v1.80.1 Expands Protocol 137 Features For Node Operators",
+    "url": "https://www.newsbtc.com/altcoins/sui-testnet-v1-80-1-expands-protocol-137-features-for-node-operators/"
   },
   {
     "source": "NewsBTC",
@@ -38,40 +78,5 @@
     "source": "NewsBTC",
     "title": "Chainlink Releases Node v2.65.0 With Confidential Workflow Monitoring Fix",
     "url": "https://www.newsbtc.com/technology/chainlink-releases-node-v2-65-0-with-confidential-workflow-monitoring-fix/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Aptos Ships Mainnet Node v1.49.1 As Validator Upgrade Cycle Continues",
-    "url": "https://www.newsbtc.com/altcoins/aptos-ships-mainnet-node-v1-49-1-as-validator-upgrade-cycle-continues/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Bybit Adds Support For Avalanche v1.15.0 Network Upgrade",
-    "url": "https://www.newsbtc.com/altcoins/bybit-adds-support-for-avalanche-v1-15-0-network-upgrade/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Bybit Opens Oura Pre-IPO Perpetual Trading With Up To 25x Leverage",
-    "url": "https://www.newsbtc.com/technology/bybit-opens-oura-pre-ipo-perpetual-trading-with-up-to-25x-leverage/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Binance Lets bStocks Tokenized Equities Count As Futures Margin",
-    "url": "https://www.newsbtc.com/technology/binance-lets-bstocks-tokenized-equities-count-as-futures-margin/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Bybit Adds PATH, CYPH And HUT Equity Perpetuals With Up To 25x Leverage",
-    "url": "https://www.newsbtc.com/technology/bybit-adds-path-cyph-and-hut-equity-perpetuals-with-up-to-25x-leverage/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Binance Brings 24/7 FX Perpetuals To Crypto Traders With USD/BRL",
-    "url": "https://www.newsbtc.com/technology/binance-brings-24-7-fx-perpetuals-to-crypto-traders-with-usd-brl/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Ondo And Alpaca Add In-Kind Minting For Tokenized Stocks",
-    "url": "https://www.newsbtc.com/altcoins/ondo-and-alpaca-add-in-kind-minting-for-tokenized-stocks/"
   }
 ]
