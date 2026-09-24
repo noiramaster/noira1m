@@ -1,23 +1,13 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
+    "url": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
     "url": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
-    "url": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-    "url": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
-    "url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
@@ -31,13 +21,18 @@
   },
   {
     "source": "CryptoSlate",
+    "title": "Why TRON\u2019s $30 trillion lifetime volume could become a trap",
+    "url": "https://cryptoslate.com/why-trons-30-trillion-lifetime-volume-could-become-a-trap/"
+  },
+  {
+    "source": "CryptoSlate",
     "title": "NYSE is assembling the pipes for a $5.5 trillion tokenized asset market",
     "url": "https://cryptoslate.com/nyse-is-assembling-the-pipes-for-a-5-5-trillion-tokenized-asset-market/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Cosmos restarted to seize $2.2 million in stolen ATOM, but 169,000 tokens still escaped",
-    "url": "https://cryptoslate.com/cosmos-restarted-to-seize-2-2-million-in-stolen-atom-but-169000-tokens-still-escaped/"
+    "source": "NewsBTC",
+    "title": "Circle Takes FX Onchain With 24/7 Stablecoin Settlement On Arc",
+    "url": "https://www.newsbtc.com/technology/circle-takes-fx-onchain-with-24-7-stablecoin-settlement-on-arc/"
   },
   {
     "source": "NewsBTC",
@@ -73,10 +68,5 @@
     "source": "NewsBTC",
     "title": "Sui Testnet v1.80.1 Expands Protocol 137 Features For Node Operators",
     "url": "https://www.newsbtc.com/altcoins/sui-testnet-v1-80-1-expands-protocol-137-features-for-node-operators/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Ondo Pushes USDY Deeper Into Solana DeFi",
-    "url": "https://www.newsbtc.com/altcoins/ondo-pushes-usdy-deeper-into-solana-defi/"
   }
 ]
