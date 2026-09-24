@@ -5,14 +5,9 @@
     "url": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
-    "url": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Ethereum (ETH) Soars 15% Weekly and Now Enters an \u2018Interesting Zone:\u2019 Analyst",
-    "url": "https://cryptopotato.com/ethereum-eth-soars-15-weekly-and-now-enters-an-interesting-zone-analyst/"
+    "source": "CryptoSlate",
+    "title": "Galaxy adds $100M Sky token and institutional adoption is tested",
+    "url": "https://cryptoslate.com/galaxy-adds-100m-sky-token-and-institutional-adoption-is-tested/"
   },
   {
     "source": "CryptoSlate",
@@ -28,6 +23,26 @@
     "source": "CryptoSlate",
     "title": "$1 billion in trading volume masks hidden liquidity risks for Coinbase stock token holders",
     "url": "https://cryptoslate.com/coinbase-stock-tokens-passed-1-billion-in-reported-trades-but-their-exit-depth-remains-unproven/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Ondo Pushes USDY Deeper Into Solana DeFi",
+    "url": "https://www.newsbtc.com/altcoins/ondo-pushes-usdy-deeper-into-solana-defi/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "CFTC Warns Prediction Markets Over Manipulation Risks In \u2018Mention\u2019 Contracts",
+    "url": "https://www.newsbtc.com/technology/cftc-warns-prediction-markets-over-manipulation-risks-in-mention-contracts/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Chainlink Releases Node v2.65.0 With Confidential Workflow Monitoring Fix",
+    "url": "https://www.newsbtc.com/technology/chainlink-releases-node-v2-65-0-with-confidential-workflow-monitoring-fix/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Aptos Ships Mainnet Node v1.49.1 As Validator Upgrade Cycle Continues",
+    "url": "https://www.newsbtc.com/altcoins/aptos-ships-mainnet-node-v1-49-1-as-validator-upgrade-cycle-continues/"
   },
   {
     "source": "NewsBTC",
@@ -58,20 +73,5 @@
     "source": "NewsBTC",
     "title": "Ondo And Alpaca Add In-Kind Minting For Tokenized Stocks",
     "url": "https://www.newsbtc.com/altcoins/ondo-and-alpaca-add-in-kind-minting-for-tokenized-stocks/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "OKX Shield Offers Up To \u20ac500K Account-Takeover Protection In Europe",
-    "url": "https://www.newsbtc.com/technology/okx-shield-offers-up-to-e500k-account-takeover-protection-in-europe/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Anchorage Digital Taps LayerZero To Take USAT Stablecoin Cross-Chain",
-    "url": "https://www.newsbtc.com/altcoins/anchorage-digital-taps-layerzero-to-take-usat-stablecoin-cross-chain/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "SEC Clears ARK Venture Fund For Tokenized And Exchange-Traded Share Classes",
-    "url": "https://www.newsbtc.com/altcoins/sec-clears-ark-venture-fund-for-tokenized-and-exchange-traded-share-classes/"
   }
 ]
