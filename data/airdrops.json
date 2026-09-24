@@ -1,18 +1,33 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
+    "url": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+    "url": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
     "url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
-    "title": "BTCC Exchange and Markets.com Announce Promotional Collaboration Ahead of TOKEN2049 Singapore",
-    "url": "https://cryptopotato.com/btcc-exchange-and-markets-com-announce-promotional-collaboration-ahead-of-token2049-singapore/"
+    "title": "Bitcoin Up or Down in 5 Minutes? 1win Markets Launches Crypto Live",
+    "url": "https://cryptopotato.com/bitcoin-up-or-down-in-5-minutes-1win-markets-launches-crypto-live/"
   },
   {
     "source": "CryptoPotato",
-    "title": "Guardis Adds Tokenized Stocks and Commodities For Trading",
-    "url": "https://cryptopotato.com/guardis-adds-tokenized-stocks-and-commodities-for-trading/"
+    "title": "Streamex Converts Interest Into Capital as GLDY Investment Strategy Secures $1M+ Institutional Allocation",
+    "url": "https://cryptopotato.com/streamex-converts-interest-into-capital-as-gldy-investment-strategy-secures-1m-institutional-allocation/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "BTCC Exchange and Markets.com Announce Promotional Collaboration Ahead of TOKEN2049 Singapore",
+    "url": "https://cryptopotato.com/btcc-exchange-and-markets-com-announce-promotional-collaboration-ahead-of-token2049-singapore/"
   },
   {
     "source": "CryptoSlate",
@@ -25,19 +40,14 @@
     "url": "https://cryptoslate.com/why-surging-us-real-yields-are-quietly-forcing-bitcoin-under-84000/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Galaxy adds $100M Sky token and institutional adoption is tested",
-    "url": "https://cryptoslate.com/galaxy-adds-100m-sky-token-and-institutional-adoption-is-tested/"
+    "source": "NewsBTC",
+    "title": "OpenZeppelin Integrates with TRON to Bring Its Security Standard to the Network",
+    "url": "https://www.newsbtc.com/news/openzeppelin-integrates-with-tron-to-bring-its-security-standard-to-the-network/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "White hats recover 52 Bitcoin from Coldcard exploit, and a new public portal lets victims check eligibility",
-    "url": "https://cryptoslate.com/white-hats-recover-52-bitcoin-from-coldcard-exploit-and-a-new-public-portal-lets-victims-check-eligibility/"
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Circle launches 24/7 stablecoin FX engine as it chases a slice of the $10 trillion currency market",
-    "url": "https://cryptoslate.com/circle-launches-24-7-stablecoin-fx-engine-as-it-chases-a-slice-of-the-10-trillion-currency-market/"
+    "source": "NewsBTC",
+    "title": "Uniswap v4 Ecosystem Passes 500 Registered Custom Hooks",
+    "url": "https://www.newsbtc.com/technology/uniswap-v4-ecosystem-passes-500-registered-custom-hooks/"
   },
   {
     "source": "NewsBTC",
@@ -68,15 +78,5 @@
     "source": "NewsBTC",
     "title": "Ondo Pushes USDY Deeper Into Solana DeFi",
     "url": "https://www.newsbtc.com/altcoins/ondo-pushes-usdy-deeper-into-solana-defi/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "CFTC Warns Prediction Markets Over Manipulation Risks In \u2018Mention\u2019 Contracts",
-    "url": "https://www.newsbtc.com/technology/cftc-warns-prediction-markets-over-manipulation-risks-in-mention-contracts/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Chainlink Releases Node v2.65.0 With Confidential Workflow Monitoring Fix",
-    "url": "https://www.newsbtc.com/technology/chainlink-releases-node-v2-65-0-with-confidential-workflow-monitoring-fix/"
   }
 ]
