@@ -5,11 +5,6 @@
     "url": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
-    "url": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
     "source": "CryptoPotato",
     "title": "Bitcoin Up or Down in 5 Minutes? 1win Markets Launches Crypto Live",
     "url": "https://cryptopotato.com/bitcoin-up-or-down-in-5-minutes-1win-markets-launches-crypto-live/"
@@ -21,6 +16,11 @@
   },
   {
     "source": "CryptoSlate",
+    "title": "Two obscure pools fuel 2.8B XRPL volume, but only 185 trades caused it",
+    "url": "https://cryptoslate.com/two-obscure-pools-fuel-2-8b-xrpl-volume-but-only-185-trades-caused-it/"
+  },
+  {
+    "source": "CryptoSlate",
     "title": "Why TRON\u2019s $30 trillion lifetime volume could become a trap",
     "url": "https://cryptoslate.com/why-trons-30-trillion-lifetime-volume-could-become-a-trap/"
   },
@@ -28,6 +28,21 @@
     "source": "CryptoSlate",
     "title": "NYSE is assembling the pipes for a $5.5 trillion tokenized asset market",
     "url": "https://cryptoslate.com/nyse-is-assembling-the-pipes-for-a-5-5-trillion-tokenized-asset-market/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Circle Mints 250M USDC On Solana In Fresh Treasury Issuance",
+    "url": "https://www.newsbtc.com/altcoins/circle-mints-250m-usdc-on-solana-in-fresh-treasury-issuance/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Privy Expands TRON Support As Stablecoin Payment Infrastructure Grows",
+    "url": "https://www.newsbtc.com/technology/privy-expands-tron-support-as-stablecoin-payment-infrastructure-grows/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Chainalysis Says Crypto Activity Barely Fell Despite $2.1T Market Rout",
+    "url": "https://www.newsbtc.com/technology/chainalysis-says-crypto-activity-barely-fell-despite-2-1t-market-rout/"
   },
   {
     "source": "NewsBTC",
@@ -48,25 +63,5 @@
     "source": "NewsBTC",
     "title": "OpenZeppelin Integrates with TRON to Bring Its Security Standard to the Network",
     "url": "https://www.newsbtc.com/news/openzeppelin-integrates-with-tron-to-bring-its-security-standard-to-the-network/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Uniswap v4 Ecosystem Passes 500 Registered Custom Hooks",
-    "url": "https://www.newsbtc.com/technology/uniswap-v4-ecosystem-passes-500-registered-custom-hooks/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "TRON Surpasses $30T in Total Transaction Volume as it Secures its Place as Leading Chain for Stablecoins",
-    "url": "https://www.newsbtc.com/news/tron-surpasses-30t-in-total-transaction-volume-as-it-secures-its-place-as-leading-chain-for-stablecoins/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Privy Expands Support for TRON with Enhanced Wallet and Payment Infrastructure for Developers",
-    "url": "https://www.newsbtc.com/news/privy-expands-support-for-tron-with-enhanced-wallet-and-payment-infrastructure-for-developers/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Bitget Wallet Says Global Downloads Have Passed 40 Million",
-    "url": "https://www.newsbtc.com/technology/bitget-wallet-says-global-downloads-have-passed-40-million/"
   }
 ]
