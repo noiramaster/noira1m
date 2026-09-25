@@ -1,18 +1,8 @@
 [
   {
-    "source": "CoinTelegraph",
-    "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
-    "url": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
     "source": "CryptoPotato",
-    "title": "Bitcoin Up or Down in 5 Minutes? 1win Markets Launches Crypto Live",
-    "url": "https://cryptopotato.com/bitcoin-up-or-down-in-5-minutes-1win-markets-launches-crypto-live/"
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Streamex Converts Interest Into Capital as GLDY Investment Strategy Secures $1M+ Institutional Allocation",
-    "url": "https://cryptopotato.com/streamex-converts-interest-into-capital-as-gldy-investment-strategy-secures-1m-institutional-allocation/"
+    "title": "Ondo Finance Unveils BlackRock-Backed On-chain Portfolios for Investors",
+    "url": "https://cryptopotato.com/ondo-finance-unveils-blackrock-backed-on-chain-portfolios-for-investors/"
   },
   {
     "source": "CryptoSlate",
@@ -20,14 +10,19 @@
     "url": "https://cryptoslate.com/two-obscure-pools-fuel-2-8b-xrpl-volume-but-only-185-trades-caused-it/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Why TRON\u2019s $30 trillion lifetime volume could become a trap",
-    "url": "https://cryptoslate.com/why-trons-30-trillion-lifetime-volume-could-become-a-trap/"
+    "source": "NewsBTC",
+    "title": "MEXC Returns to TOKEN2049 Singapore as Platinum Sponsor with Interactive Experiences and Industry Conversations",
+    "url": "https://www.newsbtc.com/news/mexc-returns-to-token2049-singapore-as-platinum-sponsor-with-interactive-experiences-and-industry-conversations/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "NYSE is assembling the pipes for a $5.5 trillion tokenized asset market",
-    "url": "https://cryptoslate.com/nyse-is-assembling-the-pipes-for-a-5-5-trillion-tokenized-asset-market/"
+    "source": "NewsBTC",
+    "title": "TokenInsight September Report: MEXC Posts Deepest BTC and ETH Futures Depth at $21.03M, Lowest Silver Slippage at 0.002%",
+    "url": "https://www.newsbtc.com/news/tokeninsight-september-report-mexc-posts-deepest-btc-and-eth-futures-depth-at-21-03m-lowest-silver-slippage-at-0-002/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Bitcoin Falls Back Below $85K As Treasury Yields Jump Above 5%",
+    "url": "https://www.newsbtc.com/news/bitcoin/bitcoin-falls-back-below-85k-as-treasury-yields-jump-above-5/"
   },
   {
     "source": "NewsBTC",
@@ -48,20 +43,5 @@
     "source": "NewsBTC",
     "title": "Galaxy Adds $100M Of Sky\u2019s sUSDS To Corporate Treasury",
     "url": "https://www.newsbtc.com/altcoins/galaxy-adds-100m-of-skys-susds-to-corporate-treasury/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Blockchain.com And NYSE Plan 24/7 Tokenized Stock Access",
-    "url": "https://www.newsbtc.com/technology/blockchain-com-and-nyse-plan-24-7-tokenized-stock-access/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Circle Takes FX Onchain With 24/7 Stablecoin Settlement On Arc",
-    "url": "https://www.newsbtc.com/technology/circle-takes-fx-onchain-with-24-7-stablecoin-settlement-on-arc/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "OpenZeppelin Integrates with TRON to Bring Its Security Standard to the Network",
-    "url": "https://www.newsbtc.com/news/openzeppelin-integrates-with-tron-to-bring-its-security-standard-to-the-network/"
   }
 ]
