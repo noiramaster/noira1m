@@ -6,18 +6,18 @@
   },
   {
     "source": "CryptoPotato",
+    "title": "SEC Issues Fresh Crypto Guidance on Staking Tokens, Buybacks, and the Howey Test",
+    "url": "https://cryptopotato.com/sec-issues-fresh-crypto-guidance-on-staking-tokens-buybacks-and-the-howey-test/"
+  },
+  {
+    "source": "CryptoPotato",
     "title": "HIFI Raises $37M Series A to Build Settlement Rails for Tokenized Money",
     "url": "https://cryptopotato.com/hifi-raises-37m-series-a-to-build-settlement-rails-for-tokenized-money/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "KelpDAO Sues LayerZero and CEO Bryan Pellegrino Over $292M Hack",
-    "url": "https://cryptopotato.com/kelpdao-sues-layerzero-and-ceo-bryan-pellegrino-over-292m-hack/"
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "White Hat Operation Rescues 23K NFTs After Payment Processor Exploit",
-    "url": "https://cryptopotato.com/white-hat-operation-rescues-23k-nfts-after-payment-processor-exploit/"
+    "source": "CryptoSlate",
+    "title": "Washington has $114 billion reasons to want Tether around",
+    "url": "https://cryptoslate.com/washington-has-114-billion-reasons-to-want-tether-around/"
   },
   {
     "source": "CryptoSlate",
@@ -35,9 +35,14 @@
     "url": "https://cryptoslate.com/eu-faces-september-30-clock-to-decide-future-of-defi-loans/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "IBM links 17 banks to the SWIFT ledger, but the cloud risk persists",
-    "url": "https://cryptoslate.com/ibm-links-17-banks-to-the-swift-ledger-but-the-cloud-risk-persists/"
+    "source": "NewsBTC",
+    "title": "Apple And Nvidia Tokenized Stocks Can Now Back USDC Loans On Aave",
+    "url": "https://www.newsbtc.com/news/defi/apple-and-nvidia-tokenized-stocks-can-now-back-usdc-loans-on-aave/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "SEC Clarifies When Crypto Buybacks And Network Upgrades Can Raise Securities Questions",
+    "url": "https://www.newsbtc.com/regulation/sec-clarifies-when-crypto-buybacks-and-network-upgrades-can-raise-securities-questions/"
   },
   {
     "source": "NewsBTC",
@@ -68,15 +73,5 @@
     "source": "NewsBTC",
     "title": "Ondo Puts BlackRock-Designed Portfolios Into Single Onchain Tokens",
     "url": "https://www.newsbtc.com/altcoins/ondo-puts-blackrock-designed-portfolios-into-single-onchain-tokens/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "ARK Brings $1.3B Venture Fund Onchain Through Securitize",
-    "url": "https://www.newsbtc.com/technology/ark-brings-1-3b-venture-fund-onchain-through-securitize/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Fed Proposes Full Reserve And Capital Rules For US Stablecoin Issuers",
-    "url": "https://www.newsbtc.com/regulation/fed-proposes-full-reserve-and-capital-rules-for-us-stablecoin-issuers/"
   }
 ]
