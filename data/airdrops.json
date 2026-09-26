@@ -11,6 +11,11 @@
   },
   {
     "source": "CryptoSlate",
+    "title": "SEC clears regulatory hurdle as crypto token buybacks hit record $638 million",
+    "url": "https://cryptoslate.com/sec-clears-regulatory-hurdle-as-crypto-token-buybacks-hit-record-638-million/"
+  },
+  {
+    "source": "CryptoSlate",
     "title": "Fed proposed stablecoin rule could trigger a 48-hour liquidation run",
     "url": "https://cryptoslate.com/fed-proposed-stablecoin-rule-could-trigger-a-48-hour-liquidation-run/"
   },
@@ -25,9 +30,14 @@
     "url": "https://cryptoslate.com/nearly-15-billion-is-moving-off-layerzero-now-a-292-million-lawsuit-puts-its-security-model-on-trial/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked",
-    "url": "https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/"
+    "source": "NewsBTC",
+    "title": "Mantle Says Tokenized Asset Count Has Jumped From 71 To 1,473 This Year",
+    "url": "https://www.newsbtc.com/altcoins/mantle-says-tokenized-asset-count-has-jumped-from-71-to-1473-this-year/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Blockchain Association CEO Summer Mersinger To Step Down In October",
+    "url": "https://www.newsbtc.com/regulation/blockchain-association-ceo-summer-mersinger-to-step-down-in-october/"
   },
   {
     "source": "NewsBTC",
@@ -48,20 +58,5 @@
     "source": "NewsBTC",
     "title": "Paxos Labs Launches Gold Token That Can Earn A Return In Gold",
     "url": "https://www.newsbtc.com/altcoins/paxos-labs-launches-gold-token-that-can-earn-a-return-in-gold/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "HIFI Raises $37M To Build Stablecoin And Tokenized Market Infrastructure",
-    "url": "https://www.newsbtc.com/technology/hifi-raises-37m-to-build-stablecoin-and-tokenized-market-infrastructure/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Solana Foundation Hires Former Binance CMO For Institutional Push",
-    "url": "https://www.newsbtc.com/altcoins/solana-foundation-hires-former-binance-cmo-for-institutional-push/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "The Clearing House Picks Quant For US Tokenized Deposit Network",
-    "url": "https://www.newsbtc.com/technology/the-clearing-house-picks-quant-for-us-tokenized-deposit-network/"
   }
 ]
