@@ -1,8 +1,8 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-    "url": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Newsom signs California ban on public officials issuing memecoins",
+    "url": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
@@ -23,6 +23,11 @@
     "source": "CryptoSlate",
     "title": "SEC staff\u2019s staking-token split spotlights the exit risks behind staked ETH tokens",
     "url": "https://cryptoslate.com/sec-staffs-staking-token-split-spotlights-the-exit-risks-behind-cbeth-and-steth/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Jumper to Launch JUMP Token Sale on Legion as it Spins Out to Build the Super-App for Onchain Finance",
+    "url": "https://www.newsbtc.com/news/jumper-to-launch-jump-token-sale-on-legion-as-it-spins-out-to-build-the-super-app-for-onchain-finance/"
   },
   {
     "source": "NewsBTC",
@@ -48,10 +53,5 @@
     "source": "NewsBTC",
     "title": "Apple And Nvidia Tokenized Stocks Can Now Back USDC Loans On Aave",
     "url": "https://www.newsbtc.com/news/defi/apple-and-nvidia-tokenized-stocks-can-now-back-usdc-loans-on-aave/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "SEC Clarifies When Crypto Buybacks And Network Upgrades Can Raise Securities Questions",
-    "url": "https://www.newsbtc.com/regulation/sec-clarifies-when-crypto-buybacks-and-network-upgrades-can-raise-securities-questions/"
   }
 ]
