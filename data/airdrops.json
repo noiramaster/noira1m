@@ -1,28 +1,38 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "Nvidia unveils AI safety platform to rein in \u2018rogue\u2019 AI agents",
-    "url": "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "US SEC follows CFTC in staff guidance for crypto",
-    "url": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
-    "url": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
+    "url": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
-    "title": "Cardano\u2019s NIGHT Will Be Bigger Than Zcash: Charles Hoskinson",
-    "url": "https://cryptopotato.com/cardanos-night-will-be-bigger-than-zcash-charles-hoskinson/"
+    "title": "Bitcoin Price Analysis: BTC Reclaims Major Moving Averages as Bulls Target $90K Resistance",
+    "url": "https://cryptopotato.com/bitcoin-price-analysis-btc-reclaims-major-moving-averages-as-bulls-target-90k-resistance/"
   },
   {
     "source": "CryptoPotato",
-    "title": "BNB Chain Appoints Thomas Chen as Chief Business Officer",
-    "url": "https://cryptopotato.com/bnb-chain-appoints-thomas-chen-as-chief-business-officer/"
+    "title": "Vana Completes Expanded Staking as Part of the Vega Upgrade, Publishes Expanded VANA Token Economics",
+    "url": "https://cryptopotato.com/vana-completes-expanded-staking-as-part-of-the-vega-upgrade-publishes-expanded-vana-token-economics/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Understanding Why This Cryptocurrency Jumped 400%: Quant (QNT) Defies Market Slowdown",
+    "url": "https://cryptopotato.com/understanding-why-this-cryptocurrency-jumped-400-quant-qnt-defies-market-slowdown/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Chainlink (LINK) Rockets by 11% Daily, Bitcoin (BTC) Reclaims $84K: Market Watch",
+    "url": "https://cryptopotato.com/chainlink-link-rockets-by-11-daily-bitcoin-btc-reclaims-84k-market-watch/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Zano rolls back a month of transactions as team plans to use personal funds for recovery",
+    "url": "https://cryptoslate.com/zano-rollback-removes-month-of-transactions-personal-funds-recovery/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Solana\u2019s 250ms data shows lower-stake validators lost a larger share of reward-linked vote credits",
+    "url": "https://cryptoslate.com/solana-250ms-validator-vote-credits/"
   },
   {
     "source": "CryptoSlate",
@@ -35,9 +45,29 @@
     "url": "https://cryptoslate.com/us-bank-group-taps-quant-for-tokenized-deposits-but-qnts-role-is-left-in-doubt/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Strategy makes first back-to-back Bitcoin buys since June as accumulation picks up",
-    "url": "https://cryptoslate.com/strategy-makes-first-back-to-back-bitcoin-buys-since-june-as-accumulation-picks-up/"
+    "source": "NewsBTC",
+    "title": "Oracle Connects Bank Payment Systems To Swift\u2019s Blockchain Ledger",
+    "url": "https://www.newsbtc.com/technology/oracle-connects-bank-payment-systems-to-swift-s-blockchain-ledger/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "TRON DAO Celebrates Canary Staked TRX ETF (Ticker: TRXS) Debut With Cboe Closing Bell in Chicago",
+    "url": "https://www.newsbtc.com/news/tron-dao-celebrates-canary-staked-trx-etf-ticker-trxs-debut-with-cboe-closing-bell-in-chicago/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "MEXC Unveils \u201cWE SEE YOU\u201d Brand Visual Refresh, Putting People Behind Every Trade in Focus",
+    "url": "https://www.newsbtc.com/news/mexc-unveils-we-see-you-brand-visual-refresh-putting-people-behind-every-trade-in-focus/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Chainlink Launches CCIP 2.0 With Extra Security Controls For Tokenized Assets",
+    "url": "https://www.newsbtc.com/technology/chainlink-launches-ccip-2-0-with-extra-security-controls-for-tokenized-assets/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "MEXC Earnings Season Data: Nearly Half of Tokenized Stock Trading Volume Occurs Outside Regular U.S. Hours",
+    "url": "https://www.newsbtc.com/news/mexc-earnings-season-data-nearly-half-of-tokenized-stock-trading-volume-occurs-outside-regular-u-s-hours/"
   },
   {
     "source": "NewsBTC",
@@ -53,25 +83,5 @@
     "source": "NewsBTC",
     "title": "Jumper to Launch JUMP Token Sale on Legion as it Spins Out to Build the Super-App for Onchain Finance",
     "url": "https://www.newsbtc.com/news/jumper-to-launch-jump-token-sale-on-legion-as-it-spins-out-to-build-the-super-app-for-onchain-finance/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Bitget Raises Hack Estimate To $387.5M And Sets Withdrawal Restart Plan",
-    "url": "https://www.newsbtc.com/technology/bitget-raises-hack-estimate-to-387-5m-and-sets-withdrawal-restart-plan/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Mantle Says Tokenized Asset Count Has Jumped From 71 To 1,473 This Year",
-    "url": "https://www.newsbtc.com/altcoins/mantle-says-tokenized-asset-count-has-jumped-from-71-to-1473-this-year/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Blockchain Association CEO Summer Mersinger To Step Down In October",
-    "url": "https://www.newsbtc.com/regulation/blockchain-association-ceo-summer-mersinger-to-step-down-in-october/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "KelpDAO Sues LayerZero Over $292M rsETH Bridge Exploit",
-    "url": "https://www.newsbtc.com/technology/kelpdao-sues-layerzero-over-292m-rseth-bridge-exploit/"
   }
 ]
