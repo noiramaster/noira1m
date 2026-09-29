@@ -11,6 +11,11 @@
   },
   {
     "source": "CryptoPotato",
+    "title": "Coinbase Faces $25M Loss Claim From Crypto Investor",
+    "url": "https://cryptopotato.com/coinbase-faces-25m-loss-claim-from-crypto-investor/"
+  },
+  {
+    "source": "CryptoPotato",
     "title": "Bitwise Launches First US Spot NEAR ETF With Staking Fees Taking 33% of Rewards",
     "url": "https://cryptopotato.com/bitwise-launches-first-us-spot-near-etf-with-staking-fees-taking-33-of-rewards/"
   },
@@ -23,11 +28,6 @@
     "source": "CryptoPotato",
     "title": "Vana Completes Expanded Staking as Part of the Vega Upgrade, Publishes Expanded VANA Token Economics",
     "url": "https://cryptopotato.com/vana-completes-expanded-staking-as-part-of-the-vega-upgrade-publishes-expanded-vana-token-economics/"
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Understanding Why This Cryptocurrency Jumped 400%: Quant (QNT) Defies Market Slowdown",
-    "url": "https://cryptopotato.com/understanding-why-this-cryptocurrency-jumped-400-quant-qnt-defies-market-slowdown/"
   },
   {
     "source": "CryptoSlate",
@@ -43,6 +43,11 @@
     "source": "CryptoSlate",
     "title": "Solana\u2019s 250ms data shows lower-stake validators lost a larger share of reward-linked vote credits",
     "url": "https://cryptoslate.com/solana-250ms-validator-vote-credits/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "BTCS Prepares DeFi Business To Provide Liquidity For Tokenized Stocks",
+    "url": "https://www.newsbtc.com/technology/btcs-prepares-defi-business-to-provide-liquidity-for-tokenized-stocks/"
   },
   {
     "source": "NewsBTC",
@@ -68,10 +73,5 @@
     "source": "NewsBTC",
     "title": "MEXC Unveils \u201cWE SEE YOU\u201d Brand Visual Refresh, Putting People Behind Every Trade in Focus",
     "url": "https://www.newsbtc.com/news/mexc-unveils-we-see-you-brand-visual-refresh-putting-people-behind-every-trade-in-focus/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Chainlink Launches CCIP 2.0 With Extra Security Controls For Tokenized Assets",
-    "url": "https://www.newsbtc.com/technology/chainlink-launches-ccip-2-0-with-extra-security-controls-for-tokenized-assets/"
   }
 ]
