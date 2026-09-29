@@ -1,8 +1,18 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
-    "url": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
+    "url": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Bitwise launches first US spot NEAR ETF after token\u2019s recent surge",
+    "url": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitwise Launches First US Spot NEAR ETF With Staking Fees Taking 33% of Rewards",
+    "url": "https://cryptopotato.com/bitwise-launches-first-us-spot-near-etf-with-staking-fees-taking-33-of-rewards/"
   },
   {
     "source": "CryptoPotato",
@@ -20,9 +30,9 @@
     "url": "https://cryptopotato.com/understanding-why-this-cryptocurrency-jumped-400-quant-qnt-defies-market-slowdown/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Chainlink (LINK) Rockets by 11% Daily, Bitcoin (BTC) Reclaims $84K: Market Watch",
-    "url": "https://cryptopotato.com/chainlink-link-rockets-by-11-daily-bitcoin-btc-reclaims-84k-market-watch/"
+    "source": "CryptoSlate",
+    "title": "Tether claims $550 million in Iran freezes, but $35 million slipped past Senate",
+    "url": "https://cryptoslate.com/tether-claims-550-million-in-iran-freezes-but-35-million-slipped-past-senate/"
   },
   {
     "source": "CryptoSlate",
@@ -35,14 +45,14 @@
     "url": "https://cryptoslate.com/solana-250ms-validator-vote-credits/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Chainlink CCIP 2.0 exposes bridge risk, and issuer gates trigger stalls",
-    "url": "https://cryptoslate.com/chainlink-ccip-2-0-lets-issuers-delay-delivery-after-a-cross-chain-transfer-starts/"
+    "source": "NewsBTC",
+    "title": "21Shares Sets New Staking Payouts Across Five Crypto ETFs",
+    "url": "https://www.newsbtc.com/institutional/21shares-sets-new-staking-payouts-across-five-crypto-etfs/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "US bank group taps Quant for tokenized deposits, but QNT\u2019s role is left in doubt",
-    "url": "https://cryptoslate.com/us-bank-group-taps-quant-for-tokenized-deposits-but-qnts-role-is-left-in-doubt/"
+    "source": "NewsBTC",
+    "title": "DeFi Development Corp Adds 47,706 SOL As Treasury Passes 2.5M Tokens",
+    "url": "https://www.newsbtc.com/altcoins/defi-development-corp-adds-47-706-sol-as-treasury-passes-2-5m-tokens/"
   },
   {
     "source": "NewsBTC",
@@ -63,25 +73,5 @@
     "source": "NewsBTC",
     "title": "Chainlink Launches CCIP 2.0 With Extra Security Controls For Tokenized Assets",
     "url": "https://www.newsbtc.com/technology/chainlink-launches-ccip-2-0-with-extra-security-controls-for-tokenized-assets/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "MEXC Earnings Season Data: Nearly Half of Tokenized Stock Trading Volume Occurs Outside Regular U.S. Hours",
-    "url": "https://www.newsbtc.com/news/mexc-earnings-season-data-nearly-half-of-tokenized-stock-trading-volume-occurs-outside-regular-u-s-hours/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "PrimeXBT Insights: Bitcoin rallied through a rate hike; Can it rally through a bond selloff?",
-    "url": "https://www.newsbtc.com/news/primexbt-insights-bitcoin-rallied-through-a-rate-hike-can-it-rally-through-a-bond-selloff/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "MEXC Launches MEXC CLI, Connecting AI Agents From Trading Intent to Execution",
-    "url": "https://www.newsbtc.com/news/mexc-launches-mexc-cli-connecting-ai-agents-from-trading-intent-to-execution/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Jumper to Launch JUMP Token Sale on Legion as it Spins Out to Build the Super-App for Onchain Finance",
-    "url": "https://www.newsbtc.com/news/jumper-to-launch-jump-token-sale-on-legion-as-it-spins-out-to-build-the-super-app-for-onchain-finance/"
   }
 ]
