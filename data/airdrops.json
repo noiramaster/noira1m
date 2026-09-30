@@ -5,29 +5,39 @@
     "url": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
-    "url": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
     "source": "CryptoPotato",
     "title": "Bitcoin $215K Scenario Emerges as BTC Reclaims Key Market Levels",
     "url": "https://cryptopotato.com/bitcoin-215k-scenario-emerges-as-btc-reclaims-key-market-levels/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Coinbase Faces $25M Loss Claim From Crypto Investor",
-    "url": "https://cryptopotato.com/coinbase-faces-25m-loss-claim-from-crypto-investor/"
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Bitwise Launches First US Spot NEAR ETF With Staking Fees Taking 33% of Rewards",
-    "url": "https://cryptopotato.com/bitwise-launches-first-us-spot-near-etf-with-staking-fees-taking-33-of-rewards/"
+    "source": "CryptoSlate",
+    "title": "Robinhood Chain kept producing blocks through a roughly 40-minute app disruption",
+    "url": "https://cryptoslate.com/robinhood-chain-kept-producing-blocks-through-a-roughly-40-minute-app-disruption/"
   },
   {
     "source": "CryptoSlate",
-    "title": "Tether claims $550 million in Iran freezes, but $35 million slipped past Senate",
-    "url": "https://cryptoslate.com/tether-claims-550-million-in-iran-freezes-but-35-million-slipped-past-senate/"
+    "title": "SEC changes token buyback guidance as spending hits $638M",
+    "url": "https://cryptoslate.com/sec-changes-token-buyback-guidance-as-spending-hits-638m/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Bitcoin\u2019s $87,000 rally just flipped from short squeeze to long risk",
+    "url": "https://cryptoslate.com/bitcoins-87000-rally-just-flipped-from-short-squeeze-to-long-risk/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Anthropic tokenized pre-IPO volume hits $643M, but liquidity test looms",
+    "url": "https://cryptoslate.com/anthropic-tokenized-pre-ipo-volume-hits-643m-but-liquidity-test-looms/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Morgan Stanley Launches \u2018Digital Asset Lab\u2019 To Test Wall Street Crypto Infrastructure",
+    "url": "https://www.newsbtc.com/institutional/morgan-stanley-launches-digital-asset-lab-to-test-wall-street-crypto-i/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "MEXC Leads SOL and DOGE Market-Price Liquidity in CoinGecko\u2019s 2026 CEX Report",
+    "url": "https://www.newsbtc.com/news/mexc-leads-sol-and-doge-market-price-liquidity-in-coingeckos-2026-cex-report/"
   },
   {
     "source": "NewsBTC",
@@ -43,20 +53,5 @@
     "source": "NewsBTC",
     "title": "DeFi Development Corp Adds 47,706 SOL As Treasury Passes 2.5M Tokens",
     "url": "https://www.newsbtc.com/altcoins/defi-development-corp-adds-47-706-sol-as-treasury-passes-2-5m-tokens/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Oracle Connects Bank Payment Systems To Swift\u2019s Blockchain Ledger",
-    "url": "https://www.newsbtc.com/technology/oracle-connects-bank-payment-systems-to-swift-s-blockchain-ledger/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "TRON DAO Celebrates Canary Staked TRX ETF (Ticker: TRXS) Debut With Cboe Closing Bell in Chicago",
-    "url": "https://www.newsbtc.com/news/tron-dao-celebrates-canary-staked-trx-etf-ticker-trxs-debut-with-cboe-closing-bell-in-chicago/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "MEXC Unveils \u201cWE SEE YOU\u201d Brand Visual Refresh, Putting People Behind Every Trade in Focus",
-    "url": "https://www.newsbtc.com/news/mexc-unveils-we-see-you-brand-visual-refresh-putting-people-behind-every-trade-in-focus/"
   }
 ]
