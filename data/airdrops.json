@@ -1,28 +1,53 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "Tokenized assets don\u2019t always mirror traditional markets, Dune finds",
+    "url": "https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Chainalysis beats most Celsius claims, but \u2018audit\u2019 lawsuit survives",
+    "url": "https://cointelegraph.com/news/celsius-chainalysis-lawsuit-audit-claim-survives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
     "url": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Standard Chartered sees Ethena\u2019s USDe reaching $40B, ENA hitting $2",
-    "url": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "Travala\u2019s Crypto Loyalty Program Passes 170,000 Members, Sets Long-Term Goal of 30% of AVA Supply Locked",
+    "url": "https://cryptopotato.com/travalas-crypto-loyalty-program-passes-170000-members-sets-long-term-goal-of-30-of-ava-supply-locked/"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
-    "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "Historical Trap Ahead? This Early November Event Could Derail Bitcoin\u2019s Rally",
+    "url": "https://cryptopotato.com/historical-trap-ahead-this-early-november-event-could-derail-bitcoins-rally/"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Brazil\u2019s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
-    "url": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "Pi Network Makes a Mysterious Stablecoin Move: Could Rewards Be Coming to Pioneers?",
+    "url": "https://cryptopotato.com/pi-network-makes-a-mysterious-stablecoin-move-could-rewards-be-coming-to-pioneers/"
   },
   {
     "source": "CryptoPotato",
     "title": "Robinhood to Launch Crypto Perpetual Futures in the US",
     "url": "https://cryptopotato.com/robinhood-to-launch-crypto-perpetual-futures-in-the-us/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Ripple quietly made Brazil the center of its XRPL tokenization push",
+    "url": "https://cryptoslate.com/ripple-quietly-made-brazil-the-center-of-its-xrpl-tokenization-push/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Japan\u2019s biggest payment network opens its doors for crypto via Binance Pay",
+    "url": "https://cryptoslate.com/japans-biggest-payment-network-opens-its-doors-for-crypto-via-binance-pay/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Base\u2019s Cobalt upgrade adds another rule to affect token balances",
+    "url": "https://cryptoslate.com/bases-cobalt-upgrade-adds-another-rule-to-affect-token-balances/"
   },
   {
     "source": "CryptoSlate",
@@ -35,9 +60,14 @@
     "url": "https://cryptoslate.com/brazils-largest-energy-giant-tests-cardano-to-fix-carbon-double-counting/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Standard Chartered says Ethena\u2019s ENA could crush Bitcoin and Ethereum returns by 2028",
-    "url": "https://cryptoslate.com/standard-chartered-says-ethenas-ena-could-crush-bitcoin-and-ethereum-returns-by-2028/"
+    "source": "NewsBTC",
+    "title": "TopNod Wallet Debuts Access to Axil\u2019s APT (Axil Pot), a T+0 On-Chain Yield Product for Everyday Idle Liquidity",
+    "url": "https://www.newsbtc.com/news/topnod-wallet-debuts-access-to-axils-apt-axil-pot-a-t0-on-chain-yield-product-for-everyday-idle-liquidity/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "MEXC adds another 1,000 BTC to Guardian Fund, strengthening user protection",
+    "url": "https://www.newsbtc.com/news/mexc-adds-another-1000-btc-to-guardian-fund-strengthening-user-protection/"
   },
   {
     "source": "NewsBTC",
@@ -53,10 +83,5 @@
     "source": "NewsBTC",
     "title": "Superstate Expands Tokenized Short-Duration US Treasury Fund (USTB) To Base",
     "url": "https://www.newsbtc.com/news/defi/superstate-expands-tokenized-short-duration-us-treasury-fund-ustb-to-b/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Ripple Tokenizes Brazilian Investment Fund & Real Estate Records On XRP Ledger",
-    "url": "https://www.newsbtc.com/markets/ripple-tokenizes-brazilian-investment-fund-real-estate-records-on-xrp/"
   }
 ]
