@@ -1,6 +1,11 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
+    "url": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Standard Chartered sees Ethena\u2019s USDe reaching $40B, ENA hitting $2",
     "url": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -21,6 +26,11 @@
   },
   {
     "source": "CryptoSlate",
+    "title": "Three hidden flaws in Uniswap\u2019s StablePair hook drain LP returns",
+    "url": "https://cryptoslate.com/three-hidden-flaws-in-uniswaps-stablepair-hook-drain-lp-returns/"
+  },
+  {
+    "source": "CryptoSlate",
     "title": "Brazil\u2019s largest energy giant tests Cardano to fix carbon double-counting",
     "url": "https://cryptoslate.com/brazils-largest-energy-giant-tests-cardano-to-fix-carbon-double-counting/"
   },
@@ -30,14 +40,9 @@
     "url": "https://cryptoslate.com/standard-chartered-says-ethenas-ena-could-crush-bitcoin-and-ethereum-returns-by-2028/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Robinhood Chain kept producing blocks through a roughly 40-minute app disruption",
-    "url": "https://cryptoslate.com/robinhood-chain-kept-producing-blocks-through-a-roughly-40-minute-app-disruption/"
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "SEC changes token buyback guidance as spending hits $638M",
-    "url": "https://cryptoslate.com/sec-changes-token-buyback-guidance-as-spending-hits-638m/"
+    "source": "NewsBTC",
+    "title": "WisdomTree Deploys Tokenized Real World Asset Funds Natively On Arbitrum",
+    "url": "https://www.newsbtc.com/institutional/wisdomtree-deploys-tokenized-real-world-asset-funds-natively-on-arbitr/"
   },
   {
     "source": "NewsBTC",
@@ -53,10 +58,5 @@
     "source": "NewsBTC",
     "title": "Ripple Tokenizes Brazilian Investment Fund & Real Estate Records On XRP Ledger",
     "url": "https://www.newsbtc.com/markets/ripple-tokenizes-brazilian-investment-fund-real-estate-records-on-xrp/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "HANetf Teams Up With HSBC To Launch First GBP & EUR-Hedged Bitcoin Products",
-    "url": "https://www.newsbtc.com/institutional/hanetf-teams-up-with-hsbc-to-launch-first-gbp-eur-hedged-bitcoin-produ/"
   }
 ]
