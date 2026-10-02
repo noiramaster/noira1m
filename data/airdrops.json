@@ -1,13 +1,18 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
-    "url": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "\u2018Euro stablecoin isn\u2019t enough\u2019: EU issuers make case for USD tokens",
+    "url": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CoinTelegraph",
-    "title": "SEC moves to clear custody hurdle for advisers offering crypto",
-    "url": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
+    "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Travala\u2019s Crypto Loyalty Program Passes 170,000 Members, Sets Long-Term Goal of 30% of AVA Supply Locked",
+    "url": "https://cryptopotato.com/travalas-crypto-loyalty-program-passes-170000-members-sets-long-term-goal-of-30-of-ava-supply-locked-2/"
   },
   {
     "source": "CryptoPotato",
@@ -31,37 +36,47 @@
   },
   {
     "source": "CryptoSlate",
-    "title": "Bitget restores $300M fund after absorbing $388M security breach",
-    "url": "https://cryptoslate.com/bitget-restores-300m-fund-after-absorbing-388m-security-breach/"
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Wall Street arrived in NEAR just as a $4 billion-a-month app got hacked",
-    "url": "https://cryptoslate.com/wall-street-arrived-in-near-just-as-a-4-billion-a-month-app-got-hacked/"
+    "title": "Bitcoin survived 5% yields but crypto\u2019s cheap-money era did not",
+    "url": "https://cryptoslate.com/bitcoin-survived-5-yields-but-cryptos-cheap-money-era-did-not/"
   },
   {
     "source": "NewsBTC",
-    "title": "TopNod Wallet Debuts Access to Axil\u2019s APT (Axil Pot), a T+0 On-Chain Yield Product for Everyday Idle Liquidity",
-    "url": "https://www.newsbtc.com/news/topnod-wallet-debuts-access-to-axils-apt-axil-pot-a-t0-on-chain-yield-product-for-everyday-idle-liquidity/"
+    "title": "Polymath And CineCity Explore Regulated Tokenized Film Investment Platform",
+    "url": "https://www.newsbtc.com/business/polymath-cinecity-tokenized-film-investment/"
   },
   {
     "source": "NewsBTC",
-    "title": "MEXC adds another 1,000 BTC to Guardian Fund, strengthening user protection",
-    "url": "https://www.newsbtc.com/news/mexc-adds-another-1000-btc-to-guardian-fund-strengthening-user-protection/"
+    "title": "Visa Says Business Payments Now Drive 17% Of Stablecoin-Linked Card Volume",
+    "url": "https://www.newsbtc.com/business/visa-stablecoin-business-payments-17-percent/"
   },
   {
     "source": "NewsBTC",
-    "title": "WisdomTree Deploys Tokenized Real World Asset Funds Natively On Arbitrum",
-    "url": "https://www.newsbtc.com/institutional/wisdomtree-deploys-tokenized-real-world-asset-funds-natively-on-arbitr/"
+    "title": "Chainlink And Swift Demo Automated Tokenized-Equity Dividends Across Four Blockchains",
+    "url": "https://www.newsbtc.com/technology/chainlink-swift-tokenized-equity-dividends-four-blockchains/"
   },
   {
     "source": "NewsBTC",
-    "title": "Solana Validator Codebase Tag v2.1.0 Released On Testnet",
-    "url": "https://www.newsbtc.com/all/solana-validator-codebase-tag-v2-1-0-released-on-testnet/"
+    "title": "Fiserv Puts Stablecoin Banking Platform Live With North Dakota Roughrider Coin",
+    "url": "https://www.newsbtc.com/business/fiserv-roughrider-coin-stablecoin-bank-platform/"
   },
   {
     "source": "NewsBTC",
-    "title": "Superstate Expands Tokenized Short-Duration US Treasury Fund (USTB) To Base",
-    "url": "https://www.newsbtc.com/news/defi/superstate-expands-tokenized-short-duration-us-treasury-fund-ustb-to-b/"
+    "title": "Marex Gives Institutions Long And Short Crypto Exposure Without Holding The Coins",
+    "url": "https://www.newsbtc.com/institutional/marex-otc-rolling-spot-crypto-institutions/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Hester Peirce Leaves SEC After Years At The Center Of US Crypto Policy",
+    "url": "https://www.newsbtc.com/policy/hester-peirce-leaves-sec-crypto-task-force/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "OpenWorld Begins Nasdaq Trading As VerifyMe Deal Creates Public Tokenization Company",
+    "url": "https://www.newsbtc.com/business/openworld-verifyme-opnw-tokenization-nasdaq/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "QNT Reaches Solana Liquidity Through Sunrise And Raydium",
+    "url": "https://www.newsbtc.com/altcoins/qnt-solana-raydium-sunrise-listing/"
   }
 ]
