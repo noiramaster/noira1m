@@ -1,18 +1,18 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week",
+    "url": "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
     "url": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "OKX, NYSE parent file to launch tokenized US stock platform",
-    "url": "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "PUMP Soars 16% in 24 Hours, Bitcoin Reclaims $85K: Weekend Watch",
-    "url": "https://cryptopotato.com/pump-soars-16-in-24-hours-bitcoin-reclaims-85k-weekend-watch/"
+    "source": "CryptoSlate",
+    "title": "Ten tokens held 62% of altcoin futures exposure, but shared collateral can put other positions at risk",
+    "url": "https://cryptoslate.com/ten-tokens-held-62-of-altcoin-futures-exposure-but-shared-collateral-can-put-other-positions-at-risk/"
   },
   {
     "source": "CryptoSlate",
@@ -20,14 +20,9 @@
     "url": "https://cryptoslate.com/ethereums-past-outflow-charts-can-change-when-more-exchange-wallets-are-identified/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "New Treasury rules could change how stablecoin issuers get your dollars back",
-    "url": "https://cryptoslate.com/new-treasury-rules-could-change-how-stablecoin-issuers-get-your-dollars-back/"
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Drift hack recovery opened near one cent per dollar lost",
-    "url": "https://cryptoslate.com/drift-hack-recovery-opened-near-one-cent-per-dollar-lost/"
+    "source": "NewsBTC",
+    "title": "MEXC and Payward Signal Intent to Explore Broader Collaboration Ahead of TOKEN2049",
+    "url": "https://www.newsbtc.com/news/mexc-and-payward-signal-intent-to-explore-broader-collaboration-ahead-of-token2049/"
   },
   {
     "source": "NewsBTC",
@@ -63,10 +58,5 @@
     "source": "NewsBTC",
     "title": "OpenWorld Begins Nasdaq Trading As VerifyMe Deal Creates Public Tokenization Company",
     "url": "https://www.newsbtc.com/business/openworld-verifyme-opnw-tokenization-nasdaq/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "QNT Reaches Solana Liquidity Through Sunrise And Raydium",
-    "url": "https://www.newsbtc.com/altcoins/qnt-solana-raydium-sunrise-listing/"
   }
 ]
