@@ -1,23 +1,48 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "IMF warns tokenized markets could amplify financial risks",
+    "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "\u2018No going back\u2019 for institutions moving toward tokenized onchain future, says Fidelity",
+    "url": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Sui\u2019s Hashi to launch with $500M in Bitcoin finance commitments",
     "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Standard Chartered plans institutional crypto custody in Singapore",
-    "url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "THORChain Launches Native Zcash Swaps",
+    "url": "https://cryptopotato.com/thorchain-launches-native-zcash-swaps/"
   },
   {
     "source": "CryptoPotato",
-    "title": "Tether Signs MoU With Kazakhstan\u2019s Central Bank to Explore a Tenge Stablecoin",
-    "url": "https://cryptopotato.com/tether-signs-mou-with-kazakhstans-central-bank-to-explore-a-tenge-stablecoin/"
+    "title": "CoinTracking Review 2026: Pricing, Features, Pros & Cons",
+    "url": "https://cryptopotato.com/cointracking-review-2026-pricing-features-pros-cons/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Travala Launches Native AI Travel Agent with BNB Chain & Binance Pay",
+    "url": "https://cryptopotato.com/travala-launches-native-ai-travel-agent-with-bnb-chain-binance-pay/"
   },
   {
     "source": "CryptoSlate",
     "title": "BitMine\u2019s Ethereum buying spree could end in six weeks",
     "url": "https://cryptoslate.com/bitmines-ethereum-buying-spree-could-be-over-in-five-weeks/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Sui\u2019s Hashi Bitcoin Finance Network Launches With More Than $500 Million Committed",
+    "url": "https://www.newsbtc.com/altcoins/sui-s-hashi-bitcoin-finance-network-launches-with-more-than-500/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Chainlink Launches One-Click Cross-Chain Vault Deposits Across 80+ Blockchains",
+    "url": "https://www.newsbtc.com/technology/chainlink-launches-one-click-cross-chain-vault-deposits-across-80/"
   },
   {
     "source": "NewsBTC",
@@ -33,10 +58,5 @@
     "source": "NewsBTC",
     "title": "Avalanche Tokenized Treasury Market Reaches $545 Million After Rapid Growth",
     "url": "https://www.newsbtc.com/altcoins/avalanche-tokenized-treasury-market-reaches-545-million-after-rapid/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Ethereum Tests 200 Million Gas Limit On Sepolia As Glamsterdam Moves Forward",
-    "url": "https://www.newsbtc.com/news/ethereum/ethereum-tests-200-million-gas-limit-on-sepolia-as-glamsterdam-moves/"
   }
 ]
