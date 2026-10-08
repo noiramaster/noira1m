@@ -1,13 +1,13 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "Hunter Biden confirms LAPTOP token \u2018not a rug pull,\u2019 just trolling Trumps",
-    "url": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Sui\u2019s Hashi to launch with $500M in Bitcoin finance commitments",
+    "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CoinTelegraph",
-    "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
-    "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Standard Chartered plans institutional crypto custody in Singapore",
+    "url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
@@ -15,9 +15,19 @@
     "url": "https://cryptopotato.com/tether-signs-mou-with-kazakhstans-central-bank-to-explore-a-tenge-stablecoin/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Ripple (XRP) Lands New South Korea Deal as Meritz Securities Explores Digital Asset Custody",
-    "url": "https://cryptopotato.com/ripple-xrp-lands-new-south-korea-deal-as-meritz-securities-explores-digital-asset-custody/"
+    "source": "CryptoSlate",
+    "title": "BitMine\u2019s Ethereum buying spree could end in six weeks",
+    "url": "https://cryptoslate.com/bitmines-ethereum-buying-spree-could-be-over-in-five-weeks/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Gate Partners with Visa to Launch Crypto-linked Card Across 40+ Countries and Territories",
+    "url": "https://www.newsbtc.com/news/gate-partners-with-visa-to-launch-crypto-linked-card-across-40-countries-and-territories/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Polygon Open Money Stack Expands to TRON, Extending Network Access to Regulated U.S. Payment Rails",
+    "url": "https://www.newsbtc.com/news/polygon-open-money-stack-expands-to-tron-extending-network-access-to-regulated-u-s-payment-rails/"
   },
   {
     "source": "NewsBTC",
@@ -28,10 +38,5 @@
     "source": "NewsBTC",
     "title": "Ethereum Tests 200 Million Gas Limit On Sepolia As Glamsterdam Moves Forward",
     "url": "https://www.newsbtc.com/news/ethereum/ethereum-tests-200-million-gas-limit-on-sepolia-as-glamsterdam-moves/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Cardano Brings Compliance Rules On-Chain With CIP-0113 Launch",
-    "url": "https://www.newsbtc.com/altcoins/cardano-brings-compliance-rules-on-chain-with-cip-0113-launch/"
   }
 ]
