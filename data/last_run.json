@@ -1,8 +1,8 @@
 {
-  "airdrops": 10,
-  "wallets": 3350,
+  "airdrops": 8,
+  "wallets": 3355,
   "web": 3,
   "check_Uniswap": "HTTP 403",
   "wallet": "0x435c70c3...",
-  "timestamp": "2026-10-11T18:46:31.961575+00:00"
+  "timestamp": "2026-10-11T22:31:55.803727+00:00"
 }
