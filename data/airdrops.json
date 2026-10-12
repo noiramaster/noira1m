@@ -1,18 +1,48 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
-    "url": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
+    "url": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ripple Price Analysis: What\u2019s Next for XRP After Another Rejection at Key Resistance?",
+    "url": "https://cryptopotato.com/ripple-price-analysis-whats-next-for-xrp-after-another-rejection-at-key-resistance/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ethereum Price Prediction: Relief Rally or Another ETH Dump Next?",
+    "url": "https://cryptopotato.com/ethereum-price-prediction-relief-rally-or-another-eth-dump-next/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Big Ripple (XRP) Development as Standard Chartered Goes Live With RLUSD Custody",
+    "url": "https://cryptopotato.com/big-ripple-xrp-development-as-standard-chartered-goes-live-with-rlusd-custody/"
   },
   {
     "source": "CryptoSlate",
-    "title": "Aave\u2019s USDG rollover plan has a yield below most quoted borrowing rates",
-    "url": "https://cryptoslate.com/aaves-proposed-usdg-rollover-faces-higher-borrowing-costs-and-uncertain-rewards/"
+    "title": "France\u2019s tax proposal would tax Bitcoin-to-USDC swaps before investors cash out",
+    "url": "https://cryptoslate.com/frances-tax-proposal-would-make-bitcoin-to-usdc-swaps-taxable-before-cash-out/"
   },
   {
     "source": "CryptoSlate",
-    "title": "Starknet considers leaving Ethereum for a quantum-resistant Layer 1",
-    "url": "https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/"
+    "title": "Solana sandwich bots took $29.7 million before costs, mostly targeting Pump.fun",
+    "url": "https://cryptoslate.com/solana-sandwich-bots-took-29-7-million-before-costs-bitquery-estimates/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "State of TRON Q3 2026 Report Highlights $2.21 Trillion in Stablecoin Settlement Amid Network Activity Growth",
+    "url": "https://www.newsbtc.com/news/state-of-tron-q3-2026-report-highlights-2-21-trillion-in-stablecoin-settlement-amid-network-activity-growth/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "MEXC Brings AI, TradFi and the Future of Trading to Life at TOKEN2049 Singapore",
+    "url": "https://www.newsbtc.com/news/mexc-brings-ai-tradfi-and-the-future-of-trading-to-life-at-token2049-singapore/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "From TOKEN2049 to Ecosystem Co-Building: HTX Advances Its Multifaceted Engagement Across the Global Crypto Industry",
+    "url": "https://www.newsbtc.com/news/from-token2049-to-ecosystem-co-building-htx-advances-its-multifaceted-engagement-across-the-global-crypto-industry/"
   },
   {
     "source": "NewsBTC",
@@ -28,10 +58,5 @@
     "source": "NewsBTC",
     "title": "OSL Brings A USDGO Market-Neutral Fund On-Chain For Hong Kong Investors",
     "url": "https://www.newsbtc.com/business/osl-brings-a-usdgo-market-neutral-fund-on-chain-for-hong-kong/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Sui\u2019s Hashi Bitcoin Finance Network Launches With More Than $500 Million Committed",
-    "url": "https://www.newsbtc.com/altcoins/sui-s-hashi-bitcoin-finance-network-launches-with-more-than-500/"
   }
 ]
