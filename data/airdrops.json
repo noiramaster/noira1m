@@ -1,6 +1,16 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
+    "url": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "CONNECT recap: Liquidity is tokenization\u2019s next challenge, everyday stablecoins",
+    "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
     "url": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -10,9 +20,9 @@
     "url": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
-    "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "Liquid Ape NFTs Strategically Plan Their Launch to Coincide with ApeFest 2026",
+    "url": "https://cryptopotato.com/liquid-ape-nfts-strategically-plan-their-launch-to-coincide-with-apefest-2026/"
   },
   {
     "source": "CryptoPotato",
@@ -20,19 +30,24 @@
     "url": "https://cryptopotato.com/openai-says-research-model-raided-developer-wallet-on-ethereum-testnet/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "XRP Flashes Multiple Buy Signals Even as Struggle Near $1.30 Continues",
-    "url": "https://cryptopotato.com/xrp-flashes-multiple-buy-signals-even-as-struggle-near-1-30-continues/"
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "USDC Just Hit a Major EU Regulatory Milestone: Here\u2019s What Changes in November",
-    "url": "https://cryptopotato.com/usdc-just-hit-a-major-eu-regulatory-milestone-heres-what-changes-in-november/"
+    "source": "CryptoSlate",
+    "title": "Fortitude sold $8.3 million in borrowed Zcash to fund its mining expansion",
+    "url": "https://cryptoslate.com/zcashs-mining-boom-can-grow-without-creating-a-new-token-bid/"
   },
   {
     "source": "CryptoSlate",
-    "title": "84 million XRP added to exchange wallets as price slipped toward $1.30",
-    "url": "https://cryptoslate.com/xrp-exchange-wallets-added-84-million-tokens-in-three-days-as-price-slipped-toward-1-30/"
+    "title": "Institutions managing \u20ac800 billion ask what crypto tokens actually earn",
+    "url": "https://cryptoslate.com/e800b-in-wealth-managers-rethink-how-they-allocate-to-crypto/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "MEXC Releases October 2026 Proof of Reserves, Reinforcing User Trust Through Verifiable Transparency",
+    "url": "https://www.newsbtc.com/news/mexc-releases-october-2026-proof-of-reserves-reinforcing-user-trust-through-verifiable-transparency/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "MEXC AI Trading Report Reveals 85% of Crypto Traders Use AI, But Most Limit Its Control Over Funds",
+    "url": "https://www.newsbtc.com/news/mexc-ai-trading-report-reveals-85-of-crypto-traders-use-ai-but-most-limit-its-control-over-funds/"
   },
   {
     "source": "NewsBTC",
@@ -68,10 +83,5 @@
     "source": "NewsBTC",
     "title": "MEXC and Payward Highlight Collaboration as Crypto and TradFi Converge at TOKEN2049",
     "url": "https://www.newsbtc.com/news/mexc-and-payward-highlight-collaboration-as-crypto-and-tradfi-converge-at-token2049/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "OSL Brings A USDGO Market-Neutral Fund On-Chain For Hong Kong Investors",
-    "url": "https://www.newsbtc.com/business/osl-brings-a-usdgo-market-neutral-fund-on-chain-for-hong-kong/"
   }
 ]
