@@ -1,10 +1,5 @@
 [
   {
-    "source": "CryptoPotato",
-    "title": "Solana\u2019s RWA Market Explodes 600% in a Year as Ethereum Struggles to Keep Up",
-    "url": "https://cryptopotato.com/solanas-rwa-market-explodes-600-in-a-year-as-ethereum-struggles-to-keep-up/"
-  },
-  {
     "source": "CryptoSlate",
     "title": "Two Aave stablecoin backstops shrank $12.4 million as reward rates rose",
     "url": "https://cryptoslate.com/two-aave-stablecoin-backstops-shrank-12-4-million-as-reward-rates-rose/"
@@ -13,6 +8,21 @@
     "source": "CryptoSlate",
     "title": "JUST Completes 5th JST Buyback & Burn: Over 170M Tokens (~$23.53M) Burned Ahead of Major Deflationary Upgrade",
     "url": "https://cryptoslate.com/just-completes-5th-jst-buyback-burn-over-170m-tokens-23-53m-burned-ahead-of-major-deflationary-upgrade/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Solana\u2019s Tokenized Asset Market Grows More Than Sixfold In A Year",
+    "url": "https://www.newsbtc.com/altcoin-news/solana-tokenized-assets-sixfold-growth-2026/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Block\u2019s Proto Mining Hardware Gets A Smaller Entry Point With Sazmining",
+    "url": "https://www.newsbtc.com/bitcoin-news/block-proto-sazmining-bitcoin-hashboard-financing/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Tokenized Stocks Reach $262 Million In DeFi, But The Growth Is Not All On Base",
+    "url": "https://www.newsbtc.com/crypto-news/tokenized-stocks-defi-262-million-across-chains/"
   },
   {
     "source": "NewsBTC",
@@ -48,15 +58,5 @@
     "source": "NewsBTC",
     "title": "Robinhood Chain Now Accounts For More Than Half Of Uniswap Revenue",
     "url": "https://www.newsbtc.com/crypto-news/robinhood-chain-uniswap-september-revenue/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Binance Pool To Close November 10, Giving Bitcoin Miners Weeks To Move",
-    "url": "https://www.newsbtc.com/bitcoin-news/binance-pool-close-november-10-bitcoin-miners/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Bitcoin Futures Open Interest Slips To $7.68 Billion As Traders Keep Funding Positive",
-    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-open-interest-7-68-billion-funding-weekend/"
   }
 ]
