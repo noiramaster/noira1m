@@ -1,8 +1,18 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
-    "url": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Public companies object to OKX-ICE\u2019s tokenized stock plan",
+    "url": "https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Price Analysis: Can BTC Reclaim $84K Before Another Slide Toward $77K?",
+    "url": "https://cryptopotato.com/bitcoin-price-analysis-can-btc-reclaim-84k-before-another-slide-toward-77k/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "BTC, ETH, and XRP at Turning Points: Major Breakout or Deep Correction Coming Next?",
+    "url": "https://cryptopotato.com/btc-eth-and-xrp-at-turning-points-major-breakout-or-deep-correction-coming-next/"
   },
   {
     "source": "CryptoPotato",
@@ -10,14 +20,24 @@
     "url": "https://cryptopotato.com/stakerxs-ai-agent-surpasses-passes-40m-staked-assets-on-solana-within-three-months-of-launch/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Two Aave stablecoin backstops shrank $12.4 million as reward rates rose",
-    "url": "https://cryptoslate.com/two-aave-stablecoin-backstops-shrank-12-4-million-as-reward-rates-rose/"
+    "source": "NewsBTC",
+    "title": "Ethereum Sets October 26 Hoodi Test For Glamsterdam Upgrade As 200M Gas Limit Nears",
+    "url": "https://www.newsbtc.com/ethereum-news/ethereum-hoodi-glamsterdam-october-26-testnet/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "JUST Completes 5th JST Buyback & Burn: Over 170M Tokens (~$23.53M) Burned Ahead of Major Deflationary Upgrade",
-    "url": "https://cryptoslate.com/just-completes-5th-jst-buyback-burn-over-170m-tokens-23-53m-burned-ahead-of-major-deflationary-upgrade/"
+    "source": "NewsBTC",
+    "title": "European Banking Authority Puts USDC Under Significant-Token Supervision",
+    "url": "https://www.newsbtc.com/regulation/european-banking-authority-puts-usdc-under-significant-token-supervision/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Stablecoin Payments Reach $482 Billion As Token Supply Barely Grows",
+    "url": "https://www.newsbtc.com/crypto-news/stablecoin-payments-reach-482-billion-as-token-supply-barely-grows/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "JPMorgan Takes JPM Coin To Ethereum As Banks Test Public-Chain Settlement",
+    "url": "https://www.newsbtc.com/crypto-news/jpmorgan-takes-jpm-coin-to-ethereum-as-banks-test-public-chain-settlement/"
   },
   {
     "source": "NewsBTC",
@@ -38,35 +58,5 @@
     "source": "NewsBTC",
     "title": "Fidelity Sees A Stronger Solana Network, With Concentration Risks Still In View",
     "url": "https://www.newsbtc.com/crypto-news/fidelity-solana-resilience-research-concentration-risks/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "BitTorrent Ushers in Next-Gen Web3 Infrastructure with Strategic Rebrand and Inaugural BTT Burn",
-    "url": "https://www.newsbtc.com/news/bittorrent-ushers-in-next-gen-web3-infrastructure-with-strategic-rebrand-and-inaugural-btt-burn/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "JUST Completes 5th JST Buyback & Burn: Over 170M Tokens (~$23.53M) Burned Ahead of Major Deflationary Upgrade",
-    "url": "https://www.newsbtc.com/news/just-completes-5th-jst-buyback-burn-over-170m-tokens-23-53m-burned-ahead-of-major-deflationary-upgrade/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "DSA Joins Nacha Payments Innovation Alliance Fall Meeting to Discuss the Future of Digital Payments",
-    "url": "https://www.newsbtc.com/news/dsa-joins-nacha-payments-innovation-alliance-fall-meeting-to-discuss-the-future-of-digital-payments/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Bitcoin\u2019s Quantum Transition Won\u2019t Stop at Bitcoin",
-    "url": "https://www.newsbtc.com/news/bitcoins-quantum-transition-wont-stop-at-bitcoin/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Aave\u2019s Native Bitcoin Plan Moves Forward, But Governance Has Questions",
-    "url": "https://www.newsbtc.com/crypto-news/aave-babylon-native-bitcoin-collateral-v4/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Robinhood Chain Now Accounts For More Than Half Of Uniswap Revenue",
-    "url": "https://www.newsbtc.com/crypto-news/robinhood-chain-uniswap-september-revenue/"
   }
 ]
