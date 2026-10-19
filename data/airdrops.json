@@ -1,8 +1,23 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "Public companies object to OKX-ICE\u2019s tokenized stock plan",
-    "url": "https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
+    "url": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
+    "url": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Revolut secures Gibraltar crypto license to support global expansion",
+    "url": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Qubic Pushes Back on Hack Claims: Weak Wallet Seeds Were to Blame",
+    "url": "https://cryptopotato.com/qubic-pushes-back-on-hack-claims-weak-wallet-seeds-were-to-blame/"
   },
   {
     "source": "CryptoPotato",
@@ -15,9 +30,19 @@
     "url": "https://cryptopotato.com/btc-eth-and-xrp-at-turning-points-major-breakout-or-deep-correction-coming-next/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "StakerX\u2019s AI Agent Surpasses Passes $40M Staked Assets on Solana Within Three Months of Launch",
-    "url": "https://cryptopotato.com/stakerxs-ai-agent-surpasses-passes-40m-staked-assets-on-solana-within-three-months-of-launch/"
+    "source": "NewsBTC",
+    "title": "South Korea Faces Fresh Push To Delay Crypto Gains Tax Until 2029",
+    "url": "https://www.newsbtc.com/regulation/south-korea-faces-fresh-push-to-delay-crypto-gains-tax-until-2029/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Kraken Parent Payward Moves Into European Banking With Saldo Deal",
+    "url": "https://www.newsbtc.com/exchanges/kraken-parent-payward-moves-into-european-banking-with-saldo-deal/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "CME Targets October 19 Start For Bitcoin Cash And Uniswap Futures",
+    "url": "https://www.newsbtc.com/derivatives/cme-targets-october-19-start-for-bitcoin-cash-and-uniswap-futures/"
   },
   {
     "source": "NewsBTC",
@@ -38,25 +63,5 @@
     "source": "NewsBTC",
     "title": "JPMorgan Takes JPM Coin To Ethereum As Banks Test Public-Chain Settlement",
     "url": "https://www.newsbtc.com/crypto-news/jpmorgan-takes-jpm-coin-to-ethereum-as-banks-test-public-chain-settlement/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Solana\u2019s Tokenized Asset Market Grows More Than Sixfold In A Year",
-    "url": "https://www.newsbtc.com/altcoin-news/solana-tokenized-assets-sixfold-growth-2026/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Block\u2019s Proto Mining Hardware Gets A Smaller Entry Point With Sazmining",
-    "url": "https://www.newsbtc.com/bitcoin-news/block-proto-sazmining-bitcoin-hashboard-financing/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Tokenized Stocks Reach $262 Million In DeFi, But The Growth Is Not All On Base",
-    "url": "https://www.newsbtc.com/crypto-news/tokenized-stocks-defi-262-million-across-chains/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Fidelity Sees A Stronger Solana Network, With Concentration Risks Still In View",
-    "url": "https://www.newsbtc.com/crypto-news/fidelity-solana-resilience-research-concentration-risks/"
   }
 ]
