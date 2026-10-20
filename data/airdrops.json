@@ -5,29 +5,24 @@
     "url": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
-    "url": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Revolut secures Gibraltar crypto license to support global expansion",
-    "url": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
     "source": "CryptoPotato",
     "title": "Qubic Pushes Back on Hack Claims: Weak Wallet Seeds Were to Blame",
     "url": "https://cryptopotato.com/qubic-pushes-back-on-hack-claims-weak-wallet-seeds-were-to-blame/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Price Analysis: Can BTC Reclaim $84K Before Another Slide Toward $77K?",
-    "url": "https://cryptopotato.com/bitcoin-price-analysis-can-btc-reclaim-84k-before-another-slide-toward-77k/"
+    "source": "CryptoSlate",
+    "title": "BNB Chain splits asset power across 4 roles while admins hold the key",
+    "url": "https://cryptoslate.com/bnb-chain-splits-asset-power-across-4-roles-while-admins-hold-the-key/"
   },
   {
     "source": "CryptoSlate",
     "title": "French MPs back crypto tax, and stablecoin swaps take the hit",
     "url": "https://cryptoslate.com/french-mps-back-crypto-tax-and-stablecoin-swaps-take-the-hit/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "BlackRock Files For Bitcoin ETF With Managed Downside Protection",
+    "url": "https://www.newsbtc.com/bitcoin-news/blackrock-files-for-bitcoin-etf-with-managed-downside-protection/"
   },
   {
     "source": "NewsBTC",
@@ -58,10 +53,5 @@
     "source": "NewsBTC",
     "title": "Stablecoin Payments Reach $482 Billion As Token Supply Barely Grows",
     "url": "https://www.newsbtc.com/crypto-news/stablecoin-payments-reach-482-billion-as-token-supply-barely-grows/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "JPMorgan Takes JPM Coin To Ethereum As Banks Test Public-Chain Settlement",
-    "url": "https://www.newsbtc.com/crypto-news/jpmorgan-takes-jpm-coin-to-ethereum-as-banks-test-public-chain-settlement/"
   }
 ]
