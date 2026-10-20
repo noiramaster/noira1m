@@ -1,18 +1,28 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+    "url": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
+    "url": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
     "url": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Kazakhstan court orders curbs on Coinbase, BingX and four others",
-    "url": "https://cointelegraph.com/news/kazakhstan-court-limits-coinbase-bingx-four?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "Tether CEO Rejects Senate Claims Over Iran-Linked USDT",
+    "url": "https://cryptopotato.com/tether-ceo-rejects-senate-claims-over-iran-linked-usdt/"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
-    "url": "https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "ZENDEX Private EVM ZK-Privacy DEX Testnet Goes Live",
+    "url": "https://cryptopotato.com/zendex-private-evm-zk-privacy-dex-testnet-goes-live/"
   },
   {
     "source": "CryptoPotato",
@@ -20,19 +30,19 @@
     "url": "https://cryptopotato.com/grvt-burns-1-1-million-tokens-as-countdown-to-grvt-2-0-begins/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "XRP Whales Pull Back? Small Binance Transfers Hit Highest Share Since October 2024",
-    "url": "https://cryptopotato.com/xrp-whales-pull-back-small-binance-transfers-hit-highest-share-since-october-2024/"
-  },
-  {
     "source": "CryptoSlate",
     "title": "BNB Chain splits asset power across 4 roles while admins hold the key",
     "url": "https://cryptoslate.com/bnb-chain-splits-asset-power-across-4-roles-while-admins-hold-the-key/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "French MPs back crypto tax, and stablecoin swaps take the hit",
-    "url": "https://cryptoslate.com/french-mps-back-crypto-tax-and-stablecoin-swaps-take-the-hit/"
+    "source": "NewsBTC",
+    "title": "Hyperliquid Policy Center Calls For Five Changes To SEC Crypto Rule",
+    "url": "https://www.newsbtc.com/crypto-regulation/hyperliquid-policy-center-calls-for-five-changes-to-sec-crypto-rule/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Bitmine Ethereum Treasury Tops 6 Million ETH After Another Weekly Purchase",
+    "url": "https://www.newsbtc.com/ethereum-news/bitmine-ethereum-treasury-tops-6-million-eth-after-another-weekly-purchase/"
   },
   {
     "source": "NewsBTC",
@@ -53,15 +63,5 @@
     "source": "NewsBTC",
     "title": "BlackRock Files For Bitcoin ETF With Managed Downside Protection",
     "url": "https://www.newsbtc.com/bitcoin-news/blackrock-files-for-bitcoin-etf-with-managed-downside-protection/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "South Korea Faces Fresh Push To Delay Crypto Gains Tax Until 2029",
-    "url": "https://www.newsbtc.com/regulation/south-korea-faces-fresh-push-to-delay-crypto-gains-tax-until-2029/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Kraken Parent Payward Moves Into European Banking With Saldo Deal",
-    "url": "https://www.newsbtc.com/exchanges/kraken-parent-payward-moves-into-european-banking-with-saldo-deal/"
   }
 ]
