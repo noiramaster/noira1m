@@ -1,13 +1,28 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
-    "url": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+    "url": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Kazakhstan court orders curbs on Coinbase, BingX and four others",
+    "url": "https://cointelegraph.com/news/kazakhstan-court-limits-coinbase-bingx-four?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
+    "url": "https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
-    "title": "Qubic Pushes Back on Hack Claims: Weak Wallet Seeds Were to Blame",
-    "url": "https://cryptopotato.com/qubic-pushes-back-on-hack-claims-weak-wallet-seeds-were-to-blame/"
+    "title": "GRVT Burns 1.1 Million Tokens as Countdown to Grvt 2.0 Begins",
+    "url": "https://cryptopotato.com/grvt-burns-1-1-million-tokens-as-countdown-to-grvt-2-0-begins/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "XRP Whales Pull Back? Small Binance Transfers Hit Highest Share Since October 2024",
+    "url": "https://cryptopotato.com/xrp-whales-pull-back-small-binance-transfers-hit-highest-share-since-october-2024/"
   },
   {
     "source": "CryptoSlate",
@@ -18,6 +33,21 @@
     "source": "CryptoSlate",
     "title": "French MPs back crypto tax, and stablecoin swaps take the hit",
     "url": "https://cryptoslate.com/french-mps-back-crypto-tax-and-stablecoin-swaps-take-the-hit/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "AnchorWatch Opens Bitcoin Custody Service With Lloyd\u2019s-Backed Insurance Option",
+    "url": "https://www.newsbtc.com/bitcoin-news/anchorwatch-opens-bitcoin-custody-service-with-lloyd-s-backed-insurance-option/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Visa And Mesh Want Crypto Wallet Balances To Work At 175 Million Merchants",
+    "url": "https://www.newsbtc.com/crypto-news/visa-and-mesh-want-crypto-wallet-balances-to-work-at-175-million-merchants/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Mastercard Introduces Fraud Screening Before Stablecoin Payments Go On-Chain",
+    "url": "https://www.newsbtc.com/crypto-news/mastercard-introduces-fraud-screening-before-stablecoin-payments-go-on-chain/"
   },
   {
     "source": "NewsBTC",
@@ -33,25 +63,5 @@
     "source": "NewsBTC",
     "title": "Kraken Parent Payward Moves Into European Banking With Saldo Deal",
     "url": "https://www.newsbtc.com/exchanges/kraken-parent-payward-moves-into-european-banking-with-saldo-deal/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "CME Targets October 19 Start For Bitcoin Cash And Uniswap Futures",
-    "url": "https://www.newsbtc.com/derivatives/cme-targets-october-19-start-for-bitcoin-cash-and-uniswap-futures/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Ethereum Sets October 26 Hoodi Test For Glamsterdam Upgrade As 200M Gas Limit Nears",
-    "url": "https://www.newsbtc.com/ethereum-news/ethereum-hoodi-glamsterdam-october-26-testnet/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "European Banking Authority Puts USDC Under Significant-Token Supervision",
-    "url": "https://www.newsbtc.com/regulation/european-banking-authority-puts-usdc-under-significant-token-supervision/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Stablecoin Payments Reach $482 Billion As Token Supply Barely Grows",
-    "url": "https://www.newsbtc.com/crypto-news/stablecoin-payments-reach-482-billion-as-token-supply-barely-grows/"
   }
 ]
