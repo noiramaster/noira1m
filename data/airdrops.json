@@ -1,28 +1,13 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
-    "url": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Malaysia central bank launches DLT platform for tokenized bonds",
+    "url": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
-    "url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Crypto\u2019s 2026 shutdown wave claims 82 projects. What went wrong?",
-    "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
-    "url": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
-    "url": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "ZEC Skyrockets by 13% in 24 Hours, BTC Price Reclaims $83K: Market Watch",
+    "url": "https://cryptopotato.com/zec-skyrockets-by-13-in-24-hours-btc-price-reclaims-83k-market-watch/"
   },
   {
     "source": "CryptoPotato",
@@ -40,9 +25,19 @@
     "url": "https://cryptopotato.com/tether-ceo-rejects-senate-claims-over-iran-linked-usdt/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "ZENDEX Private EVM ZK-Privacy DEX Testnet Goes Live",
-    "url": "https://cryptopotato.com/zendex-private-evm-zk-privacy-dex-testnet-goes-live/"
+    "source": "CryptoSlate",
+    "title": "Binance will reprice stock-token collateral even when Wall Street is closed",
+    "url": "https://cryptoslate.com/binance-will-reprice-stock-token-collateral-even-when-wall-street-is-closed/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "SpaceX\u2019s $194 billion share unlock exposes a major risk in Aave\u2019s tokenized stock ambitions",
+    "url": "https://cryptoslate.com/spacexs-194-billion-share-unlock-exposes-a-major-risk-in-aaves-tokenized-stock-ambitions/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Germany\u2019s main savings bank network launches Bitcoin trading",
+    "url": "https://cryptoslate.com/germanys-main-savings-bank-network-launches-bitcoin-trading/"
   },
   {
     "source": "CryptoSlate",
@@ -53,6 +48,11 @@
     "source": "CryptoSlate",
     "title": "Drift hacker washes $63M through Tornado Cash, leaving recovery claims in limbo",
     "url": "https://cryptoslate.com/drift-hacker-washes-63m-through-tornado-cash-leaving-recovery-claims-in-limbo/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Probly Wraps Up TOKEN2049 Singapore and WHALE3RA, Strengthening Its Presence in On-Chain Prediction Markets",
+    "url": "https://www.newsbtc.com/news/probly-wraps-up-token2049-singapore-and-whale3ra-strengthening-its-presence-in-on-chain-prediction-markets/"
   },
   {
     "source": "NewsBTC",
@@ -78,10 +78,5 @@
     "source": "NewsBTC",
     "title": "Mastercard Introduces Fraud Screening Before Stablecoin Payments Go On-Chain",
     "url": "https://www.newsbtc.com/crypto-news/mastercard-introduces-fraud-screening-before-stablecoin-payments-go-on-chain/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "BlackRock Files For Bitcoin ETF With Managed Downside Protection",
-    "url": "https://www.newsbtc.com/bitcoin-news/blackrock-files-for-bitcoin-etf-with-managed-downside-protection/"
   }
 ]
