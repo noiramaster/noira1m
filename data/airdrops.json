@@ -1,8 +1,23 @@
 [
   {
+    "source": "CoinTelegraph",
+    "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
+    "url": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+    "url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
     "source": "CryptoPotato",
-    "title": "Toobit\u2019s Halloween Horror Hunt Event Comes Back With 500,000 USDT in Rewards",
-    "url": "https://cryptopotato.com/toobits-halloween-horror-hunt-event-comes-back-with-500000-usdt-in-rewards/"
+    "title": "Travala Introduces AVA Buyback Multiplier, Scaling Buybacks Up to 4x Member Rewards",
+    "url": "https://cryptopotato.com/travala-introduces-ava-buyback-multiplier-scaling-buybacks-up-to-4x-member-rewards/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "A Midnight privacy-vault demo needs outside signers to release Ethereum tokens",
+    "url": "https://cryptoslate.com/a-midnight-privacy-vault-demo-needs-outside-signers-to-release-ethereum-tokens/"
   },
   {
     "source": "NewsBTC",
@@ -28,15 +43,5 @@
     "source": "NewsBTC",
     "title": "Hyperliquid Policy Center Calls For Five Changes To SEC Crypto Rule",
     "url": "https://www.newsbtc.com/crypto-regulation/hyperliquid-policy-center-calls-for-five-changes-to-sec-crypto-rule/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Bitmine Ethereum Treasury Tops 6 Million ETH After Another Weekly Purchase",
-    "url": "https://www.newsbtc.com/ethereum-news/bitmine-ethereum-treasury-tops-6-million-eth-after-another-weekly-purchase/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "AnchorWatch Opens Bitcoin Custody Service With Lloyd\u2019s-Backed Insurance Option",
-    "url": "https://www.newsbtc.com/bitcoin-news/anchorwatch-opens-bitcoin-custody-service-with-lloyd-s-backed-insurance-option/"
   }
 ]
