@@ -1,6 +1,11 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
+    "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
     "url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -15,14 +20,19 @@
     "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Malaysia, Thailand join Singapore\u2019s cross-border stablecoin push",
-    "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoSlate",
+    "title": "What Is an Agentic Activities Launchpad? Inside AX1 Console 2.0",
+    "url": "https://cryptoslate.com/what-is-an-agentic-activities-launchpad-inside-ax1-console-2-0/"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
-    "url": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoSlate",
+    "title": "Tether\u2019s own AI study shows when buying a laptop costs more than cloud tokens",
+    "url": "https://cryptoslate.com/tethers-own-ai-study-shows-when-buying-a-laptop-costs-more-than-cloud-tokens/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Uniswap adds seven trading sources as 0x disputes its protection from malicious hooks",
+    "url": "https://cryptoslate.com/uniswap-adds-seven-trading-sources-as-0x-disputes-its-protection-from-malicious-hooks/"
   },
   {
     "source": "CryptoSlate",
@@ -30,28 +40,23 @@
     "url": "https://cryptoslate.com/memecoin-investor-murad-confirms-81-million-roundtrip-on-gains-says-hes-eyeing-billions/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "NEAR proposal slashes yield by 36%, dividing network validators",
-    "url": "https://cryptoslate.com/near-proposal-slashes-yield-by-36-dividing-network-validators/"
+    "source": "NewsBTC",
+    "title": "Crypto Industry Group Pushes Congress For Small-Payment Tax Relief And Clearer Rules",
+    "url": "https://www.newsbtc.com/crypto-regulation/blockchain-association-congress-crypto-tax-de-minimis-letter/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Ethereum\u2019s long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge",
-    "url": "https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/"
+    "source": "NewsBTC",
+    "title": "Dune Adds Real-Time Spot And Perpetual Trade Feeds Across On-Chain Markets",
+    "url": "https://www.newsbtc.com/crypto-news/dune-real-time-market-data-feeds-spot-perpetuals/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Bitcoin ETFs sold through 7 of 8 crashes even as Wall Street makes BTC selloffs less violent",
-    "url": "https://cryptoslate.com/bitcoin-etfs-sold-through-7-of-8-crashes-even-as-wall-street-makes-btc-selloffs-less-violent/"
+    "source": "NewsBTC",
+    "title": "SoFi Launches Yield-Bearing Tokenized Bank Deposit With Stablecoin Conversion",
+    "url": "https://www.newsbtc.com/crypto-news/sofi-earn-sofie-tokenized-deposit-stablecoin-conversion/"
   },
   {
     "source": "NewsBTC",
     "title": "HSBC Brings Hong Kong Dollar Stablecoin To PayMe As Retail Rollout Begins",
     "url": "https://www.newsbtc.com/crypto-news/hsbc-redcoin-hong-kong-dollar-stablecoin-payme-retail/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Birdeye Launches Peak Terminal For Institutional Crypto Research",
-    "url": "https://www.newsbtc.com/technology/birdeye-peak-institutional-crypto-terminal-launch/"
   }
 ]
