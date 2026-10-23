@@ -1,6 +1,21 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+    "url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Bybit secures first full Dubai license for spot trading services",
+    "url": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
+    "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Malaysia, Thailand join Singapore\u2019s cross-border stablecoin push",
     "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -10,19 +25,9 @@
     "url": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Switzerland\u2019s first retail spot Bitcoin ETF targets November launch",
-    "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
-    "url": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Travala Introduces AVA Buyback Multiplier, Scaling Buybacks Up to 4x Member Rewards",
-    "url": "https://cryptopotato.com/travala-introduces-ava-buyback-multiplier-scaling-buybacks-up-to-4x-member-rewards/"
+    "source": "CryptoSlate",
+    "title": "Memecoin investor Murad confirms $81 million roundtrip on gains, says he\u2019s eyeing billions",
+    "url": "https://cryptoslate.com/memecoin-investor-murad-confirms-81-million-roundtrip-on-gains-says-hes-eyeing-billions/"
   },
   {
     "source": "CryptoSlate",
@@ -40,33 +45,13 @@
     "url": "https://cryptoslate.com/bitcoin-etfs-sold-through-7-of-8-crashes-even-as-wall-street-makes-btc-selloffs-less-violent/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "OCC drops proposed affiliate rewards presumption, but stablecoin yield ban stays",
-    "url": "https://cryptoslate.com/occ-drops-proposed-affiliate-rewards-presumption-but-stablecoin-yield-ban-stays/"
+    "source": "NewsBTC",
+    "title": "HSBC Brings Hong Kong Dollar Stablecoin To PayMe As Retail Rollout Begins",
+    "url": "https://www.newsbtc.com/crypto-news/hsbc-redcoin-hong-kong-dollar-stablecoin-payme-retail/"
   },
   {
     "source": "NewsBTC",
     "title": "Birdeye Launches Peak Terminal For Institutional Crypto Research",
     "url": "https://www.newsbtc.com/technology/birdeye-peak-institutional-crypto-terminal-launch/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Bitwise Asks SEC To Protect Funds Relying On Token Status Filings",
-    "url": "https://www.newsbtc.com/regulation/bitwise-sec-form-tr-reliance-supplemental-comment/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "MoonPay And Dunamu Explore Stablecoin Payments And GIWA Expansion",
-    "url": "https://www.newsbtc.com/crypto-news/moonpay-dunamu-stablecoin-payments-giwa/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "BitGo Launches Labs Unit With AI-Powered Gokubu Consumer App",
-    "url": "https://www.newsbtc.com/business/bitgo-labs-gokubu-ai-consumer-app-launch/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "TRON Settles $2.2T in Q3, Captures 73% of All Stablecoin Volume as First TRX ETF Launches: CoinDesk and Nansen",
-    "url": "https://www.newsbtc.com/news/tron-settles-2-2t-in-q3-captures-73-of-all-stablecoin-volume-as-first-trx-etf-launches-coindesk-and-nansen/"
   }
 ]
