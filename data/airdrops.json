@@ -1,6 +1,11 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+    "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
     "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -10,9 +15,9 @@
     "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
-    "url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "Malaysia and Thailand Central Banks Join Singapore\u2019s BLOOM as Roster Hits 24 Firms",
+    "url": "https://cryptopotato.com/malaysia-and-thailand-central-banks-join-singapores-bloom-as-roster-hits-24-firms/"
   },
   {
     "source": "CryptoSlate",
@@ -25,9 +30,9 @@
     "url": "https://cryptoslate.com/tethers-own-ai-study-shows-when-buying-a-laptop-costs-more-than-cloud-tokens/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Uniswap adds seven trading sources as 0x disputes its protection from malicious hooks",
-    "url": "https://cryptoslate.com/uniswap-adds-seven-trading-sources-as-0x-disputes-its-protection-from-malicious-hooks/"
+    "source": "NewsBTC",
+    "title": "JPMorgan Expands Tokenized Money Market Funds To Solana",
+    "url": "https://www.newsbtc.com/crypto-news/jpmorgan-tokenized-money-market-funds-solana-mony-jltxx/"
   },
   {
     "source": "NewsBTC",
@@ -43,10 +48,5 @@
     "source": "NewsBTC",
     "title": "Dune Adds Real-Time Spot And Perpetual Trade Feeds Across On-Chain Markets",
     "url": "https://www.newsbtc.com/crypto-news/dune-real-time-market-data-feeds-spot-perpetuals/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "SoFi Launches Yield-Bearing Tokenized Bank Deposit With Stablecoin Conversion",
-    "url": "https://www.newsbtc.com/crypto-news/sofi-earn-sofie-tokenized-deposit-stablecoin-conversion/"
   }
 ]
