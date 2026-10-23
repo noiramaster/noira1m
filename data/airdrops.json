@@ -1,6 +1,11 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+    "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
     "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -8,16 +13,6 @@
     "source": "CoinTelegraph",
     "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
     "url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Bybit secures first full Dubai license for spot trading services",
-    "url": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
-    "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoSlate",
@@ -35,9 +30,9 @@
     "url": "https://cryptoslate.com/uniswap-adds-seven-trading-sources-as-0x-disputes-its-protection-from-malicious-hooks/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Memecoin investor Murad confirms $81 million roundtrip on gains, says he\u2019s eyeing billions",
-    "url": "https://cryptoslate.com/memecoin-investor-murad-confirms-81-million-roundtrip-on-gains-says-hes-eyeing-billions/"
+    "source": "NewsBTC",
+    "title": "CMCC Global Plans Tokenized Bitcoin Funds With Tether And Bitfinex Securities",
+    "url": "https://www.newsbtc.com/crypto-news/cmcc-global-tether-bitfinex-tokenized-bitcoin-funds-el-salvador/"
   },
   {
     "source": "NewsBTC",
@@ -53,10 +48,5 @@
     "source": "NewsBTC",
     "title": "SoFi Launches Yield-Bearing Tokenized Bank Deposit With Stablecoin Conversion",
     "url": "https://www.newsbtc.com/crypto-news/sofi-earn-sofie-tokenized-deposit-stablecoin-conversion/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "HSBC Brings Hong Kong Dollar Stablecoin To PayMe As Retail Rollout Begins",
-    "url": "https://www.newsbtc.com/crypto-news/hsbc-redcoin-hong-kong-dollar-stablecoin-payme-retail/"
   }
 ]
