@@ -20,16 +20,6 @@
     "url": "https://cryptopotato.com/bitcoin-reclaims-80k-immediately-after-peter-schiff-predicted-a-crash-to-75k/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Oil, AI Credit Stress, and Bitcoin: QCP Flags a Dangerous Macro Mix for Risk Assets",
-    "url": "https://cryptopotato.com/oil-ai-credit-stress-and-bitcoin-qcp-flags-a-dangerous-macro-mix-for-risk-assets/"
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Ethereum Price Analysis: Is $2K in Play as Bearish Sentiment Builds?",
-    "url": "https://cryptopotato.com/ethereum-price-analysis-is-2k-in-play-as-bearish-sentiment-builds/"
-  },
-  {
     "source": "CryptoSlate",
     "title": "Firedancer makes bounty hunters burn 1 SOL even for duplicate bug reports",
     "url": "https://cryptoslate.com/firedancer-makes-bounty-hunters-burn-1-sol-even-for-duplicate-bug-reports/"
@@ -43,5 +33,20 @@
     "source": "CryptoSlate",
     "title": "NYSE\u2019s owner is backing 24/7 stock tokens without Wall Street\u2019s usual price rules",
     "url": "https://cryptoslate.com/nyses-owner-is-backing-24-7-stock-tokens-without-wall-streets-usual-price-rules/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Cardano Leios Plan Makes Higher Throughput A Series Of Votes And Tests",
+    "url": "https://www.newsbtc.com/news/cardano/cardano-leios-staged-throughput-governance-roadmap/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Hydra Test Replays Midnight Claims And Finds A Smaller, More Useful Speed Gain",
+    "url": "https://www.newsbtc.com/news/cardano/cardano-hydra-v2-midnight-claims-benchmark/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Cardano Opens Dijkstra Testnet While The Upgrade Itself Awaits Its Next Step",
+    "url": "https://www.newsbtc.com/news/cardano/cardano-dijkstra-public-testnet-conway-upgrade-step/"
   }
 ]
