@@ -1,13 +1,18 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-    "url": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+    "url": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CoinTelegraph",
-    "title": "Securitize\u2019s tokenized stock value halves as Circle widens lead",
-    "url": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+    "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ritual Launches AI-Native Layer 1 for Autonomous Agents",
+    "url": "https://cryptopotato.com/ritual-launches-ai-native-layer-1-for-autonomous-agents/"
   },
   {
     "source": "CryptoPotato",
@@ -20,14 +25,24 @@
     "url": "https://cryptopotato.com/ethereum-price-analysis-key-levels-to-watch-as-2k-comes-into-play-for-eth/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Bitcoin (BTC) Risks Dropping to $72,500, But That Could Be a Blessing in Disguise: Analyst",
-    "url": "https://cryptopotato.com/bitcoin-btc-risks-dropping-to-72500-but-that-could-be-a-blessing-in-disguise-analyst/"
+    "source": "CryptoSlate",
+    "title": "Ripple connects XRP Ledger to a \u00a322 billion investment giant while chasing the next wave of corporate money",
+    "url": "https://cryptoslate.com/ripple-connects-xrp-ledger-to-a-22-billion-investment-giant-while-chasing-the-next-wave-of-corporate-money/"
   },
   {
     "source": "CryptoSlate",
     "title": "Circle gives its Bitcoin-backed token one balance across Ethereum and Arc",
     "url": "https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Tokenised US Stock Venues Must Give 30 Days\u2019 Public Notice, SEC Clarifies",
+    "url": "https://www.newsbtc.com/regulation/tokenised-us-stock-venues-must-give-30-days-public-notice-sec-clarifies/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "SEC Puts Tokenisation and AI on Its 2027 Examination Watchlist",
+    "url": "https://www.newsbtc.com/regulation/sec-puts-tokenisation-and-ai-on-its-2027-examination-watchlist/"
   },
   {
     "source": "NewsBTC",
@@ -43,10 +58,5 @@
     "source": "NewsBTC",
     "title": "World ID Brings Human Verification Into The Banking Fraud Debate",
     "url": "https://www.newsbtc.com/crypto-news/world-id-banking-human-verification-fraud-controls/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Robinhood Sets A 2027 Middle East Launch Target After DFSA Authorization",
-    "url": "https://www.newsbtc.com/crypto-news/robinhood-difc-dfsa-middle-east-2027-launch/"
   }
 ]
