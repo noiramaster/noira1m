@@ -1,8 +1,38 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
+    "url": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Securitize\u2019s tokenized stock value halves as Circle widens lead",
     "url": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "XRP Ledger Gets Another Major Fund as Aviva Expands Tokenization Push",
+    "url": "https://cryptopotato.com/xrp-ledger-gets-another-major-fund-as-aviva-expands-tokenization-push/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ethereum Price Analysis: Key Levels to Watch as $2K Comes Into Play for ETH",
+    "url": "https://cryptopotato.com/ethereum-price-analysis-key-levels-to-watch-as-2k-comes-into-play-for-eth/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin (BTC) Risks Dropping to $72,500, But That Could Be a Blessing in Disguise: Analyst",
+    "url": "https://cryptopotato.com/bitcoin-btc-risks-dropping-to-72500-but-that-could-be-a-blessing-in-disguise-analyst/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Circle gives its Bitcoin-backed token one balance across Ethereum and Arc",
+    "url": "https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Justin Sun Prize Partners With MathDB, Led by Caltech Professor Tony Yue Yu, on 50-Problem Pilot",
+    "url": "https://www.newsbtc.com/news/justin-sun-prize-partners-with-mathdb-led-by-caltech-professor-tony-yue-yu-on-50-problem-pilot/"
   },
   {
     "source": "NewsBTC",
@@ -18,15 +48,5 @@
     "source": "NewsBTC",
     "title": "Robinhood Sets A 2027 Middle East Launch Target After DFSA Authorization",
     "url": "https://www.newsbtc.com/crypto-news/robinhood-difc-dfsa-middle-east-2027-launch/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Grayscale Looks Beyond AI Tokens To The Data And Credit Behind Computing",
-    "url": "https://www.newsbtc.com/crypto-news/grayscale-ai-buildout-data-credit-compute-analysis/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Lido Puts Liquidity Buffers At The Center Of Ethereum ETP Yield Debate",
-    "url": "https://www.newsbtc.com/ethereum-news/lido-ethereum-etp-liquidity-buffers-staking-rewards/"
   }
 ]
