@@ -21,6 +21,16 @@
   },
   {
     "source": "NewsBTC",
+    "title": "Robinhood Sets A 2027 Middle East Launch Target After DFSA Authorization",
+    "url": "https://www.newsbtc.com/crypto-news/robinhood-difc-dfsa-middle-east-2027-launch/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Grayscale Looks Beyond AI Tokens To The Data And Credit Behind Computing",
+    "url": "https://www.newsbtc.com/crypto-news/grayscale-ai-buildout-data-credit-compute-analysis/"
+  },
+  {
+    "source": "NewsBTC",
     "title": "Lido Puts Liquidity Buffers At The Center Of Ethereum ETP Yield Debate",
     "url": "https://www.newsbtc.com/ethereum-news/lido-ethereum-etp-liquidity-buffers-staking-rewards/"
   },
@@ -48,15 +58,5 @@
     "source": "NewsBTC",
     "title": "Cardano Leios Plan Makes Higher Throughput A Series Of Votes And Tests",
     "url": "https://www.newsbtc.com/news/cardano/cardano-leios-staged-throughput-governance-roadmap/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Hydra Test Replays Midnight Claims And Finds A Smaller, More Useful Speed Gain",
-    "url": "https://www.newsbtc.com/news/cardano/cardano-hydra-v2-midnight-claims-benchmark/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Cardano Opens Dijkstra Testnet While The Upgrade Itself Awaits Its Next Step",
-    "url": "https://www.newsbtc.com/news/cardano/cardano-dijkstra-public-testnet-conway-upgrade-step/"
   }
 ]
