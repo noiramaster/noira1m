@@ -1,6 +1,11 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "Robinhood\u2019s Tenev warns US tokenization uncertainty deters \u2018serious assets\u2019",
+    "url": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
     "url": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -10,14 +15,14 @@
     "url": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
-    "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoSlate",
+    "title": "BNY offers XRP custody, but only 1 rollout type exists",
+    "url": "https://cryptoslate.com/bny-offers-xrp-custody-but-only-1-rollout-type-exists/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Ripple (XRP) Flashes a Buy Signal: Big Jump Ahead or False Hope?",
-    "url": "https://cryptopotato.com/ripple-xrp-flashes-a-buy-signal-big-jump-ahead-or-false-hope/"
+    "source": "CryptoSlate",
+    "title": "X100 governance flaws trigger $6M loss due to a flash loan",
+    "url": "https://cryptoslate.com/x100-governance-flaws-trigger-6m-loss-due-to-a-flash-loan/"
   },
   {
     "source": "CryptoSlate",
@@ -25,23 +30,23 @@
     "url": "https://cryptoslate.com/openai-claims-a-math-breakthrough-does-that-threaten-bitcoin/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Bitcoin\u2019s next rally could trigger selling from holders of 874,000 BTC",
-    "url": "https://cryptoslate.com/bitcoins-next-rally-could-trigger-selling-from-holders-of-874000-btc/"
+    "source": "NewsBTC",
+    "title": "JPM Coin Expands to Ethereum for Approved Institutional Clients",
+    "url": "https://www.newsbtc.com/news/jpm-coin-expands-to-ethereum-for-approved-institutional-clients/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "BlackRock and SBI Explore Yen Stablecoin Link for Tokenised Funds",
+    "url": "https://www.newsbtc.com/news/blackrock-and-sbi-explore-yen-stablecoin-link-for-tokenised-funds/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "HashKey Launches First hToken Linked to Investment Fund Units",
+    "url": "https://www.newsbtc.com/news/hashkey-launches-first-htoken-linked-to-investment-fund-units/"
   },
   {
     "source": "NewsBTC",
     "title": "Hong Kong Opens 24/7 Trading for Two Tokenised Money-Market Funds",
     "url": "https://www.newsbtc.com/news/hong-kong-opens-24-7-trading-for-two-tokenised-money-market-funds/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Stellar Bell Upgrade Sets November Votes for Protocol 30",
-    "url": "https://www.newsbtc.com/news/stellar-bell-upgrade-sets-november-votes-for-protocol-30/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Aviva Tokenises Part of \u00a322 Billion Sterling Fund on XRP Ledger",
-    "url": "https://www.newsbtc.com/news/aviva-tokenises-part-of-22-billion-sterling-fund-on-xrp-ledger/"
   }
 ]
