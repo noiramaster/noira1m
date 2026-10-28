@@ -1,18 +1,38 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "DTCC unit launches tokenization services",
+    "url": "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Mirae Asset Securities issues tokenized notes on Solana",
+    "url": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Robinhood\u2019s Tenev warns US tokenization uncertainty deters \u2018serious assets\u2019",
     "url": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
-    "url": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "BetFury Launches Birthday 007: $2,000,000 Spy-Themed Celebration of Seven Years",
+    "url": "https://cryptopotato.com/betfury-launches-birthday-007-2000000-spy-themed-celebration-of-seven-years/"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
-    "url": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "Bitcoin Reclaims $81K Ahead of FOMC Meeting, M Pumps by 12%: Market Watch",
+    "url": "https://cryptopotato.com/bitcoin-reclaims-81k-ahead-of-fomc-meeting-m-pumps-by-12-market-watch/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ripple Price Analysis: XRP Must Reclaim This Key Level to Restart the Rally",
+    "url": "https://cryptopotato.com/ripple-price-analysis-xrp-must-reclaim-this-key-level-to-restart-the-rally/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "SUN.io Completes 52nd Buyback and Burn: Total SUN Burned Surpasses 685M as SunSwap Accelerates Ecosystem Integrations",
+    "url": "https://cryptoslate.com/sun-io-completes-52nd-buyback-and-burn-total-sun-burned-surpasses-685m-as-sunswap-accelerates-ecosystem-integrations/"
   },
   {
     "source": "CryptoSlate",
@@ -25,28 +45,33 @@
     "url": "https://cryptoslate.com/x100-governance-flaws-trigger-6m-loss-due-to-a-flash-loan/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "OpenAI claims a cryptography breakthrough. Does that threaten Bitcoin?",
-    "url": "https://cryptoslate.com/openai-claims-a-math-breakthrough-does-that-threaten-bitcoin/"
+    "source": "NewsBTC",
+    "title": "Confidential ZEC trading goes live on Shield",
+    "url": "https://www.newsbtc.com/news/confidential-zec-trading-goes-live-on-shield/"
   },
   {
     "source": "NewsBTC",
-    "title": "JPM Coin Expands to Ethereum for Approved Institutional Clients",
-    "url": "https://www.newsbtc.com/news/jpm-coin-expands-to-ethereum-for-approved-institutional-clients/"
+    "title": "BNY Adds XRP and RLUSD Custody Support as Ripple Partnership Expands",
+    "url": "https://www.newsbtc.com/news/bny-adds-xrp-and-rlusd-custody-support-as-ripple-partnership-expands/"
   },
   {
     "source": "NewsBTC",
-    "title": "BlackRock and SBI Explore Yen Stablecoin Link for Tokenised Funds",
-    "url": "https://www.newsbtc.com/news/blackrock-and-sbi-explore-yen-stablecoin-link-for-tokenised-funds/"
+    "title": "Ripple and Robinhood Expand RLUSD Across Trading and Treasury Services",
+    "url": "https://www.newsbtc.com/news/ripple-and-robinhood-expand-rlusd-across-trading-and-treasury-services/"
   },
   {
     "source": "NewsBTC",
-    "title": "HashKey Launches First hToken Linked to Investment Fund Units",
-    "url": "https://www.newsbtc.com/news/hashkey-launches-first-htoken-linked-to-investment-fund-units/"
+    "title": "MEXC and Hacken Launch AI Trading Safety Handbook to Promote Safer AI Adoption",
+    "url": "https://www.newsbtc.com/news/mexc-and-hacken-launch-ai-trading-safety-handbook-to-promote-safer-ai-adoption/"
   },
   {
     "source": "NewsBTC",
-    "title": "Hong Kong Opens 24/7 Trading for Two Tokenised Money-Market Funds",
-    "url": "https://www.newsbtc.com/news/hong-kong-opens-24-7-trading-for-two-tokenised-money-market-funds/"
+    "title": "SUN.io Completes 52nd Buyback and Burn: Total SUN Burned Surpasses 685M as SunSwap Accelerates Ecosystem Integrations",
+    "url": "https://www.newsbtc.com/news/sun-io-completes-52nd-buyback-and-burn-total-sun-burned-surpasses-685m-as-sunswap-accelerates-ecosystem-integrations/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Tokenised Stock Plans Meet Resistance From Listed Companies",
+    "url": "https://www.newsbtc.com/news/tokenised-stock-plans-meet-resistance-from-listed-companies/"
   }
 ]
