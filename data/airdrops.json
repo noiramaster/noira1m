@@ -20,11 +20,6 @@
     "url": "https://cryptopotato.com/ripple-xrp-flashes-a-buy-signal-big-jump-ahead-or-false-hope/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Mirae Asset Securities and Grvt Collaborate on Tokenised Funding Note Issuance",
-    "url": "https://cryptopotato.com/mirae-asset-securities-and-grvt-collaborate-on-tokenised-funding-note-issuance/"
-  },
-  {
     "source": "CryptoSlate",
     "title": "OpenAI claims a cryptography breakthrough. Does that threaten Bitcoin?",
     "url": "https://cryptoslate.com/openai-claims-a-math-breakthrough-does-that-threaten-bitcoin/"
@@ -36,6 +31,11 @@
   },
   {
     "source": "NewsBTC",
+    "title": "Hong Kong Opens 24/7 Trading for Two Tokenised Money-Market Funds",
+    "url": "https://www.newsbtc.com/news/hong-kong-opens-24-7-trading-for-two-tokenised-money-market-funds/"
+  },
+  {
+    "source": "NewsBTC",
     "title": "Stellar Bell Upgrade Sets November Votes for Protocol 30",
     "url": "https://www.newsbtc.com/news/stellar-bell-upgrade-sets-november-votes-for-protocol-30/"
   },
@@ -43,10 +43,5 @@
     "source": "NewsBTC",
     "title": "Aviva Tokenises Part of \u00a322 Billion Sterling Fund on XRP Ledger",
     "url": "https://www.newsbtc.com/news/aviva-tokenises-part-of-22-billion-sterling-fund-on-xrp-ledger/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Ripple and Meritz Focus on the Custody Layer of Korea\u2019s Tokenisation Plans",
-    "url": "https://www.newsbtc.com/xrp-news/ripple-and-meritz-focus-on-the-custody-layer-of-korea-s-tokenisation-plans/"
   }
 ]
