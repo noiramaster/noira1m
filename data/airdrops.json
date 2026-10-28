@@ -1,18 +1,13 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "Phantom launches Kalshi-powered prediction markets for US users",
+    "url": "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "DTCC unit launches tokenization services",
     "url": "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Mirae Asset Securities issues tokenized notes on Solana",
-    "url": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Robinhood\u2019s Tenev warns US tokenization uncertainty deters \u2018serious assets\u2019",
-    "url": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
@@ -20,29 +15,9 @@
     "url": "https://cryptopotato.com/betfury-launches-birthday-007-2000000-spy-themed-celebration-of-seven-years/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Bitcoin Reclaims $81K Ahead of FOMC Meeting, M Pumps by 12%: Market Watch",
-    "url": "https://cryptopotato.com/bitcoin-reclaims-81k-ahead-of-fomc-meeting-m-pumps-by-12-market-watch/"
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Ripple Price Analysis: XRP Must Reclaim This Key Level to Restart the Rally",
-    "url": "https://cryptopotato.com/ripple-price-analysis-xrp-must-reclaim-this-key-level-to-restart-the-rally/"
-  },
-  {
     "source": "CryptoSlate",
     "title": "SUN.io Completes 52nd Buyback and Burn: Total SUN Burned Surpasses 685M as SunSwap Accelerates Ecosystem Integrations",
     "url": "https://cryptoslate.com/sun-io-completes-52nd-buyback-and-burn-total-sun-burned-surpasses-685m-as-sunswap-accelerates-ecosystem-integrations/"
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "BNY offers XRP custody, but only 1 rollout type exists",
-    "url": "https://cryptoslate.com/bny-offers-xrp-custody-but-only-1-rollout-type-exists/"
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "X100 governance flaws trigger $6M loss due to a flash loan",
-    "url": "https://cryptoslate.com/x100-governance-flaws-trigger-6m-loss-due-to-a-flash-loan/"
   },
   {
     "source": "NewsBTC",
@@ -58,20 +33,5 @@
     "source": "NewsBTC",
     "title": "Ripple and Robinhood Expand RLUSD Across Trading and Treasury Services",
     "url": "https://www.newsbtc.com/news/ripple-and-robinhood-expand-rlusd-across-trading-and-treasury-services/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "MEXC and Hacken Launch AI Trading Safety Handbook to Promote Safer AI Adoption",
-    "url": "https://www.newsbtc.com/news/mexc-and-hacken-launch-ai-trading-safety-handbook-to-promote-safer-ai-adoption/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "SUN.io Completes 52nd Buyback and Burn: Total SUN Burned Surpasses 685M as SunSwap Accelerates Ecosystem Integrations",
-    "url": "https://www.newsbtc.com/news/sun-io-completes-52nd-buyback-and-burn-total-sun-burned-surpasses-685m-as-sunswap-accelerates-ecosystem-integrations/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Tokenised Stock Plans Meet Resistance From Listed Companies",
-    "url": "https://www.newsbtc.com/news/tokenised-stock-plans-meet-resistance-from-listed-companies/"
   }
 ]
