@@ -1,13 +1,18 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "Bank of England opens consultation on tokenized collateral for clearing",
-    "url": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
+    "url": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CoinTelegraph",
-    "title": "Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard",
-    "url": "https://cointelegraph.com/news/canton-foundation-redstone-coin-pricing-standard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
+    "url": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Bank of England opens consultation on tokenized collateral for clearing",
+    "url": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
@@ -20,9 +25,9 @@
     "url": "https://cryptopotato.com/travala-unveils-ava-partners-a-new-route-to-crypto-payments-powered-by-ava/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "MetaMask, Trezor, WalletConnect, and Other Industry Leaders Join ChangeNOW at TOKEN2049",
-    "url": "https://cryptopotato.com/metamask-trezor-walletconnect-and-other-industry-leaders-join-changenow-at-token2049/"
+    "source": "CryptoSlate",
+    "title": "Crypto investors refuse to sell XRP ETF tokens despite a 25% price crash",
+    "url": "https://cryptoslate.com/crypto-investors-refuse-to-sell-xrp-etf-tokens-despite-a-25-price-crash/"
   },
   {
     "source": "CryptoSlate",
@@ -30,9 +35,14 @@
     "url": "https://cryptoslate.com/fomo-fees-erased-gains-for-32-of-its-pre-fee-winning-solana-wallets/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Ripple\u2019s RLUSD stablecoin gains Coinbase access as Moody\u2019s awards investment-grade rating",
-    "url": "https://cryptoslate.com/ripples-rlusd-stablecoin-gains-coinbase-access-as-moodys-awards-investment-grade-rating/"
+    "source": "NewsBTC",
+    "title": "Stellar Private Fund Liquidity Pilot Tests a New Way to Price Redemptions",
+    "url": "https://www.newsbtc.com/news/stellar-private-fund-liquidity-pilot-tests-a-new-way-to-price-redemptions/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Securitize Plans Stellar Integration as Tokenized Asset Platforms Expand",
+    "url": "https://www.newsbtc.com/news/securitize-plans-stellar-integration-as-tokenized-asset-platforms-expand/"
   },
   {
     "source": "NewsBTC",
@@ -43,25 +53,5 @@
     "source": "NewsBTC",
     "title": "MEXC Reports 88% Growth in AI-Related Tokenized U.S. Stock and ETF Trading Volume in September, With Four Infrastructure Sectors Up Over 90%",
     "url": "https://www.newsbtc.com/news/mexc-reports-88-growth-in-ai-related-tokenized-u-s-stock-and-etf-trading-volume-in-september-with-four-infrastructure-sectors-up-over-90/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "TRX Options Launch on Blockchain.com, Expanding Global Access to the TRON Ecosystem",
-    "url": "https://www.newsbtc.com/news/trx-options-launch-on-blockchain-com-expanding-global-access-to-the-tron-ecosystem/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "BitGo Plans In-Platform Access to WisdomTree Tokenized Treasury Fund",
-    "url": "https://www.newsbtc.com/news/bitgo-plans-in-platform-access-to-wisdomtree-tokenized-treasury-fund/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "CF Benchmarks Debuts Onchain Oracle for Institutional Crypto Price Indices",
-    "url": "https://www.newsbtc.com/news/cf-benchmarks-debuts-onchain-oracle-for-institutional-crypto-price-indices/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Janus Henderson Launches Tokenized Nasdaq-100 Fund JQQQ on Stellar",
-    "url": "https://www.newsbtc.com/news/janus-henderson-launches-tokenized-nasdaq-100-fund-jqqq-on-stellar/"
   }
 ]
