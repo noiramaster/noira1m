@@ -1,18 +1,58 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
-    "url": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Will gold\u2019s \u2018infinite mint bug\u2019 make Bitcoin more valuable?",
+    "url": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CoinTelegraph",
-    "title": "Binance points to engineer\u2019s hacked laptop in $6.3B breach",
-    "url": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Binance working with FBI to recover assets following $6.3B hack",
+    "url": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Binance says it holds $5B in matching tokens to cover hack losses",
+    "url": "https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Zcash grants group offers $124M compromise as governance backlash grows",
+    "url": "https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Important Ripple News and XRP Price Update: October 30",
+    "url": "https://cryptopotato.com/important-ripple-news-and-xrp-price-update-october-30/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Price Faces Another Test as $10.9B Deribit Options Expire Today",
+    "url": "https://cryptopotato.com/bitcoin-price-faces-another-test-as-10-9b-deribit-options-expire-today/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Pi Network\u2019s PI Token Defies Market Crash Triggered by Binance Hack",
+    "url": "https://cryptopotato.com/pi-networks-pi-token-defies-market-crash-triggered-by-binance-hack/"
   },
   {
     "source": "CryptoSlate",
-    "title": "20 institutions join DTCC token service, but only 34 securities qualify",
-    "url": "https://cryptoslate.com/20-institutions-join-dtcc-token-service-but-only-34-securities-qualify/"
+    "title": "Binance uncovers more breach points in $6 billion hack",
+    "url": "https://cryptoslate.com/binance-breach-points-6-billion-hack/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Walmart, Microsoft and JPMorgan block NYSE-backed venture from tokenizing their shares",
+    "url": "https://cryptoslate.com/walmart-microsoft-and-jpmorgan-block-nyse-backed-venture-from-tokenizing-their-shares/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "MEXC Launches Canton 0-Fee Carnival with $1M Prize Pool",
+    "url": "https://www.newsbtc.com/news/mexc-launches-canton-0-fee-carnival-with-1m-prize-pool/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "USDD Reports Strong Treasury Performance, Growth in Key Metrics, and Ecosystem Expansion",
+    "url": "https://www.newsbtc.com/news/usdd-reports-strong-treasury-performance-growth-in-key-metrics-and-ecosystem-expansion/"
   },
   {
     "source": "NewsBTC",
@@ -23,10 +63,5 @@
     "source": "NewsBTC",
     "title": "Kamino Opens Solana Lending Market for Backpack Tokenized Equity Collateral",
     "url": "https://www.newsbtc.com/news/kamino-opens-solana-lending-market-for-backpack-tokenized-equity-collateral/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "DBS Survey Finds 88% of Businesses Testing or Using Tokenized Money",
-    "url": "https://www.newsbtc.com/news/dbs-survey-finds-88-of-businesses-testing-or-using-tokenized-money/"
   }
 ]
