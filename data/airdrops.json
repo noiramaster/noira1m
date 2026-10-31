@@ -1,5 +1,10 @@
 [
   {
+    "source": "CoinTelegraph",
+    "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+    "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
     "source": "CryptoPotato",
     "title": "Ripple Price Analysis: Can XRP Recover After the Hack-Driven Sell-Off?",
     "url": "https://cryptopotato.com/ripple-price-analysis-can-xrp-recover-after-the-hack-driven-sell-off/"
@@ -10,14 +15,19 @@
     "url": "https://cryptoslate.com/ripple-is-winning-everywhere-so-why-isnt-xrp/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "MetaMask adds Stellar integration, but cross-chain bridges require manual setup",
-    "url": "https://cryptoslate.com/metamask-adds-stellar-integration-but-cross-chain-bridges-require-manual-setup/"
+    "source": "NewsBTC",
+    "title": "Chainlink Unveils 24/7 Pricing for Tokenized Assets as Aave Adopts Feeds",
+    "url": "https://www.newsbtc.com/news/chainlink-unveils-24-7-pricing-for-tokenized-assets-as-aave-adopts-feeds/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Uniswap launches TJAR fee tool, but only fast searchers capture the hidden arbitrage profit",
-    "url": "https://cryptoslate.com/uniswap-launches-tjar-fee-tool-but-only-fast-searchers-capture-the-hidden-arbitrage-profit/"
+    "source": "NewsBTC",
+    "title": "Uniswap Opens TJAR Fee Conversion Beyond Protocol as Robinhood Joins",
+    "url": "https://www.newsbtc.com/news/uniswap-opens-tjar-fee-conversion-beyond-protocol-as-robinhood-joins/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Polygon Extends Open Money Stack to Solana for Stablecoin Payment Flows",
+    "url": "https://www.newsbtc.com/news/polygon-extends-open-money-stack-to-solana-for-stablecoin-payment-flows/"
   },
   {
     "source": "NewsBTC",
@@ -33,10 +43,5 @@
     "source": "NewsBTC",
     "title": "Mirae Asset Issues Tokenized Dollar Notes on Solana for Professional Investors",
     "url": "https://www.newsbtc.com/news/mirae-asset-issues-tokenized-dollar-notes-on-solana-for-professional-investors/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Kamino Opens Solana Lending Market for Backpack Tokenized Equity Collateral",
-    "url": "https://www.newsbtc.com/news/kamino-opens-solana-lending-market-for-backpack-tokenized-equity-collateral/"
   }
 ]
