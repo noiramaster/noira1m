@@ -6,13 +6,28 @@
   },
   {
     "source": "CryptoPotato",
-    "title": "Ripple Price Analysis: Can XRP Recover After the Hack-Driven Sell-Off?",
-    "url": "https://cryptopotato.com/ripple-price-analysis-can-xrp-recover-after-the-hack-driven-sell-off/"
+    "title": "Bitcoin Price Prediction for the Week: Will BTC Reclaim $80K or Dump Toward $70K?",
+    "url": "https://cryptopotato.com/bitcoin-price-prediction-for-the-week-will-btc-reclaim-80k-or-dump-toward-70k/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Solana\u2019s reward records leave stakers with a gap in validator fee data",
+    "url": "https://cryptoslate.com/solanas-reward-records-leave-stakers-with-a-gap-in-validator-fee-data/"
   },
   {
     "source": "CryptoSlate",
     "title": "Why Ripple\u2019s $16 trillion payment volume isn\u2019t boosting XRP",
     "url": "https://cryptoslate.com/ripple-is-winning-everywhere-so-why-isnt-xrp/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Curve Launches First Native Non-EVM StableSwap Deployment on Stellar",
+    "url": "https://www.newsbtc.com/news/curve-launches-first-native-non-evm-stableswap-deployment-on-stellar/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Ondo Brings Seven Tokenized Investment Portfolios to Solana",
+    "url": "https://www.newsbtc.com/news/ondo-brings-seven-tokenized-investment-portfolios-to-solana/"
   },
   {
     "source": "NewsBTC",
@@ -23,25 +38,5 @@
     "source": "NewsBTC",
     "title": "Chainlink Launches CustodySync With Anchorage to Link Custody and DeFi Loans",
     "url": "https://www.newsbtc.com/news/chainlink-launches-custodysync-with-anchorage-to-link-custody-and-defi-loans/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Hanwha Chooses Chainlink Data and CCIP for Global Tokenization Platform",
-    "url": "https://www.newsbtc.com/news/hanwha-chooses-chainlink-data-and-ccip-for-global-tokenization-platform/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Chainlink Unveils 24/7 Pricing for Tokenized Assets as Aave Adopts Feeds",
-    "url": "https://www.newsbtc.com/news/chainlink-unveils-24-7-pricing-for-tokenized-assets-as-aave-adopts-feeds/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Uniswap Opens TJAR Fee Conversion Beyond Protocol as Robinhood Joins",
-    "url": "https://www.newsbtc.com/news/uniswap-opens-tjar-fee-conversion-beyond-protocol-as-robinhood-joins/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Polygon Extends Open Money Stack to Solana for Stablecoin Payment Flows",
-    "url": "https://www.newsbtc.com/news/polygon-extends-open-money-stack-to-solana-for-stablecoin-payment-flows/"
   }
 ]
