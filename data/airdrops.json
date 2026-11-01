@@ -16,6 +16,16 @@
   },
   {
     "source": "NewsBTC",
+    "title": "Further Asset Management Taps Chainlink ACE for Abu Dhabi Compliance Platform",
+    "url": "https://www.newsbtc.com/news/further-asset-management-taps-chainlink-ace-for-abu-dhabi-compliance-platform/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Chainlink Launches CustodySync With Anchorage to Link Custody and DeFi Loans",
+    "url": "https://www.newsbtc.com/news/chainlink-launches-custodysync-with-anchorage-to-link-custody-and-defi-loans/"
+  },
+  {
+    "source": "NewsBTC",
     "title": "Hanwha Chooses Chainlink Data and CCIP for Global Tokenization Platform",
     "url": "https://www.newsbtc.com/news/hanwha-chooses-chainlink-data-and-ccip-for-global-tokenization-platform/"
   },
@@ -33,15 +43,5 @@
     "source": "NewsBTC",
     "title": "Polygon Extends Open Money Stack to Solana for Stablecoin Payment Flows",
     "url": "https://www.newsbtc.com/news/polygon-extends-open-money-stack-to-solana-for-stablecoin-payment-flows/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "MEXC Launches Canton 0-Fee Carnival with $1M Prize Pool",
-    "url": "https://www.newsbtc.com/news/mexc-launches-canton-0-fee-carnival-with-1m-prize-pool/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "USDD Reports Strong Treasury Performance, Growth in Key Metrics, and Ecosystem Expansion",
-    "url": "https://www.newsbtc.com/news/usdd-reports-strong-treasury-performance-growth-in-key-metrics-and-ecosystem-expansion/"
   }
 ]
