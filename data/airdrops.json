@@ -1,32 +1,42 @@
 [
   {
+    "source": "CoinTelegraph",
+    "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+    "url": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+    "url": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
     "source": "CryptoPotato",
-    "title": "Cambio, the AI-Native Crypto Exchange, Brings Swap Quotes to ChatGPT",
-    "url": "https://cryptopotato.com/cambio-the-ai-native-crypto-exchange-brings-swap-quotes-to-chatgpt/"
+    "title": "Coinhub Funded Goes Live: Crypto Prop Firm Offers Funded Trading Accounts Up to $200K & 30-Minute Tournaments",
+    "url": "https://cryptopotato.com/coinhub-funded-goes-live-crypto-prop-firm-offers-funded-trading-accounts-up-to-200k-30-minute-tournaments/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ripple Price Analysis: What Happens to XRP If $1.2 Support Is Lost?",
+    "url": "https://cryptopotato.com/ripple-price-analysis-what-happens-to-xrp-if-1-2-support-is-lost/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Akash\u2019s Solana plan would end current staking rewards while allowing new AKT issuance",
+    "url": "https://cryptoslate.com/akashs-solana-plan-would-end-current-staking-rewards-while-allowing-new-akt-issuance/"
   },
   {
     "source": "NewsBTC",
-    "title": "Ethena Pay Adds Earn+ Through Aave V4 Lending on Avalanche",
-    "url": "https://www.newsbtc.com/news/ethena-pay-adds-earn-through-aave-v4-lending-on-avalanche/"
+    "title": "Onlend Unveils No-Code Infrastructure to Launch Custom Onchain Lending Apps",
+    "url": "https://www.newsbtc.com/news/onlend-unveils-no-code-infrastructure-to-launch-custom-onchain-lending-apps/"
   },
   {
     "source": "NewsBTC",
-    "title": "Cosmos Prepares ATOM Tokenomics Review With Separate Governance Proposals",
-    "url": "https://www.newsbtc.com/news/cosmos-prepares-atom-tokenomics-review-with-separate-governance-proposals/"
+    "title": "Bitbase Launches Bitbase 2.0, Moving from Trading Platform to Value Platform",
+    "url": "https://www.newsbtc.com/news/bitbase-launches-bitbase-2-0-moving-from-trading-platform-to-value-platform/"
   },
   {
     "source": "NewsBTC",
-    "title": "ECB Picks Digital Euro Network Providers as Pilot Infrastructure Takes Shape",
-    "url": "https://www.newsbtc.com/news/ecb-picks-digital-euro-network-providers-as-pilot-infrastructure-takes-shape/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Mercado Bitcoin Plans Sui Asset Access in Brazil With Lending and Tokenization Links",
-    "url": "https://www.newsbtc.com/news/mercado-bitcoin-plans-sui-asset-access-in-brazil-with-lending-and-tokenization-links/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "XRP Ledger Reviews Two Token-Authorization Fixes Ahead of Any Validator Vote",
-    "url": "https://www.newsbtc.com/news/xrp-ledger-reviews-two-token-authorization-fixes-ahead-of-any-validator-vote/"
+    "title": "Hong Kong Advances EnsembleTX to 24/7 Settlement and Plans Stablecoin Trials",
+    "url": "https://www.newsbtc.com/news/hong-kong-advances-ensembletx-to-24-7-settlement-and-plans-stablecoin-trials/"
   }
 ]
