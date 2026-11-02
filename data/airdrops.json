@@ -16,6 +16,16 @@
   },
   {
     "source": "NewsBTC",
+    "title": "Mercado Bitcoin Plans Sui Asset Access in Brazil With Lending and Tokenization Links",
+    "url": "https://www.newsbtc.com/news/mercado-bitcoin-plans-sui-asset-access-in-brazil-with-lending-and-tokenization-links/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "XRP Ledger Reviews Two Token-Authorization Fixes Ahead of Any Validator Vote",
+    "url": "https://www.newsbtc.com/news/xrp-ledger-reviews-two-token-authorization-fixes-ahead-of-any-validator-vote/"
+  },
+  {
+    "source": "NewsBTC",
     "title": "SEC Charges BG Wealth and DSJ Exchange Over Alleged $130M Crypto Scheme",
     "url": "https://www.newsbtc.com/news/sec-charges-bg-wealth-and-dsj-exchange-over-alleged-130m-crypto-scheme/"
   },
@@ -23,15 +33,5 @@
     "source": "NewsBTC",
     "title": "Circle Details CCTP Path for Non-USDC Tokens Across Supported Chains",
     "url": "https://www.newsbtc.com/news/circle-details-cctp-path-for-non-usdc-tokens-across-supported-chains/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Curve Launches First Native Non-EVM StableSwap Deployment on Stellar",
-    "url": "https://www.newsbtc.com/news/curve-launches-first-native-non-evm-stableswap-deployment-on-stellar/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Ondo Brings Seven Tokenized Investment Portfolios to Solana",
-    "url": "https://www.newsbtc.com/news/ondo-brings-seven-tokenized-investment-portfolios-to-solana/"
   }
 ]
