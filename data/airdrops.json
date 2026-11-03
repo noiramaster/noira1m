@@ -1,8 +1,13 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
-    "url": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
+    "url": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "NEAR token sinks 7% as proposal to cut annual token issuance passes",
+    "url": "https://cointelegraph.com/markets/near-sinks-7-proposal-cut-annual-token-issuance-passes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
@@ -10,28 +15,38 @@
     "url": "https://cryptopotato.com/us-midterms-are-here-history-points-to-a-stock-rally-but-trouble-for-bitcoin/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Coinhub Funded Goes Live: Crypto Prop Firm Offers Funded Trading Accounts Up to $200K & 30-Minute Tournaments",
-    "url": "https://cryptopotato.com/coinhub-funded-goes-live-crypto-prop-firm-offers-funded-trading-accounts-up-to-200k-30-minute-tournaments/"
+    "source": "CryptoSlate",
+    "title": "Hong Kong bank pilot opens 24/7 cash settlement for tokenized fund deals",
+    "url": "https://cryptoslate.com/hong-kong-bank-pilot-opens-24-7-cash-settlement-for-tokenized-fund-deals/"
   },
   {
     "source": "CryptoSlate",
-    "title": "Kinetic\u2019s $24 million XRP-linked lending market showed a 0.04% base rate before rewards",
-    "url": "https://cryptoslate.com/kinetics-24-million-xrp-linked-lending-market-showed-a-0-04-base-rate-before-rewards/"
+    "title": "Bitcoin Lightning fix blocks a probe linking private channels to onchain funding",
+    "url": "https://cryptoslate.com/bitcoin-lightning-fix-blocks-a-probe-linking-private-channels-to-onchain-funding/"
   },
   {
     "source": "CryptoSlate",
-    "title": "Binance warns of second wave of crypto theft as $6.3 billion hack recovery continues",
-    "url": "https://cryptoslate.com/binance-warns-of-second-wave-of-crypto-theft-as-6-3-billion-hack-recovery-continues/"
+    "title": "Aave borrowers faced up to 36% APR while a freeze blocked fresh collateral",
+    "url": "https://cryptoslate.com/borrowers-faced-36-interest-rates-as-aave-froze-deposits-during-binance-hack/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Binance Adds More Withdrawal Routes on November 3 After Security Checks",
+    "url": "https://www.newsbtc.com/news/binance-adds-more-withdrawal-routes-on-november-3-after-security-checks/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Onlend Unveils No-Code Infrastructure to Launch Custom Onchain Lending Apps",
+    "url": "https://www.newsbtc.com/news/onlend-unveils-no-code-infrastructure-to-launch-custom-onchain-lending-apps/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "MEXC Upgrades Futures Earn to Empower Retail Traders With a Clearer, More Intuitive Experience",
+    "url": "https://www.newsbtc.com/news/mexc-upgrades-futures-earn-to-empower-retail-traders-with-a-clearer-more-intuitive-experience/"
   },
   {
     "source": "NewsBTC",
     "title": "ZeroBeta and Lynq Connect Tokenized Treasury Collateral to Lending and Margin",
     "url": "https://www.newsbtc.com/news/zerobeta-and-lynq-connect-tokenized-treasury-collateral-to-lending-and-margin/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Spiko Reports $2.38B in SAFO as Tokenized Cash Funds Reach Business Treasuries",
-    "url": "https://www.newsbtc.com/news/spiko-reports-2-38b-in-safo-as-tokenized-cash-funds-reach-business-treasuries/"
   }
 ]
