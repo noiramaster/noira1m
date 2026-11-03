@@ -1,6 +1,11 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
+    "url": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
     "url": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -11,8 +16,13 @@
   },
   {
     "source": "CryptoPotato",
-    "title": "US Midterms Are Here: History Points to a Stock Rally but Trouble for Bitcoin",
-    "url": "https://cryptopotato.com/us-midterms-are-here-history-points-to-a-stock-rally-but-trouble-for-bitcoin/"
+    "title": "NEAR Governance Approves Major Supply Cut \u2013 But Token Slides 7%",
+    "url": "https://cryptopotato.com/near-governance-approves-major-supply-cut-but-token-slides-7/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Binance says thinly traded tokens are delaying full replacement of stolen assets",
+    "url": "https://cryptoslate.com/binance-says-thinly-traded-tokens-are-delaying-full-replacement-of-stolen-assets/"
   },
   {
     "source": "CryptoSlate",
@@ -43,10 +53,5 @@
     "source": "NewsBTC",
     "title": "MEXC Upgrades Futures Earn to Empower Retail Traders With a Clearer, More Intuitive Experience",
     "url": "https://www.newsbtc.com/news/mexc-upgrades-futures-earn-to-empower-retail-traders-with-a-clearer-more-intuitive-experience/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "ZeroBeta and Lynq Connect Tokenized Treasury Collateral to Lending and Margin",
-    "url": "https://www.newsbtc.com/news/zerobeta-and-lynq-connect-tokenized-treasury-collateral-to-lending-and-margin/"
   }
 ]
