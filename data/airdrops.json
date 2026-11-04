@@ -5,16 +5,6 @@
     "url": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
-    "url": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "NEAR token sinks 7% as proposal to cut annual token issuance passes",
-    "url": "https://cointelegraph.com/markets/near-sinks-7-proposal-cut-annual-token-issuance-passes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
     "source": "CryptoPotato",
     "title": "NEAR Governance Approves Major Supply Cut \u2013 But Token Slides 7%",
     "url": "https://cryptopotato.com/near-governance-approves-major-supply-cut-but-token-slides-7/"
@@ -35,23 +25,18 @@
     "url": "https://cryptoslate.com/bitcoin-lightning-fix-blocks-a-probe-linking-private-channels-to-onchain-funding/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Aave borrowers faced up to 36% APR while a freeze blocked fresh collateral",
-    "url": "https://cryptoslate.com/borrowers-faced-36-interest-rates-as-aave-froze-deposits-during-binance-hack/"
+    "source": "NewsBTC",
+    "title": "Hong Kong Launches Post-Quantum Preparation Toolkit for Banks",
+    "url": "https://www.newsbtc.com/news/hong-kong-launches-post-quantum-preparation-toolkit-for-banks/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "NYSE Adds Four Transfer Agents to Planned Tokenized Securities Venue",
+    "url": "https://www.newsbtc.com/news/nyse-adds-four-transfer-agents-to-planned-tokenized-securities-venue/"
   },
   {
     "source": "NewsBTC",
     "title": "Binance Adds More Withdrawal Routes on November 3 After Security Checks",
     "url": "https://www.newsbtc.com/news/binance-adds-more-withdrawal-routes-on-november-3-after-security-checks/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Onlend Unveils No-Code Infrastructure to Launch Custom Onchain Lending Apps",
-    "url": "https://www.newsbtc.com/news/onlend-unveils-no-code-infrastructure-to-launch-custom-onchain-lending-apps/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "MEXC Upgrades Futures Earn to Empower Retail Traders With a Clearer, More Intuitive Experience",
-    "url": "https://www.newsbtc.com/news/mexc-upgrades-futures-earn-to-empower-retail-traders-with-a-clearer-more-intuitive-experience/"
   }
 ]
