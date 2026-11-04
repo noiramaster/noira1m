@@ -1,8 +1,18 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
-    "url": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Democrats claim control of the US Senate",
+    "url": "https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Bitcoin Whipsaws After Democratic Sweep: BTC Reclaims $78K",
+    "url": "https://cryptopotato.com/bitcoin-whipsaws-after-democratic-sweep-btc-reclaims-78k/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "XRP Bull Eyes $5-$8 in 2027 Despite Short-Term Headwinds",
+    "url": "https://cryptopotato.com/xrp-bull-eyes-5-8-in-2027-despite-short-term-headwinds/"
   },
   {
     "source": "CryptoPotato",
@@ -15,14 +25,9 @@
     "url": "https://cryptoslate.com/binance-says-thinly-traded-tokens-are-delaying-full-replacement-of-stolen-assets/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Hong Kong bank pilot opens 24/7 cash settlement for tokenized fund deals",
-    "url": "https://cryptoslate.com/hong-kong-bank-pilot-opens-24-7-cash-settlement-for-tokenized-fund-deals/"
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Bitcoin Lightning fix blocks a probe linking private channels to onchain funding",
-    "url": "https://cryptoslate.com/bitcoin-lightning-fix-blocks-a-probe-linking-private-channels-to-onchain-funding/"
+    "source": "NewsBTC",
+    "title": "ECB Links Europe\u2019s T+1 Securities Transition to a Broader Settlement Overhaul",
+    "url": "https://www.newsbtc.com/news/ecb-links-europes-t-1-securities-transition-to-a-broader-settlement-overhaul/"
   },
   {
     "source": "NewsBTC",
@@ -33,10 +38,5 @@
     "source": "NewsBTC",
     "title": "NYSE Adds Four Transfer Agents to Planned Tokenized Securities Venue",
     "url": "https://www.newsbtc.com/news/nyse-adds-four-transfer-agents-to-planned-tokenized-securities-venue/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Binance Adds More Withdrawal Routes on November 3 After Security Checks",
-    "url": "https://www.newsbtc.com/news/binance-adds-more-withdrawal-routes-on-november-3-after-security-checks/"
   }
 ]
