@@ -1,6 +1,11 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+    "url": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
     "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -36,32 +41,32 @@
   },
   {
     "source": "CryptoSlate",
-    "title": "Nigeria tells dollar-stablecoin issuers: go local or lose retail access",
-    "url": "https://cryptoslate.com/nigeria-tells-dollar-stablecoin-issuers-go-local-or-lose-retail-access/"
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Coinbase\u2019s blockchain got faster. Some apps can still connect but get no data",
-    "url": "https://cryptoslate.com/coinbases-blockchain-got-faster-some-apps-can-still-connect-but-get-no-data/"
+    "title": "Binance CFO leaves the company to tokenize real assets",
+    "url": "https://cryptoslate.com/binance-cfo-leaves-the-company-to-tokenize-real-assets/"
   },
   {
     "source": "NewsBTC",
-    "title": "Stellar Foundation Backs Marketnode to Expand Tokenized Funds Across Asia-Pacific",
-    "url": "https://www.newsbtc.com/technology/stellar-foundation-backs-marketnode-to-expand-tokenized-funds-across-asia-pacific/"
+    "title": "EDX Markets Adds Bitcoin-Backed CBTC Trading for Canton Institutions",
+    "url": "https://www.newsbtc.com/news/edx-markets-adds-bitcoin-backed-cbtc-trading-for-canton-institutions/"
   },
   {
     "source": "NewsBTC",
-    "title": "TRON Network Integrates with Backpack Wallet, Expanding Access to Its Multichain Ecosystem",
-    "url": "https://www.newsbtc.com/news/tron-network-integrates-with-backpack-wallet-expanding-access-to-its-multichain-ecosystem/"
+    "title": "Schroders Emerging-Market Bond Strategy Moves Onto Solana Through Centrifuge",
+    "url": "https://www.newsbtc.com/news/schroders-emerging-market-bond-strategy-moves-onto-solana-through-centrifuge/"
   },
   {
     "source": "NewsBTC",
-    "title": "Trade Tokenized US Stocks on HTX! HTX Launches Tokenized US Stocks for Spot Trading, with Zero Fees to Kick Off the Trading Carnival",
-    "url": "https://www.newsbtc.com/news/trade-tokenized-us-stocks-on-htx-htx-launches-tokenized-us-stocks-for-spot-trading-with-zero-fees-to-kick-off-the-trading-carnival/"
+    "title": "Ondo Claims $4B in Tokenized Assets as RWA Market Gains Institutional Depth",
+    "url": "https://www.newsbtc.com/news/ondo-claims-4b-in-tokenized-assets-as-rwa-market-gains-institutional-depth/"
   },
   {
     "source": "NewsBTC",
-    "title": "World Liberty Financial Proposes WLFI Buybacks as Governance Token Comes Under Pressure",
-    "url": "https://www.newsbtc.com/news/defi/world-liberty-financial-proposes-wlfi-buybacks-as-governance-token-comes-under-pressure/"
+    "title": "Dinari Adds Broadridge Voting Rails to Tokenized US Shares",
+    "url": "https://www.newsbtc.com/news/dinari-adds-broadridge-voting-rails-to-tokenized-us-shares/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Canton Hosts Tokenized US Share Trade Under SEC Innovation Exemption",
+    "url": "https://www.newsbtc.com/news/canton-hosts-tokenized-us-share-trade-under-sec-innovation-exemption/"
   }
 ]
