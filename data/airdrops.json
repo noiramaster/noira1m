@@ -1,28 +1,18 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "Securitize agrees to buy River One to expand into asset-backed lending",
+    "url": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
     "url": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
-    "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-    "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "PNC Bank tests turning USDC payments into dollar deposits",
-    "url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Avalanche\u2019s AVAX leads crypto gains following NYSE tokenization deal",
-    "url": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "XRPL to Reset Testnet and Devnet on November 25, Wiping All On-Chain Data",
+    "url": "https://cryptopotato.com/xrpl-to-reset-testnet-and-devnet-on-november-25-wiping-all-on-chain-data/"
   },
   {
     "source": "CryptoPotato",
@@ -30,14 +20,14 @@
     "url": "https://cryptopotato.com/30-minutes-5-masked-men-and-2-million-in-crypto-evan-luthra-recounts-oxford-kidnapping/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "NYSE Picks Avalanche to Settle Tokenized Stock Trades on Planned 24/7 Venue",
-    "url": "https://cryptopotato.com/nyse-picks-avalanche-to-settle-tokenized-stock-trades-on-planned-24-7-venue/"
+    "source": "CryptoSlate",
+    "title": "Schwab adds Solana, Avalanche and Chainlink as crypto trading slows",
+    "url": "https://cryptoslate.com/schwab-adds-solana-avalanche-and-chainlink-as-crypto-trading-slows/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Bet25.com Launches Zero Margin Sportsbook to Eliminate Hidden House Edges",
-    "url": "https://cryptopotato.com/bet25-com-launches-zero-margin-sportsbook-to-eliminate-hidden-house-edges/"
+    "source": "CryptoSlate",
+    "title": "Google AI spots high blood pressure using ordinary watch sensors",
+    "url": "https://cryptoslate.com/google-ai-spots-high-blood-pressure-using-ordinary-watch-sensors/"
   },
   {
     "source": "CryptoSlate",
@@ -46,27 +36,17 @@
   },
   {
     "source": "NewsBTC",
+    "title": "Hyperliquid Strategies Reports 38.5M HYPE Treasury After $802M Deployment",
+    "url": "https://www.newsbtc.com/news/hyperliquid-strategies-reports-38-5m-hype-treasury-after-802m-deployment/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Lombard Systems Raises $4M to Make Tokenized Assets Easier to Borrow Against",
+    "url": "https://www.newsbtc.com/news/lombard-systems-raises-4m-to-make-tokenized-assets-easier-to-borrow-against/"
+  },
+  {
+    "source": "NewsBTC",
     "title": "EDX Markets Adds Bitcoin-Backed CBTC Trading for Canton Institutions",
     "url": "https://www.newsbtc.com/news/edx-markets-adds-bitcoin-backed-cbtc-trading-for-canton-institutions/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Schroders Emerging-Market Bond Strategy Moves Onto Solana Through Centrifuge",
-    "url": "https://www.newsbtc.com/news/schroders-emerging-market-bond-strategy-moves-onto-solana-through-centrifuge/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Ondo Claims $4B in Tokenized Assets as RWA Market Gains Institutional Depth",
-    "url": "https://www.newsbtc.com/news/ondo-claims-4b-in-tokenized-assets-as-rwa-market-gains-institutional-depth/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Dinari Adds Broadridge Voting Rails to Tokenized US Shares",
-    "url": "https://www.newsbtc.com/news/dinari-adds-broadridge-voting-rails-to-tokenized-us-shares/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Canton Hosts Tokenized US Share Trade Under SEC Innovation Exemption",
-    "url": "https://www.newsbtc.com/news/canton-hosts-tokenized-us-share-trade-under-sec-innovation-exemption/"
   }
 ]
