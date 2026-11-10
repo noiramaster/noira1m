@@ -1,5 +1,20 @@
 [
   {
+    "source": "CoinTelegraph",
+    "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+    "url": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Ava Labs exec says NYSE deal marks end of blockchain\u2019s \u2018general purpose era\u2019",
+    "url": "https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
+    "url": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
     "source": "CryptoPotato",
     "title": "Tom Lee: Ethereum\u2019s Stagnation Reflects Impatience, Not Weak Fundamentals",
     "url": "https://cryptopotato.com/tom-lee-ethereums-stagnation-reflects-impatience-not-weak-fundamentals/"
@@ -13,30 +28,5 @@
     "source": "CryptoPotato",
     "title": "This AI-Related Cryptocurrency Explodes to a New ATH: The Key Drivers and Next Targets",
     "url": "https://cryptopotato.com/this-ai-related-cryptocurrency-explodes-to-a-new-ath-the-key-drivers-and-next-targets/"
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Outpoll: Bridging Predictions, Trading, and Rewards",
-    "url": "https://cryptopotato.com/outpoll-bridging-predictions-trading-and-rewards/"
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Schwab adds Solana, Avalanche and Chainlink as crypto trading slows",
-    "url": "https://cryptoslate.com/schwab-adds-solana-avalanche-and-chainlink-as-crypto-trading-slows/"
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Google AI spots high blood pressure using ordinary watch sensors",
-    "url": "https://cryptoslate.com/google-ai-spots-high-blood-pressure-using-ordinary-watch-sensors/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Hyperliquid Strategies Reports 38.5M HYPE Treasury After $802M Deployment",
-    "url": "https://www.newsbtc.com/news/hyperliquid-strategies-reports-38-5m-hype-treasury-after-802m-deployment/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Lombard Systems Raises $4M to Make Tokenized Assets Easier to Borrow Against",
-    "url": "https://www.newsbtc.com/news/lombard-systems-raises-4m-to-make-tokenized-assets-easier-to-borrow-against/"
   }
 ]
