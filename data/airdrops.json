@@ -1,18 +1,8 @@
 [
   {
-    "source": "CoinTelegraph",
-    "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
-    "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
-    "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
     "source": "CryptoPotato",
-    "title": "Ripple (XRP) ETFs Turn One: The Good, the Bad, and the Ugly",
-    "url": "https://cryptopotato.com/ripple-xrp-etfs-turn-one-the-good-the-bad-and-the-ugly/"
+    "title": "DTCC Adds Solana to Wall Street Tokenization Plans, Targeting 2027",
+    "url": "https://cryptopotato.com/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027/"
   },
   {
     "source": "CryptoSlate",
@@ -26,6 +16,21 @@
   },
   {
     "source": "NewsBTC",
+    "title": "Three Central Banks Test a Bridge Between Traditional FX and Tokenized Settlement",
+    "url": "https://www.newsbtc.com/news/blockchain/central-banks-meridian-fx-apac-tokenized-settlement-test/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Kazakhstan Targets Tokenized Government Bonds After $22 Million Note Sale",
+    "url": "https://www.newsbtc.com/news/blockchain/kazakhstan-tokenized-government-bonds-q1-2027-notes/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Kava Lend Exploit Exposes a Dangerous Gap in DeFi Collateral Accounting",
+    "url": "https://www.newsbtc.com/news/defi/kava-lend-exploit-collateral-busd-market-55-million/"
+  },
+  {
+    "source": "NewsBTC",
     "title": "XRP Briefly Drops to $0.89 as Crypto Liquidity Retreats",
     "url": "https://www.newsbtc.com/xrp-news/xrp-falls-089-november-2026-market-liquidity/"
   },
@@ -33,15 +38,5 @@
     "source": "NewsBTC",
     "title": "Hyperscalers List GPUs at Nearly 2\u00d7 the GPU-Cloud Price, Fluence Research Finds",
     "url": "https://www.newsbtc.com/news/hyperscalers-list-gpus-at-nearly-2x-the-gpu-cloud-price-fluence-research-finds/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Sygnum Launches ETH Fund Targeting 8\u201310% Returns in Ether",
-    "url": "https://www.newsbtc.com/news/ethereum/sygnum-eth-alpha-fund-targets-8-10-percent-ether-returns/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Chainlink and Moody\u2019s Complete Testnet Pilot for Cross-Chain Credit Ratings",
-    "url": "https://www.newsbtc.com/news/chainlink/chainlink-moodys-testnet-pilot-cross-chain-credit-ratings/"
   }
 ]
