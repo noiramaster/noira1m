@@ -1,5 +1,10 @@
 [
   {
+    "source": "CoinTelegraph",
+    "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+    "url": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
     "source": "CryptoPotato",
     "title": "DTCC Adds Solana to Wall Street Tokenization Plans, Targeting 2027",
     "url": "https://cryptopotato.com/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027/"
@@ -16,6 +21,11 @@
   },
   {
     "source": "NewsBTC",
+    "title": "Meta\u2019s Internal Prediction App Uses Points, Not Cash \u2014 and That Distinction Matters",
+    "url": "https://www.newsbtc.com/business/meta-takes-prediction-app-employee-points-trial/"
+  },
+  {
+    "source": "NewsBTC",
     "title": "Three Central Banks Test a Bridge Between Traditional FX and Tokenized Settlement",
     "url": "https://www.newsbtc.com/news/blockchain/central-banks-meridian-fx-apac-tokenized-settlement-test/"
   },
@@ -23,20 +33,5 @@
     "source": "NewsBTC",
     "title": "Kazakhstan Targets Tokenized Government Bonds After $22 Million Note Sale",
     "url": "https://www.newsbtc.com/news/blockchain/kazakhstan-tokenized-government-bonds-q1-2027-notes/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Kava Lend Exploit Exposes a Dangerous Gap in DeFi Collateral Accounting",
-    "url": "https://www.newsbtc.com/news/defi/kava-lend-exploit-collateral-busd-market-55-million/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "XRP Briefly Drops to $0.89 as Crypto Liquidity Retreats",
-    "url": "https://www.newsbtc.com/xrp-news/xrp-falls-089-november-2026-market-liquidity/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Hyperscalers List GPUs at Nearly 2\u00d7 the GPU-Cloud Price, Fluence Research Finds",
-    "url": "https://www.newsbtc.com/news/hyperscalers-list-gpus-at-nearly-2x-the-gpu-cloud-price-fluence-research-finds/"
   }
 ]
