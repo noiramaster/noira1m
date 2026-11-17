@@ -1,8 +1,8 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "HKMA, Swift explore tokenized deposits for cross-border bank payments",
-    "url": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
+    "url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
@@ -10,13 +10,23 @@
     "url": "https://cryptopotato.com/ethereum-eth-crashed-26-in-a-month-can-whales-stop-the-free-fall/"
   },
   {
-    "source": "NewsBTC",
-    "title": "Retail Sales and Fed Minutes Put Bitcoin\u2019s Rate Outlook Back in Focus",
-    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-week-ahead-retail-sales-fed-minutes-november-2026/"
+    "source": "CryptoSlate",
+    "title": "XRP\u2019s proposed upgrade could improve trading without boosting token demand",
+    "url": "https://cryptoslate.com/xrps-proposed-upgrade-could-improve-trading-without-boosting-token-demand/"
   },
   {
     "source": "NewsBTC",
-    "title": "WBTC Expands Into Confidential DeFi, STRK Rewards and Institutional Lending",
-    "url": "https://www.newsbtc.com/news/wbtc-expands-into-confidential-defi-strk-rewards-and-institutional-lending/"
+    "title": "Hong Kong Reaffirms Year-End Crypto Licensing Bill as Tokenized Funds Expand",
+    "url": "https://www.newsbtc.com/regulation/hong-kong-chan-crypto-licensing-bill-tokenized-funds/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "DBS and JPMorgan Launch 24/7 Tokenized Dollar Transfers Across Borders",
+    "url": "https://www.newsbtc.com/news/blockchain/dbs-jpmorgan-tokenized-deposits-us-singapore-launch/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Retail Sales and Fed Minutes Put Bitcoin\u2019s Rate Outlook Back in Focus",
+    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-week-ahead-retail-sales-fed-minutes-november-2026/"
   }
 ]
