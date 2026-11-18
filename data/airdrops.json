@@ -1,13 +1,18 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
+    "url": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
     "url": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
-    "source": "CoinTelegraph",
-    "title": "Fed\u2019s Waller cites Binance hack in warning over tokenized finance",
-    "url": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "source": "CryptoPotato",
+    "title": "Ripple (XRP) Price Flashes Incredibly Rare Signals: is a Rebound Coming?",
+    "url": "https://cryptopotato.com/ripple-xrp-price-flashes-incredibly-rare-signals-is-a-rebound-coming/"
   },
   {
     "source": "CryptoPotato",
@@ -15,43 +20,33 @@
     "url": "https://cryptopotato.com/these-4-tokens-will-pump-before-the-ai-bubble-ends-arthur-hayes/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "PrimeXBT Launches Anthropic Pre-IPO Crypto Futures, Bringing New Trading Opportunities in AI",
-    "url": "https://cryptopotato.com/primexbt-launches-anthropic-pre-ipo-crypto-futures-bringing-new-trading-opportunities-in-ai/"
+    "source": "CryptoSlate",
+    "title": "Monument Bank puts \u00a3250M on Midnight, but hides strict bank rules",
+    "url": "https://cryptoslate.com/monument-bank-puts-250m-on-midnight-but-hides-strict-bank-rules/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Former SEC Chair Warns When the AI Boom Will Cause a Recession",
-    "url": "https://cryptopotato.com/former-sec-chair-warns-when-the-ai-boom-will-cause-a-recession/"
+    "source": "CryptoSlate",
+    "title": "CoinGecko secures Solana Foundation backing and eyes crypto trading",
+    "url": "https://cryptoslate.com/coingecko-secures-solana-foundation-backing-and-eyes-crypto-trading/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Xsolla ZK Introduces a Gas Token Designed to Let Digital Items Move Between Games and Players",
-    "url": "https://cryptopotato.com/xsolla-zk-introduces-a-gas-token-designed-to-let-digital-items-move-between-games-and-players/"
+    "source": "NewsBTC",
+    "title": "Aave App Launches on TRON, Bringing USDT Deposits to Mobile Users on Android and iOS",
+    "url": "https://www.newsbtc.com/news/aave-app-launches-on-tron-bringing-usdt-deposits-to-mobile-users-on-android-and-ios/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "US Senators Question SEC Tokenized-Stock Exemption Over Wallet Transfers and Investor Protection",
+    "url": "https://www.newsbtc.com/regulation/us-senators-question-sec-tokenized-stock-exemption-over-wallet-transfers-and-investor-protection/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Cypherpunk Reports 8,967 ZEC Mined as Zcash Treasury Nears 342,000 Tokens",
+    "url": "https://www.newsbtc.com/altcoins/cypherpunk-reports-8-967-zec-mined-as-zcash-treasury-nears-342-000-tokens/"
   },
   {
     "source": "NewsBTC",
     "title": "Bitmine Adds 7,653 ETH as Ethereum Treasury Climbs Above 6.08 Million Tokens",
     "url": "https://www.newsbtc.com/analysis/eth/bitmine-adds-7-653-eth-as-ethereum-treasury-climbs-above-6-08-million-tokens/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "CoW Swap Adds Native Solana Trading With Solver Auctions and a One-Year Volume-Fee Waiver",
-    "url": "https://www.newsbtc.com/news/solana/cow-swap-adds-native-solana-trading-with-solver-auctions-and-a-one-year-volume-fee-waiver/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "MoneyGram and Solflare Launch USDC Cash-Out at Participating Locations in 170-Plus Markets",
-    "url": "https://www.newsbtc.com/crypto-news/moneygram-and-solflare-launch-usdc-cash-out-at-participating-locations-in-170-plus-markets/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Solana Drops \u201cMainnet Beta\u201d Label as Foundation Introduces Protocol Version 1.0",
-    "url": "https://www.newsbtc.com/news/solana/solana-drops-mainnet-beta-label-as-foundation-introduces-protocol-version-1-0/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Cardano Foundation Seeks Nearly 25 Million ADA for 2027 Events With Token Price Below Budget Assumption",
-    "url": "https://www.newsbtc.com/altcoins/cardano-foundation-seeks-nearly-25-million-ada-for-2027-events-with-token-price-below-budget-assumption/"
   }
 ]
