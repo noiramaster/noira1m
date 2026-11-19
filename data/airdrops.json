@@ -1,28 +1,43 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
-    "url": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Anthropic shares open at $111.50, 34.3% above $83 IPO price",
+    "url": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CoinTelegraph",
-    "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
-    "url": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "GTA VI publisher racks up nearly 3x Nvidia\u2019s tokenized stock volume",
+    "url": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
+    "url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoSlate",
-    "title": "Aave App taps $91B Tron liquidity as it opens Android early access",
-    "url": "https://cryptoslate.com/aave-app-taps-91b-tron-liquidity-as-it-opens-android-early-access/"
+    "title": "Anthropic\u2019s crypto futures traded 25% above its $81 billion IPO price as Bitcoin slumped 22%",
+    "url": "https://cryptoslate.com/bitcoins-22-slump-fails-to-dampen-crypto-traders-bullish-bets-on-anthropics-81-billion-ipo/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Bitcoin launches Testnet5 and gives miners a real trial of four proposed fixes",
-    "url": "https://cryptoslate.com/bitcoin-launches-testnet5-and-gives-miners-a-real-trial-of-four-proposed-fixes/"
+    "source": "NewsBTC",
+    "title": "BingX Adds Anthropic Spot and Perpetual Futures Trading Following Nasdaq Debut",
+    "url": "https://www.newsbtc.com/news/bingx-adds-anthropic-spot-and-perpetual-futures-trading-following-nasdaq-debut/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Backpack\u2019s US approval could threaten offshore exchanges\u2019 grip on crypto futures trading",
-    "url": "https://cryptoslate.com/backpacks-us-approval-could-threaten-offshore-exchanges-grip-on-crypto-futures-trading/"
+    "source": "NewsBTC",
+    "title": "Pulsar Enables USDT Deposits on TRON, Expanding Access to Everyday Stablecoin Payments",
+    "url": "https://www.newsbtc.com/news/pulsar-enables-usdt-deposits-on-tron-expanding-access-to-everyday-stablecoin-payments/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "OmenX announces $2 million in funding from Informed Ventures and launches on-demand 30-second Bitcoin predictions",
+    "url": "https://www.newsbtc.com/news/omenx-announces-2-million-in-funding-from-informed-ventures-and-launches-on-demand-30-second-bitcoin-predictions/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "MEXC\u2019s Hacken-Audited November 2026 Proof of Reserves Shows Reserve Ratios Above 100% Across Major Assets",
+    "url": "https://www.newsbtc.com/news/mexcs-hacken-audited-november-2026-proof-of-reserves-shows-reserve-ratios-above-100-across-major-assets/"
   },
   {
     "source": "NewsBTC",
@@ -43,10 +58,5 @@
     "source": "NewsBTC",
     "title": "Cypherpunk Reports 8,967 ZEC Mined as Zcash Treasury Nears 342,000 Tokens",
     "url": "https://www.newsbtc.com/altcoins/cypherpunk-reports-8-967-zec-mined-as-zcash-treasury-nears-342-000-tokens/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Bitmine Adds 7,653 ETH as Ethereum Treasury Climbs Above 6.08 Million Tokens",
-    "url": "https://www.newsbtc.com/analysis/eth/bitmine-adds-7-653-eth-as-ethereum-treasury-climbs-above-6-08-million-tokens/"
   }
 ]
