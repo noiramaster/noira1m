@@ -1,23 +1,38 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+    "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+    "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
     "url": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
-    "title": "BC Game Launches 100 Million $BC Token Bonus Campaign Through Its Live-Market Crashx Game",
-    "url": "https://cryptopotato.com/bc-game-launches-100-million-bc-token-bonus-campaign-through-its-live-market-crashx-game/"
+    "title": "NVDA Tanks 10% as SEC Reportedly Launches Nvidia Investigation",
+    "url": "https://cryptopotato.com/nvda-tanks-10-as-sec-reportedly-launches-nvidia-investigation/"
   },
   {
     "source": "CryptoPotato",
-    "title": "Global Markets Turn Red: Bitcoin Crashes as Wall Street Loses Over 1,100 Dow Points",
-    "url": "https://cryptopotato.com/global-markets-turn-red-bitcoin-crashes-as-wall-street-loses-over-1100-dow-points/"
+    "title": "Coinbase Eyes 2027 Launch for In-House Prediction Markets as Trading Revenue Surges",
+    "url": "https://cryptopotato.com/coinbase-eyes-2027-launch-for-in-house-prediction-markets-as-trading-revenue-surges/"
   },
   {
     "source": "CryptoSlate",
-    "title": "Ethereum targets December Glamsterdam test despite 200 findings that could delay upgrade",
-    "url": "https://cryptoslate.com/ethereum-targets-december-glamsterdam-test-despite-200-findings-that-could-delay-upgrade/"
+    "title": "US spot Bitcoin ETFs are almost $1 billion short of a record monthly outflow at $3.5 billion",
+    "url": "https://cryptoslate.com/blackrock-leads-582-million-bitcoin-etf-exodus-as-november-withdrawals-approach-3-5-billion/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Banks Are Adopting Stablecoins: Here Is Why Crypto-Native Dollars Still Win on User Freedom",
+    "url": "https://www.newsbtc.com/news/banks-are-adopting-stablecoins-here-is-why-crypto-native-dollars-still-win-on-user-freedom/"
   },
   {
     "source": "NewsBTC",
@@ -53,10 +68,5 @@
     "source": "NewsBTC",
     "title": "US Senators Question SEC Tokenized-Stock Exemption Over Wallet Transfers and Investor Protection",
     "url": "https://www.newsbtc.com/regulation/us-senators-question-sec-tokenized-stock-exemption-over-wallet-transfers-and-investor-protection/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Cypherpunk Reports 8,967 ZEC Mined as Zcash Treasury Nears 342,000 Tokens",
-    "url": "https://www.newsbtc.com/altcoins/cypherpunk-reports-8-967-zec-mined-as-zcash-treasury-nears-342-000-tokens/"
   }
 ]
