@@ -1,33 +1,48 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "Billionaire Bill Ackman warns Fed will make a rate \u2018mistake\u2019 in December",
-    "url": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
+    "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CoinTelegraph",
-    "title": "Half of wallets on Trump\u2019s dinner list got tokens from non-US exchanges",
-    "url": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
+    "url": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CoinTelegraph",
-    "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
-    "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
-    "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "OKX, ICE launch 113 tokenized assets despite issuer objections",
+    "url": "https://cointelegraph.com/news/okxice-launch-113-tokenized-assets-objections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
-    "title": "Bitcoin Price Analysis: Is the Bottom In After BTC Reclaims $60K?",
-    "url": "https://cryptopotato.com/bitcoin-price-analysis-is-the-bottom-in-after-btc-reclaims-60k/"
+    "title": "Ripple Price Analysis: XRP Tests Key Resistance Following the Sell-Off",
+    "url": "https://cryptopotato.com/ripple-price-analysis-xrp-tests-key-resistance-following-the-sell-off/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Ethereum Price Analysis: ETH Rebounds 15% but This Level Must Be Reclaimed",
+    "url": "https://cryptopotato.com/ethereum-price-analysis-eth-rebounds-15-but-this-level-must-be-reclaimed/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "Armitage and Superform build a stock-strategy franchise on SuperformOS",
+    "url": "https://cryptopotato.com/armitage-and-superform-build-a-stock-strategy-franchise-on-superformos/"
   },
   {
     "source": "CryptoSlate",
-    "title": "AI banking agent scored 100% on its own tests then failed 92 of 97 real-world simulations",
-    "url": "https://cryptoslate.com/ai-banking-agent-scored-100-on-its-own-tests-then-failed-92-of-97-real-world-simulations/"
+    "title": "Monad faces $190 million insider token unlock larger than its market cap as MON hits record low",
+    "url": "https://cryptoslate.com/monad-faces-190-million-insider-token-unlock-larger-than-its-market-cap-as-mon-hits-record-low/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "MEXC Earn Plus Introduces Limited-Time Promotional APR of Up to 13% on USDT",
+    "url": "https://www.newsbtc.com/news/mexc-earn-plus-introduces-limited-time-promotional-apr-of-up-to-13-on-usdt/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Trump\u2019s Meme Coin Dinner Exposes a 94% Collapse in Holder Commitments",
+    "url": "https://www.newsbtc.com/meme-coins/trump-meme-coin-dinner-holder-value-down-94-percent/"
   },
   {
     "source": "NewsBTC",
@@ -63,15 +78,5 @@
     "source": "NewsBTC",
     "title": "WSDT introduces prop trading for crypto and tokenized US stocks",
     "url": "https://www.newsbtc.com/news/wsdt-introduces-prop-trading-for-crypto-and-tokenized-us-stocks/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Aave App Launches on TRON, Bringing USDT Deposits to Mobile Users on Android and iOS",
-    "url": "https://www.newsbtc.com/news/aave-app-launches-on-tron-bringing-usdt-deposits-to-mobile-users-on-android-and-ios/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "US Senators Question SEC Tokenized-Stock Exemption Over Wallet Transfers and Investor Protection",
-    "url": "https://www.newsbtc.com/regulation/us-senators-question-sec-tokenized-stock-exemption-over-wallet-transfers-and-investor-protection/"
   }
 ]
