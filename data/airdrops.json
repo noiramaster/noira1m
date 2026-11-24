@@ -1,6 +1,11 @@
 [
   {
     "source": "CoinTelegraph",
+    "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+    "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
     "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
     "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
@@ -8,11 +13,6 @@
     "source": "CoinTelegraph",
     "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
     "url": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "OKX, ICE launch 113 tokenized assets despite issuer objections",
-    "url": "https://cointelegraph.com/news/okxice-launch-113-tokenized-assets-objections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
@@ -25,14 +25,19 @@
     "url": "https://cryptopotato.com/ethereum-price-analysis-eth-rebounds-15-but-this-level-must-be-reclaimed/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Armitage and Superform build a stock-strategy franchise on SuperformOS",
-    "url": "https://cryptopotato.com/armitage-and-superform-build-a-stock-strategy-franchise-on-superformos/"
+    "source": "CryptoSlate",
+    "title": "Aave\u2019s USDC loans surge 36% to $2.6 billion as liquid collateral share plunges",
+    "url": "https://cryptoslate.com/aaves-usdc-loans-surge-36-to-2-6-billion-as-liquid-collateral-share-plunges/"
   },
   {
     "source": "CryptoSlate",
     "title": "Monad faces $190 million insider token unlock larger than its market cap as MON hits record low",
     "url": "https://cryptoslate.com/monad-faces-190-million-insider-token-unlock-larger-than-its-market-cap-as-mon-hits-record-low/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Solana Price Prediction 2030: Is $2,000 SOL Still on the Table After a 75% Crash?",
+    "url": "https://www.newsbtc.com/news/solana/solana-price-prediction-2030/"
   },
   {
     "source": "NewsBTC",
@@ -73,10 +78,5 @@
     "source": "NewsBTC",
     "title": "MEXC\u2019s Hacken-Audited November 2026 Proof of Reserves Shows Reserve Ratios Above 100% Across Major Assets",
     "url": "https://www.newsbtc.com/news/mexcs-hacken-audited-november-2026-proof-of-reserves-shows-reserve-ratios-above-100-across-major-assets/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "WSDT introduces prop trading for crypto and tokenized US stocks",
-    "url": "https://www.newsbtc.com/news/wsdt-introduces-prop-trading-for-crypto-and-tokenized-us-stocks/"
   }
 ]
