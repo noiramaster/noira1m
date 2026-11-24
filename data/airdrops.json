@@ -1,28 +1,13 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
-    "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
-    "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
-    "url": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
+    "url": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
-    "title": "Ripple Price Analysis: XRP Tests Key Resistance Following the Sell-Off",
-    "url": "https://cryptopotato.com/ripple-price-analysis-xrp-tests-key-resistance-following-the-sell-off/"
-  },
-  {
-    "source": "CryptoPotato",
-    "title": "Ethereum Price Analysis: ETH Rebounds 15% but This Level Must Be Reclaimed",
-    "url": "https://cryptopotato.com/ethereum-price-analysis-eth-rebounds-15-but-this-level-must-be-reclaimed/"
+    "title": "Visa Launches AI Agent Wallet That Lets US Users Earn OUSD for Paid Tasks",
+    "url": "https://cryptopotato.com/visa-launches-ai-agent-wallet-that-lets-us-users-earn-ousd-for-paid-tasks/"
   },
   {
     "source": "CryptoSlate",
@@ -30,9 +15,24 @@
     "url": "https://cryptoslate.com/aaves-usdc-loans-surge-36-to-2-6-billion-as-liquid-collateral-share-plunges/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Monad faces $190 million insider token unlock larger than its market cap as MON hits record low",
-    "url": "https://cryptoslate.com/monad-faces-190-million-insider-token-unlock-larger-than-its-market-cap-as-mon-hits-record-low/"
+    "source": "NewsBTC",
+    "title": "BlackRock Launches Hong Kong Tokenized Fund With A HK$10 Entry Point",
+    "url": "https://www.newsbtc.com/crypto-news/blackrock-tokenized-fund-hong-kong-stablecoin/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "MEXC Releases September\u2013October Security Report: Guardian Fund Adds 1,000 BTC, Reserve Ratios Exceed 100%",
+    "url": "https://www.newsbtc.com/news/mexc-releases-september-october-security-report-guardian-fund-adds-1000-btc-reserve-ratios-exceed-100/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Binance Hack: US Moves to Recover $1.1 Billion, but Who Gets the Money?",
+    "url": "https://www.newsbtc.com/crypto-news/binance-hack-us-1-billion-recovery/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Bitcoin Reserves Just Found a New Use on Wall Street, but There\u2019s a Catch",
+    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-reserves-wall-street/"
   },
   {
     "source": "NewsBTC",
@@ -53,30 +53,5 @@
     "source": "NewsBTC",
     "title": "Fusionist ACE Bridge Exploit: $5.7M Loss Estimate, Bithumb Freezes Trading",
     "url": "https://www.newsbtc.com/news/fusionist-ace-bridge-exploit-5-7m-loss-estimate-bithumb-freezes-trading/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Banks Are Adopting Stablecoins: Here Is Why Crypto-Native Dollars Still Win on User Freedom",
-    "url": "https://www.newsbtc.com/news/banks-are-adopting-stablecoins-here-is-why-crypto-native-dollars-still-win-on-user-freedom/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "BingX Adds Anthropic Spot and Perpetual Futures Trading Following Nasdaq Debut",
-    "url": "https://www.newsbtc.com/news/bingx-adds-anthropic-spot-and-perpetual-futures-trading-following-nasdaq-debut/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Pulsar Enables USDT Deposits on TRON, Expanding Access to Everyday Stablecoin Payments",
-    "url": "https://www.newsbtc.com/news/pulsar-enables-usdt-deposits-on-tron-expanding-access-to-everyday-stablecoin-payments/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "OmenX announces $2 million in funding from Informed Ventures and launches on-demand 30-second Bitcoin predictions",
-    "url": "https://www.newsbtc.com/news/omenx-announces-2-million-in-funding-from-informed-ventures-and-launches-on-demand-30-second-bitcoin-predictions/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "MEXC\u2019s Hacken-Audited November 2026 Proof of Reserves Shows Reserve Ratios Above 100% Across Major Assets",
-    "url": "https://www.newsbtc.com/news/mexcs-hacken-audited-november-2026-proof-of-reserves-shows-reserve-ratios-above-100-across-major-assets/"
   }
 ]
