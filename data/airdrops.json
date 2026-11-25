@@ -1,18 +1,43 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
-    "url": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "CFTC sets new prediction market rules as more firms seek US entry",
+    "url": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
+    "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
-    "title": "Visa Launches AI Agent Wallet That Lets US Users Earn OUSD for Paid Tasks",
-    "url": "https://cryptopotato.com/visa-launches-ai-agent-wallet-that-lets-us-users-earn-ousd-for-paid-tasks/"
+    "title": "Pump and Uniswap Dominate 2026 Token Listings, Accounting for 83.6% of the Total",
+    "url": "https://cryptopotato.com/pump-and-uniswap-dominate-2026-token-listings-accounting-for-83-6-of-the-total/"
+  },
+  {
+    "source": "CryptoPotato",
+    "title": "These 5 Tokens Beat Bitcoin Amid AI-Driven Market Rout",
+    "url": "https://cryptopotato.com/these-5-tokens-beat-bitcoin-amid-ai-driven-market-rout/"
   },
   {
     "source": "CryptoSlate",
-    "title": "Aave\u2019s USDC loans surge 36% to $2.6 billion as liquid collateral share plunges",
-    "url": "https://cryptoslate.com/aaves-usdc-loans-surge-36-to-2-6-billion-as-liquid-collateral-share-plunges/"
+    "title": "Ansem claims wallet hack after an 87 million ANSEM token dump, but on-chain data raises questions",
+    "url": "https://cryptoslate.com/ansem-claims-wallet-hack-after-a-87-million-ansem-token-dump-but-on-chain-data-raises-questions/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "US moves to seize $1.1 billion from Binance hackers without accessing their wallets",
+    "url": "https://cryptoslate.com/us-moves-to-seize-1-1-billion-from-binance-hackers-without-accessing-their-wallets/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Prop Firm Payouts Near $2 Billion: 10 Best Prop Firms In 2026",
+    "url": "https://www.newsbtc.com/trade/best-prop-firms/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Microsoft\u2019s \u2018Code Red\u2019 Exposes Crypto\u2019s Own Cloud Problem",
+    "url": "https://www.newsbtc.com/market-news/microsoft-code-red-crypto-cloud-problem/"
   },
   {
     "source": "NewsBTC",
@@ -48,10 +73,5 @@
     "source": "NewsBTC",
     "title": "Trump\u2019s Meme Coin Dinner Exposes a 94% Collapse in Holder Commitments",
     "url": "https://www.newsbtc.com/meme-coins/trump-meme-coin-dinner-holder-value-down-94-percent/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Fusionist ACE Bridge Exploit: $5.7M Loss Estimate, Bithumb Freezes Trading",
-    "url": "https://www.newsbtc.com/news/fusionist-ace-bridge-exploit-5-7m-loss-estimate-bithumb-freezes-trading/"
   }
 ]
