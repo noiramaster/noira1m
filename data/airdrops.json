@@ -1,23 +1,28 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "South Korea\u2019s crypto bill could move stablecoin race beyond token issuance",
-    "url": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Japan\u2019s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+    "url": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CoinTelegraph",
-    "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
-    "url": "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
+    "url": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
-    "title": "Pump and Uniswap Dominate 2026 Token Listings, Accounting for 83.6% of the Total",
-    "url": "https://cryptopotato.com/pump-and-uniswap-dominate-2026-token-listings-accounting-for-83-6-of-the-total/"
+    "title": "4.61 Billion XRP Hit Exchanges in 30 Days, But Inflows Are Slowing",
+    "url": "https://cryptopotato.com/4-61-billion-xrp-hit-exchanges-in-30-days-but-inflows-are-slowing/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "These 5 Tokens Beat Bitcoin Amid AI-Driven Market Rout",
-    "url": "https://cryptopotato.com/these-5-tokens-beat-bitcoin-amid-ai-driven-market-rout/"
+    "source": "CryptoSlate",
+    "title": "Sky\u2019s withdrawal crisis tests confidence as its stablecoin supply shrinks by nearly $6 billion",
+    "url": "https://cryptoslate.com/skys-withdrawal-crisis-tests-confidence-as-its-stablecoin-supply-shrinks-by-nearly-6-billion/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Aave\u2019s $6 million tokenized bond market exposes a mismatch between DeFi and traditional finance",
+    "url": "https://cryptoslate.com/aaves-6-million-tokenized-bond-market-exposes-a-mismatch-between-defi-and-traditional-finance/"
   },
   {
     "source": "CryptoSlate",
@@ -25,9 +30,9 @@
     "url": "https://cryptoslate.com/okxs-24-7-stock-trading-launch-saw-just-7-of-first-day-volume-come-from-customers/"
   },
   {
-    "source": "CryptoSlate",
-    "title": "Ansem claims wallet hack after an 87 million ANSEM token dump, but on-chain data raises questions",
-    "url": "https://cryptoslate.com/ansem-claims-wallet-hack-after-a-87-million-ansem-token-dump-but-on-chain-data-raises-questions/"
+    "source": "NewsBTC",
+    "title": "HyroTrader Adds Hyro Core From $9 and No-Evaluation Hyro Instant to Rebuilt Crypto Prop Platform",
+    "url": "https://www.newsbtc.com/news/hyrotrader-adds-hyro-core-from-9-and-no-evaluation-hyro-instant-to-rebuilt-crypto-prop-platform-2/"
   },
   {
     "source": "NewsBTC",
@@ -63,10 +68,5 @@
     "source": "NewsBTC",
     "title": "Solana Price Prediction 2030: Is $2,000 SOL Still on the Table After a 75% Crash?",
     "url": "https://www.newsbtc.com/news/solana/solana-price-prediction-2030/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "MEXC Earn Plus Introduces Limited-Time Promotional APR of Up to 13% on USDT",
-    "url": "https://www.newsbtc.com/news/mexc-earn-plus-introduces-limited-time-promotional-apr-of-up-to-13-on-usdt/"
   }
 ]
