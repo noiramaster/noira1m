@@ -1,23 +1,43 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
-    "url": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+    "url": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+    "source": "CoinTelegraph",
+    "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
+    "url": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
-    "title": "Moscow Exchange Set to Launch Bitcoin, Ethereum, and USDT Trading",
-    "url": "https://cryptopotato.com/moscow-exchange-set-to-launch-bitcoin-ethereum-and-usdt-trading/"
+    "title": "Ripple Price Analysis: Can XRP Break Above $1.00 as a Bullish Reversal Pattern Forms?",
+    "url": "https://cryptopotato.com/ripple-price-analysis-can-xrp-break-above-1-00-as-a-bullish-reversal-pattern-forms/"
   },
   {
     "source": "CryptoPotato",
-    "title": "Influencer Token Risks Return to Focus After ANSEM Wallet Incident",
-    "url": "https://cryptopotato.com/influencer-token-risks-return-to-focus-after-ansem-wallet-incident/"
+    "title": "Toobit Appoints Yasser Elmansy as Chief Growth Officer",
+    "url": "https://cryptopotato.com/toobit-appoints-yasser-elmansy-as-chief-growth-officer/"
   },
   {
     "source": "CryptoSlate",
-    "title": "Lido tightens Ethereum staking penalties as operators gain access to larger validators",
-    "url": "https://cryptoslate.com/lido-tightens-ethereum-staking-penalties-as-operators-gain-access-to-larger-validators/"
+    "title": "The portfolio risk Toobit\u2019s growth chief wants AI to flag before a trade",
+    "url": "https://cryptoslate.com/yasser-elmansy-ai-crypto-portfolio-risk/"
+  },
+  {
+    "source": "CryptoSlate",
+    "title": "Crypto bridge hacks can spread losses far beyond the assets they compromise",
+    "url": "https://cryptoslate.com/crypto-bridge-hacks-can-spread-losses-far-beyond-the-assets-they-compromise/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "PEPE Whales Are Sitting On $21 Million In Tokens, And One Wallet Keeps Getting Bigger",
+    "url": "https://www.newsbtc.com/altcoin-news/pepe-whales-21-million-accumulation/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Zcash Whale Wakes Up After 9 Years, Moves $11.39 Million To Kraken",
+    "url": "https://www.newsbtc.com/altcoin-news/zcash-whale-kraken-nine-years/"
   },
   {
     "source": "NewsBTC",
@@ -48,20 +68,5 @@
     "source": "NewsBTC",
     "title": "HyroTrader Adds Hyro Core From $9 and No-Evaluation Hyro Instant to Rebuilt Crypto Prop Platform",
     "url": "https://www.newsbtc.com/news/hyrotrader-adds-hyro-core-from-9-and-no-evaluation-hyro-instant-to-rebuilt-crypto-prop-platform-2/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Prop Firm Payouts Near $2 Billion: 10 Best Prop Firms In 2026",
-    "url": "https://www.newsbtc.com/trade/best-prop-firms/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Microsoft\u2019s \u2018Code Red\u2019 Exposes Crypto\u2019s Own Cloud Problem",
-    "url": "https://www.newsbtc.com/market-news/microsoft-code-red-crypto-cloud-problem/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "BlackRock Launches Hong Kong Tokenized Fund With A HK$10 Entry Point",
-    "url": "https://www.newsbtc.com/crypto-news/blackrock-tokenized-fund-hong-kong-stablecoin/"
   }
 ]
