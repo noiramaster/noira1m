@@ -1,18 +1,8 @@
 [
   {
     "source": "CoinTelegraph",
-    "title": "BNB Chain details new layer-1 for trading, private finance and AI",
-    "url": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "UK is \u2018getting it wrong\u2019 on DeFi regulation, says Coinbase",
-    "url": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-    "source": "CoinTelegraph",
-    "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
-    "url": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "title": "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
+    "url": "https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
     "source": "CryptoPotato",
@@ -20,14 +10,24 @@
     "url": "https://cryptopotato.com/pump-fun-wants-to-make-token-launches-fairer-its-new-fee-targets-block0-buyers/"
   },
   {
-    "source": "CryptoPotato",
-    "title": "Ripple Price Analysis: Can XRP Break Above $1.00 as a Bullish Reversal Pattern Forms?",
-    "url": "https://cryptopotato.com/ripple-price-analysis-can-xrp-break-above-1-00-as-a-bullish-reversal-pattern-forms/"
-  },
-  {
     "source": "CryptoSlate",
     "title": "Chainlink jumps 10% as its Wall Street ambitions gain momentum on two fronts",
     "url": "https://cryptoslate.com/chainlink-jumps-10-as-its-wall-street-ambitions-gain-momentum-on-two-fronts/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "MEXC Launches Golden Gratitude Gala With a 10M USDT Prize Pool, Including a Gold Bar and BTC",
+    "url": "https://www.newsbtc.com/news/mexc-launches-golden-gratitude-gala-with-a-10m-usdt-prize-pool-including-a-gold-bar-and-btc/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Zcash Developers Race to Secure Crypto. Can Quantum Computing Break Bitcoin?",
+    "url": "https://www.newsbtc.com/crypto-news/quantum-computing-crypto/"
+  },
+  {
+    "source": "NewsBTC",
+    "title": "Ethereum\u2019s Co-Founder Takes On Crypto\u2019s Next Security Threat. Who Is Vitalik Buterin?",
+    "url": "https://www.newsbtc.com/news/ethereum/who-is-vitalik-buterin/"
   },
   {
     "source": "NewsBTC",
@@ -53,20 +53,5 @@
     "source": "NewsBTC",
     "title": "Bitcoin Mining Difficulty Faces a 9% Jump at the Worst Possible Time for Miners",
     "url": "https://www.newsbtc.com/bitcoin-mining/bitcoin-mining-difficulty-9-percent-jump/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Bitcoin\u2019s Recovery Faces a New Warning After $2 Billion in ETF Outflows",
-    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-recovery-etf-outflows-warning/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "Fidelity Files for Chainlink ETF. What Does It Mean for LINK?",
-    "url": "https://www.newsbtc.com/altcoin-news/fidelity-chainlink-etf-filing-investor-demand/"
-  },
-  {
-    "source": "NewsBTC",
-    "title": "HyroTrader Adds Hyro Core From $9 and No-Evaluation Hyro Instant to Rebuilt Crypto Prop Platform",
-    "url": "https://www.newsbtc.com/news/hyrotrader-adds-hyro-core-from-9-and-no-evaluation-hyro-instant-to-rebuilt-crypto-prop-platform-2/"
   }
 ]
